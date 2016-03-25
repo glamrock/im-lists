@@ -1,0 +1,3051 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lang_conf" type="double" />
+      <attribute id="1" title="language" type="string" />
+    </attributes>
+    <nodes>
+      <node id="twitter.com/AppleMusic/status/633524488672514049/photo/1" label="twitter.com/AppleMusic/status/633524488672514049/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=com.facebook.orca" label="play.google.com/store/apps/details?id=com.facebook.orca">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="t.co/2cDfnCsLOh" label="t.co/2cDfnCsLOh" />
+      <node id="amisport.com.ua/shop/dlja-zhenshhin/obuv" label="amisport.com.ua/shop/dlja-zhenshhin/obuv">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.malwarebytes.org/malvertising-2/2015/10/angler-exploit-kit-blasts-daily-mail-visitors-via-malvertising" label="blog.malwarebytes.org/malvertising-2/2015/10/angler-exploit-kit-blasts-daily-mail-visitors-via-malvertising">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/brand_vld" label="instagram.com/brand_vld">
+        <attvalues>
+          <attvalue for="0" value="0.999999998786" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/warhammer-40-000-freeblade/id1043640363?mt=8" label="itunes.apple.com/us/app/warhammer-40-000-freeblade/id1043640363?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674373394301911041/photo/1" label="twitter.com/AppStore/status/674373394301911041/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/xakep_mag" label="m.vk.com/xakep_mag">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="flickr.com/photos/farusantos" label="flickr.com/photos/farusantos">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="torproject.org" label="torproject.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/id454638411" label="itunes.apple.com/app/id454638411">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/utemplate" label="m.vk.com/utemplate">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/windowsforbusiness/default.aspx" label="microsoft.com/en-us/windowsforbusiness/default.aspx">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/185f3fa5-c5fc-4a3e-b7ab-e12fc8812a8f" label="amp.twimg.com/v/185f3fa5-c5fc-4a3e-b7ab-e12fc8812a8f">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/mafia-watch/id1031095702?app=itunes&amp;mt=8" label="itunes.apple.com/app/mafia-watch/id1031095702?app=itunes&amp;mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/1bae3654-5c32-40b0-a9d7-4e5499c613a9" label="amp.twimg.com/v/1bae3654-5c32-40b0-a9d7-4e5499c613a9">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="e.mail.ru/login" label="e.mail.ru/login">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675563498814898177/photo/1" label="twitter.com/XakepRU/status/675563498814898177/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="calendar.mail.ru/login?page=%2F" label="calendar.mail.ru/login?page=%2F">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/upartner.pro" label="facebook.com/upartner.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="github.com/orbweb/PHP-SHELL-WSO" label="github.com/orbweb/PHP-SHELL-WSO">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pogoda.mail.ru/prognoz/boston?from=odnoklassniki" label="pogoda.mail.ru/prognoz/boston?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/YK5SH4NNq1" label="t.co/YK5SH4NNq1" />
+      <node id="twitter.com/iTunes" label="twitter.com/iTunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru?from=odnoklassniki" label="top.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main" label="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="yaca.yandex.ru/yca/cy/ch/www.igra35.ru" label="yaca.yandex.ru/yca/cy/ch/www.igra35.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-muzhchin/obuv" label="amisport.com.ua/shop/dlja-muzhchin/obuv">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru" label="hotlog.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="securelist.com/blog/opinions/72993/stepping-out-of-the-dark-hashcat-went-opensource" label="securelist.com/blog/opinions/72993/stepping-out-of-the-dark-hashcat-went-opensource">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/15/google-vs-symantec-cert" label="xakep.ru/2015/12/15/google-vs-symantec-cert">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="chats.viber.com/uwebmaster" label="chats.viber.com/uwebmaster">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/15/playstation-4-jailbroken" label="xakep.ru/2015/12/15/playstation-4-jailbroken">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="allbest.ru/union" label="allbest.ru/union">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/amisport.com.ua?ref_type=bookmark" label="facebook.com/amisport.com.ua?ref_type=bookmark">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/hashcat/status/672773076325670912" label="twitter.com/hashcat/status/672773076325670912">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="sans.org/reading-room/whitepapers/auditing/red-teaming-art-ethical-hacking-1272" label="sans.org/reading-room/whitepapers/auditing/red-teaming-art-ethical-hacking-1272" />
+      <node id="tv.mail.ru?from=odnoklassniki" label="tv.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="developer.joomla.org/security-centre/630-20151214-core-remote-code-execution-vulnerability.html" label="developer.joomla.org/security-centre/630-20151214-core-remote-code-execution-vulnerability.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-muzhchin/krossovki" label="amisport.com.ua/shop/dlja-muzhchin/krossovki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/umake/id1042246861?mt=8" label="itunes.apple.com/us/app/umake/id1042246861?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675578681541206016/photo/1" label="twitter.com/XakepRU/status/675578681541206016/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/artist/bea-miller/id706171903?linkId=15679246" label="itunes.apple.com/us/artist/bea-miller/id706171903?linkId=15679246">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/15/twitter-warnings" label="xakep.ru/2015/12/15/twitter-warnings">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="manual.ucoz.net" label="manual.ucoz.net">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua" label="amisport.com.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/12/hashcat-goes-open-source" label="xakep.ru/2015/12/12/hashcat-goes-open-source">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x419" label="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x419">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="uguide.ru/kak-sozdat-svoj-sajt" label="uguide.ru/kak-sozdat-svoj-sajt">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="passport.webmoney.ru/asp/certview.asp?wmid=137324187753" label="passport.webmoney.ru/asp/certview.asp?wmid=137324187753">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=ru.gameland.xakep" label="play.google.com/store/apps/details?id=ru.gameland.xakep">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="luciashandmade.blogspot.ru" label="luciashandmade.blogspot.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/a7fef797-e271-4087-be6e-0188b37afcbc" label="amp.twimg.com/v/a7fef797-e271-4087-be6e-0188b37afcbc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="googleonlinesecurity.blogspot.ru/2012/06/security-warnings-for-suspected-state.html" label="googleonlinesecurity.blogspot.ru/2012/06/security-warnings-for-suspected-state.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/667341659554881536/photo/1" label="twitter.com/ucoz_ru/status/667341659554881536/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="health.mail.ru?from=odnoklassniki" label="health.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru/updates/seo_originals" label="blog.ucoz.ru/updates/seo_originals">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/gameto4ka" label="m.vk.com/gameto4ka">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dobro.mail.ru" label="dobro.mail.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="onlycoin.com" label="onlycoin.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru" label="twitter.com/ucoz_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Science-Pedagogics/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Science-Pedagogics/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pastebin.com/e25zxcn6" label="pastebin.com/e25zxcn6">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/album/a-head-full-of-dreams/id1053933969?app=itunes&amp;ign-mpt=uo%3D4" label="itunes.apple.com/us/album/a-head-full-of-dreams/id1053933969?app=itunes&amp;ign-mpt=uo%3D4">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="fond-rd.ru" label="fond-rd.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ucoztemplates.com" label="ucoztemplates.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes/status/622816930802606081/photo/1" label="twitter.com/iTunes/status/622816930802606081/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/channel/UCyXreFWWJyzrYOEy17XhOUQ" label="youtube.com/channel/UCyXreFWWJyzrYOEy17XhOUQ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/artist/tim-mcgraw/id3496236?app=itunes" label="itunes.apple.com/us/artist/tim-mcgraw/id3496236?app=itunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ucoz.ru/qa" label="ucoz.ru/qa">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/113729211146971232528/posts" label="plus.google.com/113729211146971232528/posts">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?app=music&amp;at=11lEW&amp;ct=oj78qh%7Ctwitter.com&amp;path=music%2Ffestival" label="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?app=music&amp;at=11lEW&amp;ct=oj78qh%7Ctwitter.com&amp;path=music%2Ffestival">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="jemand.ru" label="jemand.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/667704050260049921/photo/1" label="twitter.com/ucoz_ru/status/667704050260049921/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/en-us/store/terms-of-service" label="windowsphone.com/en-us/store/terms-of-service">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/66c1be98-2d21-4e9e-9296-854480b387b3" label="amp.twimg.com/v/66c1be98-2d21-4e9e-9296-854480b387b3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="utemplate.pro/shop/570/desc/photorama" label="utemplate.pro/shop/570/desc/photorama">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/id276317260" label="m.vk.com/id276317260">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="igra35.ru" label="igra35.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uid.me?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" label="uid.me?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="auto.mail.ru?from=odnoklassniki" label="auto.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="arsaman.ru" label="arsaman.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="realty.mail.ru?from=odnoklassniki" label="realty.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/drdre/status/627195100221706240/video/1" label="twitter.com/drdre/status/627195100221706240/video/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="imgur.com/r5tjSSO" label="imgur.com/r5tjSSO">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/coldplay/status/662550754419322880/photo/1" label="twitter.com/coldplay/status/662550754419322880/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/5b250db8-3f5c-43a1-b9af-b4e535107be3" label="amp.twimg.com/v/5b250db8-3f5c-43a1-b9af-b4e535107be3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="about.me/pavelkudinov7" label="about.me/pavelkudinov7">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674748622475522048/photo/1" label="twitter.com/AppStore/status/674748622475522048/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="intester.com" label="intester.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ucoz.ru/all" label="ucoz.ru/all">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blogs.sophos.com/2015/07/21/a-closer-look-at-the-angler-exploit-kit" label="blogs.sophos.com/2015/07/21/a-closer-look-at-the-angler-exploit-kit">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/676566282813095936/photo/1" label="twitter.com/AppStore/status/676566282813095936/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/Disturbed/status/632197843172757505/photo/1" label="twitter.com/Disturbed/status/632197843172757505/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="monsterhighdolls.ru" label="monsterhighdolls.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ossetiashop.ru" label="ossetiashop.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675593611849932800/photo/1" label="twitter.com/XakepRU/status/675593611849932800/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="spice108.ru" label="spice108.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/UT3t63zGa9" label="t.co/UT3t63zGa9" />
+      <node id="ghostbin.com/paste/ucsf3" label="ghostbin.com/paste/ucsf3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore" label="twitter.com/AppStore">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=apps%2FBestof2015" label="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=apps%2FBestof2015">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/group/54913425342485" label="ok.ru/group/54913425342485">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/671327979339911169/photo/1" label="twitter.com/ucoz_ru/status/671327979339911169/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/+AndroidDevelopers" label="plus.google.com/+AndroidDevelopers">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2106935&amp;stat=0&amp;theme=604%2F640&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2106935&amp;stat=0&amp;theme=604%2F640&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="glc.ru" label="glc.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/666979519035793408/photo/1" label="twitter.com/ucoz_ru/status/666979519035793408/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ygoltsev" label="twitter.com/ygoltsev">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/group/54819438723093" label="ok.ru/group/54819438723093">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/policies?ref=pf" label="facebook.com/policies?ref=pf">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="livemaster.ru/mamamasha" label="livemaster.ru/mamamasha">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ugarts.pro/load/decorations/calendar_style/5-1-0-76" label="ugarts.pro/load/decorations/calendar_style/5-1-0-76">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ucoz.ru/about" label="ucoz.ru/about">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="tuningauto.ru" label="tuningauto.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="news.mail.ru?from=odnoklassniki" label="news.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676650723917082624/photo/1" label="twitter.com/XakepRU/status/676650723917082624/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="googleonlinesecurity.blogspot.ro/2015/12/proactive-measures-in-digital.html" label="googleonlinesecurity.blogspot.ro/2015/12/proactive-measures-in-digital.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1480758&amp;stat=0&amp;theme=448%2F451&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1480758&amp;stat=0&amp;theme=448%2F451&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="trendymag.ru" label="trendymag.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ucoz.ru" label="ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="flickr.com/photos/anon617" label="flickr.com/photos/anon617">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/ukitcom_ru" label="instagram.com/ukitcom_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ublackfriday.ru" label="ublackfriday.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uid.me/pavel_kudinov" label="uid.me/pavel_kudinov">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="steamcommunity.com/tradingcards" label="steamcommunity.com/tradingcards">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="odnoklassniki.ru/group/51890324701356" label="odnoklassniki.ru/group/51890324701356">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-zhenshhin/odezhda" label="amisport.com.ua/shop/dlja-zhenshhin/odezhda">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="efo-team.com" label="efo-team.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/artist/disturbed/id156807?app=itunes" label="itunes.apple.com/us/artist/disturbed/id156807?app=itunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ajw.asahi.com/article/behind_news/social_affairs/AJ201512110064" label="ajw.asahi.com/article/behind_news/social_affairs/AJ201512110064">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="homeboutiqueblog.blogspot.ru" label="homeboutiqueblog.blogspot.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Polish" />
+        </attvalues>
+      </node>
+      <node id="pasted.co/4edde763" label="pasted.co/4edde763">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="peskomment.ru" label="peskomment.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/apple-flaws-count" label="xakep.ru/2015/12/11/apple-flaws-count">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/wall-28741529_46403" label="m.vk.com/wall-28741529_46403">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/upartner_pro" label="twitter.com/upartner_pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="iana.org/domains/root/servers" label="iana.org/domains/root/servers">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/TheTimMcGraw/status/660108120904097792/video/1" label="twitter.com/TheTimMcGraw/status/660108120904097792/video/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pasted.co/82529a35" label="pasted.co/82529a35">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStoreGames/status/639467448396189696/photo/1" label="twitter.com/AppStoreGames/status/639467448396189696/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gta-action.ru" label="gta-action.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?path=YACHT" label="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?path=YACHT">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="android-developers.blogspot.com" label="android-developers.blogspot.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/kudinovpavel" label="m.vk.com/kudinovpavel">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="metrika.yandex.ru/dashboard?from=informer&amp;id=18382762" label="metrika.yandex.ru/dashboard?from=informer&amp;id=18382762">
+        <attvalues>
+          <attvalue for="0" value="0.999999999971" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="github.com/ikreymer/netcapsule" label="github.com/ikreymer/netcapsule">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/13/oldweb-today" label="xakep.ru/2015/12/13/oldweb-today">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="love.mail.ru/en?from=odnoklassniki" label="love.mail.ru/en?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="go.mail.ru?from=odnoklassniki" label="go.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/gb/app/prune/id972319818?mt=8" label="itunes.apple.com/gb/app/prune/id972319818?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="upartner.pro" label="upartner.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676756500438646784/photo/1" label="twitter.com/XakepRU/status/676756500438646784/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/uTemplate_pro" label="twitter.com/uTemplate_pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/periscope/id972909677?mt=8" label="itunes.apple.com/us/app/periscope/id972909677?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="t.co/7S4oX1oLOn" label="t.co/7S4oX1oLOn" />
+      <node id="twitter.com/XakepRU/status/675321770413580288/photo/1" label="twitter.com/XakepRU/status/675321770413580288/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="forum.totaldvd.ru" label="forum.totaldvd.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uTemplate.pro" label="uTemplate.pro" />
+      <node id="twitter.com/AndroidDev" label="twitter.com/AndroidDev">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674995836539932673/photo/1" label="twitter.com/AppStore/status/674995836539932673/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/ucoz" label="m.vk.com/ucoz">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/CTurtE/status/675683629977178112" label="twitter.com/CTurtE/status/675683629977178112">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/get/videoqualityreport?v=A9yfQ6z4b8Y" label="google.com/get/videoqualityreport?v=A9yfQ6z4b8Y">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/14/japan-drone-interceptor" label="xakep.ru/2015/12/14/japan-drone-interceptor">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ria.ru/world/20150425/1060802554.html" label="ria.ru/world/20150425/1060802554.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675268918295060480/photo/1" label="twitter.com/XakepRU/status/675268918295060480/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/shop_tilda" label="m.vk.com/shop_tilda">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674617023205236737/photo/1" label="twitter.com/AppStore/status/674617023205236737/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/XakepMagazine" label="facebook.com/XakepMagazine">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/ucoz_ru" label="instagram.com/ucoz_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blog.malwarebytes.org/malvertising-2/2015/08/angler-exploit-kit-strikes-on-msn-com-via-malvertising-campaign" label="blog.malwarebytes.org/malvertising-2/2015/08/angler-exploit-kit-strikes-on-msn-com-via-malvertising-campaign">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=appstore" label="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=appstore">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675223898288427009/photo/1" label="twitter.com/XakepRU/status/675223898288427009/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="livemaster.ru/kylagina" label="livemaster.ru/kylagina">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/fe_city_boy/status/674572126658166784" label="twitter.com/fe_city_boy/status/674572126658166784">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="web-love.me" label="web-love.me">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pes-files.ru" label="pes-files.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="apiok.ru/wiki/display/TS/Home" label="apiok.ru/wiki/display/TS/Home">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="shopeng.com.ua" label="shopeng.com.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/nBzMjPc64k" label="t.co/nBzMjPc64k" />
+      <node id="mail.ru?from=odnoklassniki" label="mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="forum.ucoz.ru/forum/79" label="forum.ucoz.ru/forum/79">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/typhoonfilsy" label="twitter.com/typhoonfilsy">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/igra35" label="m.vk.com/igra35">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/androiddevelopers" label="youtube.com/user/androiddevelopers">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="orphus.ru" label="orphus.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="mr-smith.pw" label="mr-smith.pw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main" label="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-muzhchin" label="amisport.com.ua/shop/dlja-muzhchin">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/tildamaniya" label="instagram.com/tildamaniya">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/669516024555925504/photo/1" label="twitter.com/ucoz_ru/status/669516024555925504/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="ru.wikipedia.org/wiki/Apache_Commons" label="ru.wikipedia.org/wiki/Apache_Commons">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/AwqPoYjxsV" label="t.co/AwqPoYjxsV" />
+      <node id="ru.wikipedia.org/wiki/Amsterdam_Internet_Exchange" label="ru.wikipedia.org/wiki/Amsterdam_Internet_Exchange">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hi-tech.mail.ru?from=odnoklassniki" label="hi-tech.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="icloud.com" label="icloud.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.ucoz.ru" label="top.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/dark-sky-hyperlocal-weather/id517329357?mt=8" label="itunes.apple.com/us/app/dark-sky-hyperlocal-weather/id517329357?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="lci.tf1.fr/france/societe/interdiction-du-wifi-public-en-france-manuel-valls-assure-que-8693703.html" label="lci.tf1.fr/france/societe/interdiction-du-wifi-public-en-france-manuel-valls-assure-que-8693703.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="French" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes/status/614173979675389952/photo/1" label="twitter.com/iTunes/status/614173979675389952/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/notes/alex-stamos/the-sha-1-sunset/10153782990367929" label="facebook.com/notes/alex-stamos/the-sha-1-sunset/10153782990367929">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="tilda-mania.ru" label="tilda-mania.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="megastock.ru" label="megastock.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="forum.ucoz.ru" label="forum.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ukit.com" label="ukit.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/valve-new-trading-rules" label="xakep.ru/2015/12/11/valve-new-trading-rules">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/c8d63197-314b-4450-96c6-8a4205fbed34" label="amp.twimg.com/v/c8d63197-314b-4450-96c6-8a4205fbed34">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/store/apps/messenger/9wzdncrf0083" label="microsoft.com/en-us/store/apps/messenger/9wzdncrf0083">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=9AQHnA4Lf&amp;s=1&amp;u=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.facebook.orca" label="facebook.com/l.php?h=9AQHnA4Lf&amp;s=1&amp;u=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.facebook.orca">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="developer.android.com/index.html" label="developer.android.com/index.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-zhenshhin" label="amisport.com.ua/shop/dlja-zhenshhin">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" label="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="chelseablues.ru" label="chelseablues.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/Sj27Ubxj0k" label="t.co/Sj27Ubxj0k" />
+      <node id="twitter.com/AppStoreGames/status/675092899697188864/photo/1" label="twitter.com/AppStoreGames/status/675092899697188864/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="oldweb.today" label="oldweb.today">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes/status/614221608329199616/photo/1" label="twitter.com/iTunes/status/614221608329199616/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="technet.microsoft.com/library/security/ms15-dec" label="technet.microsoft.com/library/security/ms15-dec">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blog.trendmicro.com/trendlabs-security-intelligence/blog-of-news-site-the-independent-hacked-leads-to-teslacrypto-ransomware" label="blog.trendmicro.com/trendlabs-security-intelligence/blog-of-news-site-the-independent-hacked-leads-to-teslacrypto-ransomware">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Sport-Football/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Sport-Football/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" label="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="fifaland.net" label="fifaland.net">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/coldhakca" label="twitter.com/coldhakca">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="hashcat.net/forum/thread-4880.html" label="hashcat.net/forum/thread-4880.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/the-robot-factory-by-tinybop/id936966605?mt=8" label="itunes.apple.com/us/app/the-robot-factory-by-tinybop/id936966605?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-muzhchin/aksessuary-1" label="amisport.com.ua/shop/dlja-muzhchin/aksessuary-1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/policy.php" label="facebook.com/policy.php">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/12/coin-mitm" label="xakep.ru/2015/12/12/coin-mitm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="googleonlinesecurity.blogspot.ro/2015/10/sustaining-digital-certificate-security.html" label="googleonlinesecurity.blogspot.ro/2015/10/sustaining-digital-certificate-security.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/amisport" label="m.vk.com/amisport">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uGarts.pro" label="uGarts.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="crossstitcher.ru" label="crossstitcher.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=YAQFu-t-e&amp;s=1&amp;u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid454638411" label="facebook.com/l.php?h=YAQFu-t-e&amp;s=1&amp;u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid454638411">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="uscript.pro" label="uscript.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/+ucozru/posts" label="plus.google.com/+ucozru/posts">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="apple.com/itunes" label="apple.com/itunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com?tab=81" label="youtube.com?tab=81">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/itranslate-translator-dictionary/id288113403?mt=8" label="itunes.apple.com/us/app/itranslate-translator-dictionary/id288113403?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/rayman-adventures/id1043589663?mt=8" label="itunes.apple.com/us/app/rayman-adventures/id1043589663?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="support.microsoft.com/en-us/kb/2677070" label="support.microsoft.com/en-us/kb/2677070">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/672415524475822082/photo/1" label="twitter.com/ucoz_ru/status/672415524475822082/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blog.malwarebytes.org/online-security/2015/11/readers-digest-and-other-wordpress-sites-compromised-push-angler-ek" label="blog.malwarebytes.org/online-security/2015/11/readers-digest-and-other-wordpress-sites-compromised-push-angler-ek">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="konami.parature.com/ics/support/ticketnewwizard.asp?style=classic" label="konami.parature.com/ics/support/ticketnewwizard.asp?style=classic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="horo.mail.ru?from=odnoklassniki" label="horo.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="poetree.ru" label="poetree.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="deti.mail.ru?from=odnoklassniki" label="deti.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/CTurtE/status/675762173583454209" label="twitter.com/CTurtE/status/675762173583454209">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pedsovet.su" label="pedsovet.su">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676069184124510208/photo/1" label="twitter.com/XakepRU/status/676069184124510208/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="imdb.com/title/tt0105435" label="imdb.com/title/tt0105435">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/spy-games" label="xakep.ru/2015/12/11/spy-games">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes/status/653050538913722370/photo/1" label="twitter.com/iTunes/status/653050538913722370/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ucoz.ru/register" label="ucoz.ru/register">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/xbox-live-cert" label="xakep.ru/2015/12/11/xbox-live-cert">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="github.com/PowerShellEmpire/PowerTools" label="github.com/PowerShellEmpire/PowerTools">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/peskomment" label="twitter.com/peskomment">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/d2f8ef5a-27d8-45f4-9fd9-425868fbbbdb" label="amp.twimg.com/v/d2f8ef5a-27d8-45f4-9fd9-425868fbbbdb">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-muzhchin/odezhda" label="amisport.com.ua/shop/dlja-muzhchin/odezhda">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="haker.iphosting.ru" label="haker.iphosting.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/lenovo54.mart" label="m.vk.com/lenovo54.mart">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676363919204700161/photo/1" label="twitter.com/XakepRU/status/676363919204700161/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/artist/bea-miller/id706171903?app=itunes" label="itunes.apple.com/us/artist/bea-miller/id706171903?app=itunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/7698ed44-2d75-4a02-9682-dbd25087e852" label="amp.twimg.com/v/7698ed44-2d75-4a02-9682-dbd25087e852">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=com.ucoz.mysites" label="play.google.com/store/apps/details?id=com.ucoz.mysites">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStoreGames/status/675761512108023808/photo/1" label="twitter.com/AppStoreGames/status/675761512108023808/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki" label="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/676240952302968832/photo/1" label="twitter.com/AppStore/status/676240952302968832/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24156400" label="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24156400">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/maxqka/status/676925650779938819/photo/1" label="twitter.com/maxqka/status/676925650779938819/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="docs.joomla.org/Security_hotfixes_for_Joomla_EOL_versions" label="docs.joomla.org/Security_hotfixes_for_Joomla_EOL_versions">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="flickr.com/photos/prayitnophotography" label="flickr.com/photos/prayitnophotography">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676303244646289408/photo/1" label="twitter.com/XakepRU/status/676303244646289408/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="creativecommons.org/licenses/by/2.5" label="creativecommons.org/licenses/by/2.5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="dolltime.ru" label="dolltime.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="praimed.ua" label="praimed.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/kevinmitnick" label="twitter.com/kevinmitnick">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ulearn-online.ru" label="ulearn-online.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676650723917082624" label="twitter.com/XakepRU/status/676650723917082624">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blog.sucuri.net/2015/12/remote-command-execution-vulnerability-in-joomla.html" label="blog.sucuri.net/2015/12/remote-command-execution-vulnerability-in-joomla.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675309989649600512/photo/1" label="twitter.com/XakepRU/status/675309989649600512/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="rabota.mail.ru?from=odnoklassniki" label="rabota.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="github.com/hashcat/hashcat" label="github.com/hashcat/hashcat">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com?tab=X1" label="youtube.com?tab=X1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="utemplate.pro/shop/580/desc/invinitive" label="utemplate.pro/shop/580/desc/invinitive">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="money.mail.ru?from=odnoklassniki" label="money.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/676513215241588736/photo/1" label="twitter.com/AppStore/status/676513215241588736/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/15/joomla-0day" label="xakep.ru/2015/12/15/joomla-0day">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/peskomm" label="m.vk.com/peskomm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pixabay.com" label="pixabay.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/ru-ru/privacystatement/default.aspx" label="microsoft.com/ru-ru/privacystatement/default.aspx">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="symantec.com/connect/blogs/popularity-apple-devices-prompts-surge-new-threats" label="symantec.com/connect/blogs/popularity-apple-devices-prompts-surge-new-threats">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="agent.mail.ru?from=odnoklassniki" label="agent.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D105559" label="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D105559">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="romanna.ru/katalog/nabori" label="romanna.ru/katalog/nabori">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="toysmonopoly.ru" label="toysmonopoly.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D6659305" label="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D6659305">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU" label="twitter.com/XakepRU">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="tools.ietf.org/html/bcp38" label="tools.ietf.org/html/bcp38">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675253858516381696/photo/1" label="twitter.com/XakepRU/status/675253858516381696/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XAmbassadors/status/613369526210596864/photo/1" label="twitter.com/XAmbassadors/status/613369526210596864/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xterror.narod.ru" label="xterror.narod.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/luzhanskaya446" label="m.vk.com/luzhanskaya446">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="yraaa.ru/templates/novogodnyaya-404-stranica" label="yraaa.ru/templates/novogodnyaya-404-stranica">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/ucozru" label="ok.ru/ucozru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/lara-croft-go/id971304016?mt=8" label="itunes.apple.com/us/app/lara-croft-go/id971304016?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="AppStore.com/Bestof2015" label="AppStore.com/Bestof2015" />
+      <node id="xakep.ru/2015/12/14/no-ban-for-tor-in-france" label="xakep.ru/2015/12/14/no-ban-for-tor-in-france">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru/researches/about_updates" label="blog.ucoz.ru/researches/about_updates">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?feature=youtu.be&amp;v=lZdfwdX-0DE" label="youtube.com/watch?feature=youtu.be&amp;v=lZdfwdX-0DE">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru/newsline/viber" label="blog.ucoz.ru/newsline/viber">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/qbi/lists/statesponsoredattack2015/members" label="twitter.com/qbi/lists/statesponsoredattack2015/members">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="afisha.mail.ru?from=odnoklassniki" label="afisha.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/wall-28741529_46585" label="m.vk.com/wall-28741529_46585">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="otvet.mail.ru?from=odnoklassniki" label="otvet.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/103203810739019141539/posts" label="plus.google.com/103203810739019141539/posts">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="utemplate.pro" label="utemplate.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="icq.com/windows/ru" label="icq.com/windows/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="konami.jp/we/2016/online/index.php5?lang=en-us&amp;region=ac" label="konami.jp/we/2016/online/index.php5?lang=en-us&amp;region=ac">
+        <attvalues>
+          <attvalue for="0" value="0.999941736577" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="apple.co/LaraCroftGo" label="apple.co/LaraCroftGo" />
+      <node id="itunes.apple.com/us/app/haker/id551648044?mt=8" label="itunes.apple.com/us/app/haker/id551648044?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="utemplate.pro/autumn-contest-winner" label="utemplate.pro/autumn-contest-winner">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" label="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ukitcom_ru" label="twitter.com/ukitcom_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="en.wikipedia.org/wiki/Red_team" label="en.wikipedia.org/wiki/Red_team">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us" label="microsoft.com/en-us">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/676844667925753856/photo/1" label="twitter.com/AppStore/status/676844667925753856/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="torg.mail.ru?from=odnoklassniki" label="torg.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674774792403345408/photo/1" label="twitter.com/AppStore/status/674774792403345408/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/kolibri777" label="m.vk.com/kolibri777">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ssd.eff.org/en/module/protecting-yourself-social-networks" label="ssd.eff.org/en/module/protecting-yourself-social-networks">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="bitnet.ru/psycho/hacker.html" label="bitnet.ru/psycho/hacker.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="sport.mail.ru?from=odnoklassniki" label="sport.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/GamelandCompany?sk=app_190322544333196" label="facebook.com/GamelandCompany?sk=app_190322544333196">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/12/sha-1-fallback" label="xakep.ru/2015/12/12/sha-1-fallback">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gta-real.com" label="gta-real.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="book.ucoz.ru" label="book.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru" label="blog.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/14/wp-engine-hacked" label="xakep.ru/2015/12/14/wp-engine-hacked">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/14/cybercrime-article-angler" label="xakep.ru/2015/12/14/cybercrime-article-angler">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="messenger.com" label="messenger.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/ru-ru/How-to/wp8/apps/how-can-i-tell-if-an-app-has-requirements" label="windowsphone.com/ru-ru/How-to/wp8/apps/how-can-i-tell-if-an-app-has-requirements">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="teamfootball.info" label="teamfootball.info">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="bitnet.ru" label="bitnet.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="payment.ukit.com/page_quiz" label="payment.ukit.com/page_quiz">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675208804426993664/photo/1" label="twitter.com/XakepRU/status/675208804426993664/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/675254903133089792/photo/1" label="twitter.com/XakepRU/status/675254903133089792/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" label="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uscript.pro/shop/85/item/avtomaticheskaja-podgruzka-stranic" label="uscript.pro/shop/85/item/avtomaticheskaja-podgruzka-stranic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok" label="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676700256197849089/photo/1" label="twitter.com/XakepRU/status/676700256197849089/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/dcdbaa20-db2f-4846-9c00-4d50500e4ca8" label="amp.twimg.com/v/dcdbaa20-db2f-4846-9c00-4d50500e4ca8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-zhenshhin/krossovki" label="amisport.com.ua/shop/dlja-zhenshhin/krossovki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/igrushki_dli_uyuta_v_dome" label="m.vk.com/igrushki_dli_uyuta_v_dome">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru" label="xakep.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/675519965152194560/photo/1" label="twitter.com/AppStore/status/675519965152194560/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/676405536410247168/photo/1" label="twitter.com/AppStore/status/676405536410247168/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/monsterhighspb" label="m.vk.com/monsterhighspb">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676394046911356928/photo/1" label="twitter.com/XakepRU/status/676394046911356928/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="t.co/aJNrokJ7dN" label="t.co/aJNrokJ7dN" />
+      <node id="amp.twimg.com/v/f45198ae-099a-4ab7-b27a-62dbacc03ade" label="amp.twimg.com/v/f45198ae-099a-4ab7-b27a-62dbacc03ade">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" label="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="wordpressli.com" label="wordpressli.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Turkish" />
+        </attvalues>
+      </node>
+      <node id="amp.twimg.com/v/ee0c96a4-0b84-4bf6-a156-cea49752dc20" label="amp.twimg.com/v/ee0c96a4-0b84-4bf6-a156-cea49752dc20">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="fanacmilan.com" label="fanacmilan.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ru.dhgate.com/wholesale/football-wear/c024058001.html" label="ru.dhgate.com/wholesale/football-wear/c024058001.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="store.steampowered.com/news/19618" label="store.steampowered.com/news/19618">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="knowledge.symantec.com/support/ssl-certificates-support/index?actp=LIST&amp;id=ALERT1941&amp;page=content&amp;viewlocale=en_US" label="knowledge.symantec.com/support/ssl-certificates-support/index?actp=LIST&amp;id=ALERT1941&amp;page=content&amp;viewlocale=en_US">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="sales.mail.ru/ru/russia/odnoklassniki/latest" label="sales.mail.ru/ru/russia/odnoklassniki/latest">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/nhai34gvYH" label="t.co/nhai34gvYH" />
+      <node id="mybiz.ru" label="mybiz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="technet.microsoft.com/en-us/library/security/3123040" label="technet.microsoft.com/en-us/library/security/3123040">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="slot-ok.net" label="slot-ok.net">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676680778894483456/photo/1" label="twitter.com/XakepRU/status/676680778894483456/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676665783360069632/photo/1" label="twitter.com/XakepRU/status/676665783360069632/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="github.com/hashcat/oclHashcat" label="github.com/hashcat/oclHashcat">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="spadsmedia.com/aff/ln/ru/71851920" label="spadsmedia.com/aff/ln/ru/71851920">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi" label="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="uguide.ru/rejting-luchshij-konstruktor-sajtov-runeta" label="uguide.ru/rejting-luchshij-konstruktor-sajtov-runeta">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="feedback.utemplate.pro/knowledgebase/articles/63922-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88-%D1%81%D0%B0%D0%B9%D1%82" label="feedback.utemplate.pro/knowledgebase/articles/63922-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88-%D1%81%D0%B0%D0%B9%D1%82">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=A9yfQ6z4b8Y" label="youtube.com/watch?v=A9yfQ6z4b8Y">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/KillYourTV_I2P/lists/dec2015stateattack/members" label="twitter.com/KillYourTV_I2P/lists/dec2015stateattack/members">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151209-java-deserialization" label="tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151209-java-deserialization">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/670242018753388545/photo/1" label="twitter.com/ucoz_ru/status/670242018753388545/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/XakepRU/status/676318528635543552/photo/1" label="twitter.com/XakepRU/status/676318528635543552/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="soccer.ru" label="soccer.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="lady.mail.ru?from=odnoklassniki" label="lady.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="target.my.com?utm_medium=navi&amp;utm_source=mailru" label="target.my.com?utm_medium=navi&amp;utm_source=mailru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ilyaashapatov.ru" label="ilyaashapatov.ru">
+        <attvalues>
+          <attvalue for="0" value="0.568121474748" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="unisender.com/ru" label="unisender.com/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/669878846032896000/photo/1" label="twitter.com/ucoz_ru/status/669878846032896000/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/isis-trolling" label="xakep.ru/2015/12/11/isis-trolling">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="faq.ucoz.ru" label="faq.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ucoz_ru/status/673869176126226432/photo/1" label="twitter.com/ucoz_ru/status/673869176126226432/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/ru-ru/How-to/wp8/apps/how-do-i-install-apps-from-an-sd-card" label="windowsphone.com/ru-ru/How-to/wp8/apps/how-do-i-install-apps-from-an-sd-card">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com" label="twitter.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=pAQH76TIl&amp;s=1&amp;u=http%3A%2F%2Fwww.windowsphone.com%2Fs%3Fappid%3D3219d30d-4a23-4f58-a91c-c44b04e6a0c7" label="facebook.com/l.php?h=pAQH76TIl&amp;s=1&amp;u=http%3A%2F%2Fwww.windowsphone.com%2Fs%3Fappid%3D3219d30d-4a23-4f58-a91c-c44b04e6a0c7">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="uScript.pro" label="uScript.pro" />
+      <node id="twitter.com/Amisport1" label="twitter.com/Amisport1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="myliverpool.ru" label="myliverpool.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/15/active-directory" label="xakep.ru/2015/12/15/active-directory">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/LJNlmx3zrD" label="t.co/LJNlmx3zrD" />
+      <node id="twitter.com/fe_city_boy/status/674572126658166784/photo/1" label="twitter.com/fe_city_boy/status/674572126658166784/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes/status/633318625106132993/photo/1" label="twitter.com/iTunes/status/633318625106132993/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="guid.uid.me/remind" label="guid.uid.me/remind">
+        <attvalues>
+          <attvalue for="0" value="0.999946146914" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="smokemag.ru" label="smokemag.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/wall-28741529_46616" label="m.vk.com/wall-28741529_46616">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/lucia.rosca.9/about" label="facebook.com/lucia.rosca.9/about">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/ucoz" label="facebook.com/ucoz">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="totalfootball.ru" label="totalfootball.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="fireeye.com/blog/threat-research/2015/12/cybercrime-news.html" label="fireeye.com/blog/threat-research/2015/12/cybercrime-news.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/ukitcom" label="m.vk.com/ukitcom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/apps/publish" label="play.google.com/apps/publish">
+        <attvalues>
+          <attvalue for="0" value="0.641453034665" />
+          <attvalue for="1" value="Malagasy" />
+        </attvalues>
+      </node>
+      <node id="web-chip.ru" label="web-chip.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="infyways.com" label="infyways.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/upartner_pro" label="m.vk.com/upartner_pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru/newsline/ulearn-online" label="blog.ucoz.ru/newsline/ulearn-online">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="natalya-heart-made.blogspot.ru" label="natalya-heart-made.blogspot.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Ukrainian" />
+        </attvalues>
+      </node>
+      <node id="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24503240" label="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24503240">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="gist.github.com/CTurt/27fe7f3c241f69be19e5" label="gist.github.com/CTurt/27fe7f3c241f69be19e5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/CTurtE" label="twitter.com/CTurtE">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/BeaMiller/status/622114215399063553/photo/1" label="twitter.com/BeaMiller/status/622114215399063553/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="t.co/aFS2RBl0kJ" label="t.co/aFS2RBl0kJ" />
+      <node id="root-servers.org/news/events-of-20151130.txt" label="root-servers.org/news/events-of-20151130.txt">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/ukitcom" label="facebook.com/ukitcom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xakep.ru/2015/12/11/root-dns-ddos" label="xakep.ru/2015/12/11/root-dns-ddos">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.ucoz.ru/ucoz/black_friday_2015" label="blog.ucoz.ru/ucoz/black_friday_2015">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore/status/674669694545080320/photo/1" label="twitter.com/AppStore/status/674669694545080320/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="invinitive-demo.3dn.ru" label="invinitive-demo.3dn.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="amisport.com.ua/shop/dlja-zhenshhin/aksessuary" label="amisport.com.ua/shop/dlja-zhenshhin/aksessuary">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/ptRNTpWlH4" label="t.co/ptRNTpWlH4" />
+      <node id="plus.google.com/113729211146971232528" label="plus.google.com/113729211146971232528">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/wall-28741529_46665" label="m.vk.com/wall-28741529_46665">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/gamelandcompany" label="m.vk.com/gamelandcompany">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/DGGN66Nj81" label="t.co/DGGN66Nj81" />
+      <node id="twitter.com/hugofortier" label="twitter.com/hugofortier">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="twitter.com/XakepRU/status/675563498814898177/photo/1" target="xakep.ru/2015/12/12/sha-1-fallback" weight="1" />
+      <edge id="1" source="twitter.com/XakepRU/status/675563498814898177/photo/1" target="twitter.com/XakepRU/status/675563498814898177/photo/1" weight="1" />
+      <edge id="2" source="twitter.com/iTunes" target="twitter.com/TheTimMcGraw/status/660108120904097792/video/1" weight="1" />
+      <edge id="3" source="twitter.com/iTunes" target="twitter.com/AppleMusic/status/633524488672514049/photo/1" weight="1" />
+      <edge id="4" source="twitter.com/iTunes" target="twitter.com/AppStoreGames/status/639467448396189696/photo/1" weight="1" />
+      <edge id="5" source="twitter.com/iTunes" target="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?path=YACHT" weight="1" />
+      <edge id="6" source="twitter.com/iTunes" target="itunes.apple.com/us/artist/disturbed/id156807?app=itunes" weight="2" />
+      <edge id="7" source="twitter.com/iTunes" target="twitter.com/drdre/status/627195100221706240/video/1" weight="1" />
+      <edge id="8" source="twitter.com/iTunes" target="twitter.com/BeaMiller/status/622114215399063553/photo/1" weight="1" />
+      <edge id="9" source="twitter.com/iTunes" target="twitter.com/coldplay/status/662550754419322880/photo/1" weight="1" />
+      <edge id="10" source="twitter.com/iTunes" target="twitter.com/XAmbassadors/status/613369526210596864/photo/1" weight="1" />
+      <edge id="11" source="twitter.com/iTunes" target="amp.twimg.com/v/1bae3654-5c32-40b0-a9d7-4e5499c613a9" weight="1" />
+      <edge id="12" source="twitter.com/iTunes" target="amp.twimg.com/v/dcdbaa20-db2f-4846-9c00-4d50500e4ca8" weight="1" />
+      <edge id="13" source="twitter.com/iTunes" target="twitter.com/iTunes/status/653050538913722370/photo/1" weight="1" />
+      <edge id="14" source="twitter.com/iTunes" target="itunes.apple.com/us/album/a-head-full-of-dreams/id1053933969?app=itunes&amp;ign-mpt=uo%3D4" weight="1" />
+      <edge id="15" source="twitter.com/iTunes" target="twitter.com/Disturbed/status/632197843172757505/photo/1" weight="1" />
+      <edge id="16" source="twitter.com/iTunes" target="twitter.com/iTunes/status/614173979675389952/photo/1" weight="1" />
+      <edge id="17" source="twitter.com/iTunes" target="amp.twimg.com/v/d2f8ef5a-27d8-45f4-9fd9-425868fbbbdb" weight="1" />
+      <edge id="18" source="twitter.com/iTunes" target="twitter.com/iTunes/status/622816930802606081/photo/1" weight="1" />
+      <edge id="19" source="twitter.com/iTunes" target="itunes.apple.com/us/artist/tim-mcgraw/id3496236?app=itunes" weight="2" />
+      <edge id="20" source="twitter.com/iTunes" target="itunes.apple.com/us/artist/bea-miller/id706171903?app=itunes" weight="1" />
+      <edge id="21" source="twitter.com/iTunes" target="amp.twimg.com/v/7698ed44-2d75-4a02-9682-dbd25087e852" weight="1" />
+      <edge id="22" source="twitter.com/iTunes" target="twitter.com/iTunes/status/633318625106132993/photo/1" weight="1" />
+      <edge id="23" source="twitter.com/iTunes" target="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?app=music&amp;at=11lEW&amp;ct=oj78qh%7Ctwitter.com&amp;path=music%2Ffestival" weight="1" />
+      <edge id="24" source="twitter.com/iTunes" target="apple.com/itunes" weight="1" />
+      <edge id="25" source="twitter.com/iTunes" target="amp.twimg.com/v/a7fef797-e271-4087-be6e-0188b37afcbc" weight="1" />
+      <edge id="26" source="twitter.com/iTunes" target="twitter.com/iTunes/status/614221608329199616/photo/1" weight="1" />
+      <edge id="27" source="twitter.com/iTunes" target="itunes.apple.com/us/artist/bea-miller/id706171903?linkId=15679246" weight="1" />
+      <edge id="28" source="xakep.ru/2015/12/15/google-vs-symantec-cert" target="googleonlinesecurity.blogspot.ro/2015/10/sustaining-digital-certificate-security.html" weight="1" />
+      <edge id="29" source="xakep.ru/2015/12/15/google-vs-symantec-cert" target="knowledge.symantec.com/support/ssl-certificates-support/index?actp=LIST&amp;id=ALERT1941&amp;page=content&amp;viewlocale=en_US" weight="1" />
+      <edge id="30" source="xakep.ru/2015/12/15/google-vs-symantec-cert" target="googleonlinesecurity.blogspot.ro/2015/12/proactive-measures-in-digital.html" weight="1" />
+      <edge id="31" source="xakep.ru/2015/12/15/playstation-4-jailbroken" target="gist.github.com/CTurt/27fe7f3c241f69be19e5" weight="1" />
+      <edge id="32" source="xakep.ru/2015/12/15/playstation-4-jailbroken" target="twitter.com/CTurtE/status/675762173583454209" weight="1" />
+      <edge id="33" source="xakep.ru/2015/12/15/playstation-4-jailbroken" target="flickr.com/photos/farusantos" weight="1" />
+      <edge id="34" source="xakep.ru/2015/12/15/playstation-4-jailbroken" target="twitter.com/CTurtE" weight="1" />
+      <edge id="35" source="xakep.ru/2015/12/15/playstation-4-jailbroken" target="twitter.com/CTurtE/status/675683629977178112" weight="1" />
+      <edge id="36" source="twitter.com/XakepRU/status/675578681541206016/photo/1" target="t.co/UT3t63zGa9" weight="1" />
+      <edge id="37" source="twitter.com/XakepRU/status/675578681541206016/photo/1" target="twitter.com/XakepRU/status/675578681541206016/photo/1" weight="1" />
+      <edge id="38" source="xakep.ru/2015/12/15/twitter-warnings" target="twitter.com/coldhakca" weight="1" />
+      <edge id="39" source="xakep.ru/2015/12/15/twitter-warnings" target="torproject.org" weight="1" />
+      <edge id="40" source="xakep.ru/2015/12/15/twitter-warnings" target="googleonlinesecurity.blogspot.ru/2012/06/security-warnings-for-suspected-state.html" weight="1" />
+      <edge id="41" source="xakep.ru/2015/12/15/twitter-warnings" target="ssd.eff.org/en/module/protecting-yourself-social-networks" weight="1" />
+      <edge id="42" source="xakep.ru/2015/12/15/twitter-warnings" target="twitter.com/qbi/lists/statesponsoredattack2015/members" weight="1" />
+      <edge id="43" source="xakep.ru/2015/12/15/twitter-warnings" target="twitter.com/KillYourTV_I2P/lists/dec2015stateattack/members" weight="1" />
+      <edge id="44" source="manual.ucoz.net" target="ucoz.ru/register" weight="1" />
+      <edge id="45" source="manual.ucoz.net" target="uguide.ru/rejting-luchshij-konstruktor-sajtov-runeta" weight="1" />
+      <edge id="46" source="manual.ucoz.net" target="faq.ucoz.ru" weight="1" />
+      <edge id="47" source="manual.ucoz.net" target="ucoz.ru/all" weight="1" />
+      <edge id="48" source="manual.ucoz.net" target="forum.ucoz.ru" weight="1" />
+      <edge id="49" source="manual.ucoz.net" target="utemplate.pro" weight="1" />
+      <edge id="50" source="manual.ucoz.net" target="ucoz.ru" weight="1" />
+      <edge id="51" source="manual.ucoz.net" target="top.ucoz.ru" weight="1" />
+      <edge id="52" source="manual.ucoz.net" target="ucoz.ru/about" weight="1" />
+      <edge id="53" source="manual.ucoz.net" target="uscript.pro" weight="1" />
+      <edge id="54" source="manual.ucoz.net" target="uguide.ru/kak-sozdat-svoj-sajt" weight="1" />
+      <edge id="55" source="manual.ucoz.net" target="book.ucoz.ru" weight="1" />
+      <edge id="56" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-zhenshhin/odezhda" weight="1" />
+      <edge id="57" source="amisport.com.ua" target="shopeng.com.ua" weight="1" />
+      <edge id="58" source="amisport.com.ua" target="web-love.me" weight="1" />
+      <edge id="59" source="amisport.com.ua" target="twitter.com/Amisport1" weight="1" />
+      <edge id="60" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-muzhchin/obuv" weight="1" />
+      <edge id="61" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-muzhchin/odezhda" weight="1" />
+      <edge id="62" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-zhenshhin/aksessuary" weight="1" />
+      <edge id="63" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-zhenshhin/krossovki" weight="1" />
+      <edge id="64" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-muzhchin" weight="1" />
+      <edge id="65" source="amisport.com.ua" target="m.vk.com/amisport" weight="1" />
+      <edge id="66" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-muzhchin/aksessuary-1" weight="1" />
+      <edge id="67" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-muzhchin/krossovki" weight="1" />
+      <edge id="68" source="amisport.com.ua" target="odnoklassniki.ru/group/51890324701356" weight="1" />
+      <edge id="69" source="amisport.com.ua" target="facebook.com/amisport.com.ua?ref_type=bookmark" weight="1" />
+      <edge id="70" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-zhenshhin/obuv" weight="1" />
+      <edge id="71" source="amisport.com.ua" target="amisport.com.ua/shop/dlja-zhenshhin" weight="1" />
+      <edge id="72" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="pixabay.com" weight="1" />
+      <edge id="73" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="hashcat.net/forum/thread-4880.html" weight="1" />
+      <edge id="74" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="github.com/hashcat/hashcat" weight="1" />
+      <edge id="75" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="securelist.com/blog/opinions/72993/stepping-out-of-the-dark-hashcat-went-opensource" weight="1" />
+      <edge id="76" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="github.com/hashcat/oclHashcat" weight="1" />
+      <edge id="77" source="xakep.ru/2015/12/12/hashcat-goes-open-source" target="twitter.com/hashcat/status/672773076325670912" weight="1" />
+      <edge id="78" source="play.google.com/store/apps/details?id=ru.gameland.xakep" target="developer.android.com/index.html" weight="1" />
+      <edge id="79" source="play.google.com/store/apps/details?id=ru.gameland.xakep" target="youtube.com?tab=81" weight="1" />
+      <edge id="80" source="twitter.com/ucoz_ru" target="utemplate.pro/autumn-contest-winner" weight="1" />
+      <edge id="81" source="twitter.com/ucoz_ru" target="blog.ucoz.ru/updates/seo_originals" weight="1" />
+      <edge id="82" source="twitter.com/ucoz_ru" target="m.vk.com/wall-28741529_46616" weight="1" />
+      <edge id="83" source="twitter.com/ucoz_ru" target="uscript.pro/shop/85/item/avtomaticheskaja-podgruzka-stranic" weight="1" />
+      <edge id="84" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/669516024555925504/photo/1" weight="1" />
+      <edge id="85" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/670242018753388545/photo/1" weight="1" />
+      <edge id="86" source="twitter.com/ucoz_ru" target="ugarts.pro/load/decorations/calendar_style/5-1-0-76" weight="1" />
+      <edge id="87" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/669878846032896000/photo/1" weight="1" />
+      <edge id="88" source="twitter.com/ucoz_ru" target="ublackfriday.ru" weight="1" />
+      <edge id="89" source="twitter.com/ucoz_ru" target="uGarts.pro" weight="1" />
+      <edge id="90" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/673869176126226432/photo/1" weight="1" />
+      <edge id="91" source="twitter.com/ucoz_ru" target="youtube.com/watch?feature=youtu.be&amp;v=lZdfwdX-0DE" weight="1" />
+      <edge id="92" source="twitter.com/ucoz_ru" target="uScript.pro" weight="1" />
+      <edge id="93" source="twitter.com/ucoz_ru" target="yraaa.ru/templates/novogodnyaya-404-stranica" weight="1" />
+      <edge id="94" source="twitter.com/ucoz_ru" target="blog.ucoz.ru/newsline/ulearn-online" weight="1" />
+      <edge id="95" source="twitter.com/ucoz_ru" target="blog.ucoz.ru/researches/about_updates" weight="1" />
+      <edge id="96" source="twitter.com/ucoz_ru" target="uTemplate.pro" weight="1" />
+      <edge id="97" source="twitter.com/ucoz_ru" target="blog.ucoz.ru/newsline/viber" weight="1" />
+      <edge id="98" source="twitter.com/ucoz_ru" target="utemplate.pro/shop/570/desc/photorama" weight="1" />
+      <edge id="99" source="twitter.com/ucoz_ru" target="utemplate.pro/shop/580/desc/invinitive" weight="1" />
+      <edge id="100" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/671327979339911169/photo/1" weight="1" />
+      <edge id="101" source="twitter.com/ucoz_ru" target="blog.ucoz.ru/ucoz/black_friday_2015" weight="1" />
+      <edge id="102" source="twitter.com/ucoz_ru" target="blog.ucoz.ru" weight="1" />
+      <edge id="103" source="twitter.com/ucoz_ru" target="m.vk.com/wall-28741529_46585" weight="1" />
+      <edge id="104" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/667704050260049921/photo/1" weight="1" />
+      <edge id="105" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/666979519035793408/photo/1" weight="1" />
+      <edge id="106" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/667341659554881536/photo/1" weight="1" />
+      <edge id="107" source="twitter.com/ucoz_ru" target="m.vk.com/wall-28741529_46665" weight="1" />
+      <edge id="108" source="twitter.com/ucoz_ru" target="m.vk.com/wall-28741529_46403" weight="1" />
+      <edge id="109" source="twitter.com/ucoz_ru" target="twitter.com/ucoz_ru/status/672415524475822082/photo/1" weight="1" />
+      <edge id="110" source="youtube.com/channel/UCyXreFWWJyzrYOEy17XhOUQ" target="plus.google.com/113729211146971232528" weight="1" />
+      <edge id="111" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/14/japan-drone-interceptor" weight="1" />
+      <edge id="112" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/14/wp-engine-hacked" weight="1" />
+      <edge id="113" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/15/playstation-4-jailbroken" weight="1" />
+      <edge id="114" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/14/cybercrime-article-angler" weight="1" />
+      <edge id="115" source="plus.google.com/113729211146971232528/posts" target="xakep.ru" weight="1" />
+      <edge id="116" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/13/oldweb-today" weight="1" />
+      <edge id="117" source="plus.google.com/113729211146971232528/posts" target="youtube.com?tab=X1" weight="1" />
+      <edge id="118" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/15/twitter-warnings" weight="1" />
+      <edge id="119" source="plus.google.com/113729211146971232528/posts" target="youtube.com/channel/UCyXreFWWJyzrYOEy17XhOUQ" weight="1" />
+      <edge id="120" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/12/hashcat-goes-open-source" weight="1" />
+      <edge id="121" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/12/coin-mitm" weight="1" />
+      <edge id="122" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/15/joomla-0day" weight="1" />
+      <edge id="123" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/15/active-directory" weight="1" />
+      <edge id="124" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/15/google-vs-symantec-cert" weight="1" />
+      <edge id="125" source="plus.google.com/113729211146971232528/posts" target="xakep.ru/2015/12/14/no-ban-for-tor-in-france" weight="1" />
+      <edge id="126" source="igra35.ru" target="yaca.yandex.ru/yca/cy/ch/www.igra35.ru" weight="1" />
+      <edge id="127" source="igra35.ru" target="m.vk.com/igra35" weight="1" />
+      <edge id="128" source="igra35.ru" target="ilyaashapatov.ru" weight="1" />
+      <edge id="129" source="monsterhighdolls.ru" target="m.vk.com/monsterhighspb" weight="1" />
+      <edge id="130" source="ossetiashop.ru" target="web-chip.ru" weight="1" />
+      <edge id="131" source="ossetiashop.ru" target="m.vk.com/id276317260" weight="1" />
+      <edge id="132" source="ossetiashop.ru" target="instagram.com/brand_vld" weight="1" />
+      <edge id="133" source="twitter.com/XakepRU/status/675593611849932800/photo/1" target="t.co/7S4oX1oLOn" weight="1" />
+      <edge id="134" source="twitter.com/XakepRU/status/675593611849932800/photo/1" target="intester.com" weight="1" />
+      <edge id="135" source="twitter.com/XakepRU/status/675593611849932800/photo/1" target="twitter.com/XakepRU/status/675593611849932800/photo/1" weight="1" />
+      <edge id="136" source="spice108.ru" target="ucoz.ru" weight="1" />
+      <edge id="137" source="spice108.ru" target="mr-smith.pw" weight="1" />
+      <edge id="138" source="spice108.ru" target="unisender.com/ru" weight="1" />
+      <edge id="139" source="spice108.ru" target="jemand.ru" weight="1" />
+      <edge id="140" source="spice108.ru" target="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D6659305" weight="1" />
+      <edge id="141" source="twitter.com/AppStore" target="itunes.apple.com/us/app/the-robot-factory-by-tinybop/id936966605?mt=8" weight="1" />
+      <edge id="142" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674617023205236737/photo/1" weight="1" />
+      <edge id="143" source="twitter.com/AppStore" target="itunes.apple.com/us/app/warhammer-40-000-freeblade/id1043640363?mt=8" weight="1" />
+      <edge id="144" source="twitter.com/AppStore" target="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=appstore" weight="1" />
+      <edge id="145" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674373394301911041/photo/1" weight="1" />
+      <edge id="146" source="twitter.com/AppStore" target="amp.twimg.com/v/5b250db8-3f5c-43a1-b9af-b4e535107be3" weight="1" />
+      <edge id="147" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674748622475522048/photo/1" weight="1" />
+      <edge id="148" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674995836539932673/photo/1" weight="1" />
+      <edge id="149" source="twitter.com/AppStore" target="twitter.com/AppStore/status/676566282813095936/photo/1" weight="1" />
+      <edge id="150" source="twitter.com/AppStore" target="twitter.com/AppStore/status/676844667925753856/photo/1" weight="1" />
+      <edge id="151" source="twitter.com/AppStore" target="twitter.com/AppStore/status/675519965152194560/photo/1" weight="1" />
+      <edge id="152" source="twitter.com/AppStore" target="itunes.apple.com/gb/app/prune/id972319818?mt=8" weight="1" />
+      <edge id="153" source="twitter.com/AppStore" target="amp.twimg.com/v/185f3fa5-c5fc-4a3e-b7ab-e12fc8812a8f" weight="1" />
+      <edge id="154" source="twitter.com/AppStore" target="itunes.apple.com/app/mafia-watch/id1031095702?app=itunes&amp;mt=8" weight="1" />
+      <edge id="155" source="twitter.com/AppStore" target="itunes.apple.com/us/app/lara-croft-go/id971304016?mt=8" weight="1" />
+      <edge id="156" source="twitter.com/AppStore" target="AppStore.com/Bestof2015" weight="1" />
+      <edge id="157" source="twitter.com/AppStore" target="itunes.apple.com/us/app/dark-sky-hyperlocal-weather/id517329357?mt=8" weight="1" />
+      <edge id="158" source="twitter.com/AppStore" target="itunes.apple.com/us/app/umake/id1042246861?mt=8" weight="1" />
+      <edge id="159" source="twitter.com/AppStore" target="amp.twimg.com/v/f45198ae-099a-4ab7-b27a-62dbacc03ade" weight="1" />
+      <edge id="160" source="twitter.com/AppStore" target="itunes.apple.com/us/app/periscope/id972909677?mt=8" weight="1" />
+      <edge id="161" source="twitter.com/AppStore" target="twitter.com/AppStore/status/676405536410247168/photo/1" weight="1" />
+      <edge id="162" source="twitter.com/AppStore" target="amp.twimg.com/v/c8d63197-314b-4450-96c6-8a4205fbed34" weight="1" />
+      <edge id="163" source="twitter.com/AppStore" target="search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&amp;path=apps%2FBestof2015" weight="1" />
+      <edge id="164" source="twitter.com/AppStore" target="twitter.com/AppStore/status/676513215241588736/photo/1" weight="1" />
+      <edge id="165" source="twitter.com/AppStore" target="amp.twimg.com/v/ee0c96a4-0b84-4bf6-a156-cea49752dc20" weight="1" />
+      <edge id="166" source="twitter.com/AppStore" target="twitter.com/AppStoreGames/status/675761512108023808/photo/1" weight="1" />
+      <edge id="167" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674774792403345408/photo/1" weight="1" />
+      <edge id="168" source="twitter.com/AppStore" target="twitter.com/AppStore/status/674669694545080320/photo/1" weight="1" />
+      <edge id="169" source="twitter.com/AppStore" target="twitter.com/AppStore/status/676240952302968832/photo/1" weight="1" />
+      <edge id="170" source="twitter.com/AppStore" target="twitter.com/AppStoreGames/status/675092899697188864/photo/1" weight="1" />
+      <edge id="171" source="twitter.com/AppStore" target="itunes.apple.com/us/app/itranslate-translator-dictionary/id288113403?mt=8" weight="1" />
+      <edge id="172" source="twitter.com/AppStore" target="amp.twimg.com/v/66c1be98-2d21-4e9e-9296-854480b387b3" weight="1" />
+      <edge id="173" source="twitter.com/AppStore" target="itunes.apple.com/us/app/rayman-adventures/id1043589663?mt=8" weight="1" />
+      <edge id="174" source="twitter.com/AppStore" target="apple.co/LaraCroftGo" weight="1" />
+      <edge id="175" source="glc.ru" target="forum.totaldvd.ru" weight="1" />
+      <edge id="176" source="glc.ru" target="glc.ru" weight="1" />
+      <edge id="177" source="glc.ru" target="trendymag.ru" weight="1" />
+      <edge id="178" source="glc.ru" target="smokemag.ru" weight="1" />
+      <edge id="179" source="glc.ru" target="mybiz.ru" weight="1" />
+      <edge id="180" source="glc.ru" target="xakep.ru" weight="1" />
+      <edge id="181" source="glc.ru" target="totalfootball.ru" weight="1" />
+      <edge id="182" source="glc.ru" target="crossstitcher.ru" weight="1" />
+      <edge id="183" source="glc.ru" target="facebook.com/GamelandCompany?sk=app_190322544333196" weight="1" />
+      <edge id="184" source="glc.ru" target="tuningauto.ru" weight="1" />
+      <edge id="185" source="glc.ru" target="m.vk.com/gamelandcompany" weight="1" />
+      <edge id="186" source="twitter.com/XakepRU/status/676650723917082624/photo/1" target="t.co/aJNrokJ7dN" weight="1" />
+      <edge id="187" source="twitter.com/XakepRU/status/676650723917082624/photo/1" target="twitter.com/XakepRU/status/676650723917082624" weight="1" />
+      <edge id="188" source="twitter.com/XakepRU/status/676650723917082624/photo/1" target="twitter.com/XakepRU/status/676650723917082624/photo/1" weight="1" />
+      <edge id="189" source="ucoz.ru" target="igra35.ru" weight="1" />
+      <edge id="190" source="ucoz.ru" target="uid.me?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" weight="1" />
+      <edge id="191" source="ucoz.ru" target="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" weight="1" />
+      <edge id="192" source="ucoz.ru" target="facebook.com/ucoz" weight="1" />
+      <edge id="193" source="ucoz.ru" target="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" weight="1" />
+      <edge id="194" source="ucoz.ru" target="youtube.com/watch?v=A9yfQ6z4b8Y" weight="1" />
+      <edge id="195" source="ucoz.ru" target="twitter.com/ucoz_ru" weight="1" />
+      <edge id="196" source="ucoz.ru" target="poetree.ru" weight="1" />
+      <edge id="197" source="ucoz.ru" target="instagram.com/ucoz_ru" weight="1" />
+      <edge id="198" source="ucoz.ru" target="ossetiashop.ru" weight="1" />
+      <edge id="199" source="ucoz.ru" target="praimed.ua" weight="1" />
+      <edge id="200" source="ucoz.ru" target="uid.me/pavel_kudinov" weight="1" />
+      <edge id="201" source="ucoz.ru" target="upartner.pro" weight="1" />
+      <edge id="202" source="ucoz.ru" target="ok.ru/ucozru" weight="1" />
+      <edge id="203" source="ucoz.ru" target="peskomment.ru" weight="1" />
+      <edge id="204" source="ucoz.ru" target="spice108.ru" weight="1" />
+      <edge id="205" source="ucoz.ru" target="monsterhighdolls.ru" weight="1" />
+      <edge id="206" source="ucoz.ru" target="tilda-mania.ru" weight="1" />
+      <edge id="207" source="ucoz.ru" target="manual.ucoz.net" weight="1" />
+      <edge id="208" source="ucoz.ru" target="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" weight="1" />
+      <edge id="209" source="ucoz.ru" target="amisport.com.ua" weight="1" />
+      <edge id="210" source="ucoz.ru" target="play.google.com/store/apps/details?id=com.ucoz.mysites" weight="1" />
+      <edge id="211" source="ucoz.ru" target="gta-real.com" weight="1" />
+      <edge id="212" source="ucoz.ru" target="plus.google.com/+ucozru/posts" weight="1" />
+      <edge id="213" source="ucoz.ru" target="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" weight="1" />
+      <edge id="214" source="ucoz.ru" target="chelseablues.ru" weight="1" />
+      <edge id="215" source="ucoz.ru" target="m.vk.com/ucoz" weight="1" />
+      <edge id="216" source="ucoz.ru" target="utemplate.pro" weight="1" />
+      <edge id="217" source="ucoz.ru" target="pedsovet.su" weight="1" />
+      <edge id="218" source="ucoz.ru" target="payment.ukit.com/page_quiz" weight="1" />
+      <edge id="219" source="uid.me/pavel_kudinov" target="about.me/pavelkudinov7" weight="1" />
+      <edge id="220" source="uid.me/pavel_kudinov" target="m.vk.com/kudinovpavel" weight="1" />
+      <edge id="221" source="peskomment.ru" target="fifaland.net" weight="1" />
+      <edge id="222" source="peskomment.ru" target="m.vk.com/gameto4ka" weight="1" />
+      <edge id="223" source="peskomment.ru" target="myliverpool.ru" weight="1" />
+      <edge id="224" source="peskomment.ru" target="pes-files.ru" weight="1" />
+      <edge id="225" source="peskomment.ru" target="arsaman.ru" weight="1" />
+      <edge id="226" source="peskomment.ru" target="slot-ok.net" weight="1" />
+      <edge id="227" source="peskomment.ru" target="teamfootball.info" weight="1" />
+      <edge id="228" source="peskomment.ru" target="konami.parature.com/ics/support/ticketnewwizard.asp?style=classic" weight="1" />
+      <edge id="229" source="peskomment.ru" target="ru.dhgate.com/wholesale/football-wear/c024058001.html" weight="1" />
+      <edge id="230" source="peskomment.ru" target="konami.jp/we/2016/online/index.php5?lang=en-us&amp;region=ac" weight="1" />
+      <edge id="231" source="peskomment.ru" target="m.vk.com/peskomm" weight="1" />
+      <edge id="232" source="peskomment.ru" target="twitter.com/peskomment" weight="1" />
+      <edge id="233" source="xakep.ru/2015/12/11/apple-flaws-count" target="symantec.com/connect/blogs/popularity-apple-devices-prompts-surge-new-threats" weight="1" />
+      <edge id="234" source="xakep.ru/2015/12/13/oldweb-today" target="github.com/ikreymer/netcapsule" weight="1" />
+      <edge id="235" source="xakep.ru/2015/12/13/oldweb-today" target="oldweb.today" weight="1" />
+      <edge id="236" source="upartner.pro" target="forum.ucoz.ru/forum/79" weight="1" />
+      <edge id="237" source="upartner.pro" target="plus.google.com/103203810739019141539/posts" weight="1" />
+      <edge id="238" source="upartner.pro" target="ucoz.ru" weight="1" />
+      <edge id="239" source="upartner.pro" target="m.vk.com/upartner_pro" weight="1" />
+      <edge id="240" source="upartner.pro" target="facebook.com/upartner.pro" weight="1" />
+      <edge id="241" source="upartner.pro" target="ok.ru/group/54913425342485" weight="1" />
+      <edge id="242" source="upartner.pro" target="twitter.com/upartner_pro" weight="1" />
+      <edge id="243" source="twitter.com/XakepRU/status/676756500438646784/photo/1" target="twitter.com/XakepRU/status/676756500438646784/photo/1" weight="1" />
+      <edge id="244" source="twitter.com/XakepRU/status/676756500438646784/photo/1" target="twitter.com/maxqka/status/676925650779938819/photo/1" weight="1" />
+      <edge id="245" source="twitter.com/XakepRU/status/676756500438646784/photo/1" target="t.co/DGGN66Nj81" weight="1" />
+      <edge id="246" source="twitter.com/XakepRU/status/675321770413580288/photo/1" target="twitter.com/XakepRU/status/675321770413580288/photo/1" weight="1" />
+      <edge id="247" source="twitter.com/XakepRU/status/675321770413580288/photo/1" target="xakep.ru/2015/12/11/apple-flaws-count" weight="1" />
+      <edge id="248" source="xakep.ru/2015/12/14/japan-drone-interceptor" target="ajw.asahi.com/article/behind_news/social_affairs/AJ201512110064" weight="1" />
+      <edge id="249" source="xakep.ru/2015/12/14/japan-drone-interceptor" target="ria.ru/world/20150425/1060802554.html" weight="1" />
+      <edge id="250" source="twitter.com/XakepRU/status/675268918295060480/photo/1" target="xakep.ru/2015/12/11/valve-new-trading-rules" weight="1" />
+      <edge id="251" source="twitter.com/XakepRU/status/675268918295060480/photo/1" target="twitter.com/XakepRU/status/675268918295060480/photo/1" weight="1" />
+      <edge id="252" source="twitter.com/XakepRU/status/675223898288427009/photo/1" target="xakep.ru/2015/12/11/root-dns-ddos" weight="1" />
+      <edge id="253" source="twitter.com/XakepRU/status/675223898288427009/photo/1" target="twitter.com/XakepRU/status/675223898288427009/photo/1" weight="1" />
+      <edge id="254" source="tilda-mania.ru" target="romanna.ru/katalog/nabori" weight="1" />
+      <edge id="255" source="tilda-mania.ru" target="livemaster.ru/kylagina" weight="1" />
+      <edge id="256" source="tilda-mania.ru" target="toysmonopoly.ru" weight="1" />
+      <edge id="257" source="tilda-mania.ru" target="luciashandmade.blogspot.ru" weight="1" />
+      <edge id="258" source="tilda-mania.ru" target="facebook.com/lucia.rosca.9/about" weight="1" />
+      <edge id="259" source="tilda-mania.ru" target="m.vk.com/kolibri777" weight="1" />
+      <edge id="260" source="tilda-mania.ru" target="instagram.com/tildamaniya" weight="1" />
+      <edge id="261" source="tilda-mania.ru" target="ucoz.ru" weight="1" />
+      <edge id="262" source="tilda-mania.ru" target="m.vk.com/shop_tilda" weight="1" />
+      <edge id="263" source="tilda-mania.ru" target="livemaster.ru/mamamasha" weight="1" />
+      <edge id="264" source="tilda-mania.ru" target="dolltime.ru" weight="1" />
+      <edge id="265" source="tilda-mania.ru" target="natalya-heart-made.blogspot.ru" weight="1" />
+      <edge id="266" source="tilda-mania.ru" target="homeboutiqueblog.blogspot.ru" weight="1" />
+      <edge id="267" source="tilda-mania.ru" target="m.vk.com/igrushki_dli_uyuta_v_dome" weight="1" />
+      <edge id="268" source="xakep.ru/2015/12/11/valve-new-trading-rules" target="store.steampowered.com/news/19618" weight="1" />
+      <edge id="269" source="xakep.ru/2015/12/11/valve-new-trading-rules" target="steamcommunity.com/tradingcards" weight="1" />
+      <edge id="270" source="developer.android.com/index.html" target="plus.google.com/+AndroidDevelopers" weight="1" />
+      <edge id="271" source="developer.android.com/index.html" target="play.google.com/apps/publish" weight="1" />
+      <edge id="272" source="developer.android.com/index.html" target="youtube.com/user/androiddevelopers" weight="1" />
+      <edge id="273" source="developer.android.com/index.html" target="creativecommons.org/licenses/by/2.5" weight="1" />
+      <edge id="274" source="developer.android.com/index.html" target="android-developers.blogspot.com" weight="1" />
+      <edge id="275" source="developer.android.com/index.html" target="twitter.com/AndroidDev" weight="1" />
+      <edge id="276" source="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="ok.ru/group/54819438723093" weight="1" />
+      <edge id="277" source="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="facebook.com/ukitcom" weight="1" />
+      <edge id="278" source="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="twitter.com/ukitcom_ru" weight="1" />
+      <edge id="279" source="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="instagram.com/ukitcom_ru" weight="1" />
+      <edge id="280" source="ukit.com/ru?utm_campaign=umainlp2%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="m.vk.com/ukitcom" weight="1" />
+      <edge id="281" source="chelseablues.ru" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2106935&amp;stat=0&amp;theme=604%2F640&amp;view=short" weight="1" />
+      <edge id="282" source="chelseablues.ru" target="top.mail.ru/Rating/Sport-Football/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="283" source="chelseablues.ru" target="fond-rd.ru" weight="1" />
+      <edge id="284" source="chelseablues.ru" target="soccer.ru" weight="1" />
+      <edge id="285" source="chelseablues.ru" target="spadsmedia.com/aff/ln/ru/71851920" weight="1" />
+      <edge id="286" source="chelseablues.ru" target="fanacmilan.com" weight="1" />
+      <edge id="287" source="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="instagram.com/ukitcom_ru" weight="1" />
+      <edge id="288" source="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="ok.ru/group/54819438723093" weight="1" />
+      <edge id="289" source="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="twitter.com/ukitcom_ru" weight="1" />
+      <edge id="290" source="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="facebook.com/ukitcom" weight="1" />
+      <edge id="291" source="ukit.com/ru?utm_campaign=umainlp1%2F&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="m.vk.com/ukitcom" weight="1" />
+      <edge id="292" source="xakep.ru/2015/12/12/coin-mitm" target="onlycoin.com" weight="1" />
+      <edge id="293" source="xakep.ru/2015/12/12/coin-mitm" target="twitter.com/typhoonfilsy" weight="1" />
+      <edge id="294" source="plus.google.com/+ucozru/posts" target="utemplate.pro/autumn-contest-winner" weight="1" />
+      <edge id="295" source="plus.google.com/+ucozru/posts" target="blog.ucoz.ru/updates/seo_originals" weight="1" />
+      <edge id="296" source="plus.google.com/+ucozru/posts" target="facebook.com/ucoz" weight="1" />
+      <edge id="297" source="plus.google.com/+ucozru/posts" target="ucoz.ru" weight="1" />
+      <edge id="298" source="plus.google.com/+ucozru/posts" target="twitter.com/ucoz_ru" weight="1" />
+      <edge id="299" source="plus.google.com/+ucozru/posts" target="instagram.com/ucoz_ru" weight="1" />
+      <edge id="300" source="plus.google.com/+ucozru/posts" target="ulearn-online.ru" weight="1" />
+      <edge id="301" source="plus.google.com/+ucozru/posts" target="yraaa.ru/templates/novogodnyaya-404-stranica" weight="1" />
+      <edge id="302" source="plus.google.com/+ucozru/posts" target="ok.ru/ucozru" weight="1" />
+      <edge id="303" source="plus.google.com/+ucozru/posts" target="blog.ucoz.ru/newsline/ulearn-online" weight="1" />
+      <edge id="304" source="plus.google.com/+ucozru/posts" target="ukit.com" weight="1" />
+      <edge id="305" source="plus.google.com/+ucozru/posts" target="blog.ucoz.ru/researches/about_updates" weight="1" />
+      <edge id="306" source="plus.google.com/+ucozru/posts" target="ucoz.ru/all" weight="1" />
+      <edge id="307" source="plus.google.com/+ucozru/posts" target="forum.ucoz.ru" weight="1" />
+      <edge id="308" source="plus.google.com/+ucozru/posts" target="youtube.com/watch?feature=youtu.be&amp;v=lZdfwdX-0DE" weight="1" />
+      <edge id="309" source="plus.google.com/+ucozru/posts" target="blog.ucoz.ru/newsline/viber" weight="1" />
+      <edge id="310" source="plus.google.com/+ucozru/posts" target="youtube.com?tab=X1" weight="1" />
+      <edge id="311" source="plus.google.com/+ucozru/posts" target="utemplate.pro/shop/580/desc/invinitive" weight="1" />
+      <edge id="312" source="plus.google.com/+ucozru/posts" target="ucoz.ru/qa" weight="1" />
+      <edge id="313" source="plus.google.com/+ucozru/posts" target="book.ucoz.ru" weight="1" />
+      <edge id="314" source="plus.google.com/+ucozru/posts" target="blog.ucoz.ru" weight="1" />
+      <edge id="315" source="plus.google.com/+ucozru/posts" target="invinitive-demo.3dn.ru" weight="1" />
+      <edge id="316" source="plus.google.com/+ucozru/posts" target="m.vk.com/ucoz" weight="1" />
+      <edge id="317" source="plus.google.com/+ucozru/posts" target="utemplate.pro" weight="1" />
+      <edge id="318" source="plus.google.com/+ucozru/posts" target="chats.viber.com/uwebmaster" weight="1" />
+      <edge id="319" source="poetree.ru" target="allbest.ru/union" weight="1" />
+      <edge id="320" source="poetree.ru" target="hotlog.ru" weight="1" />
+      <edge id="321" source="poetree.ru" target="metrika.yandex.ru/dashboard?from=informer&amp;id=18382762" weight="1" />
+      <edge id="322" source="pedsovet.su" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1480758&amp;stat=0&amp;theme=448%2F451&amp;view=short" weight="1" />
+      <edge id="323" source="pedsovet.su" target="m.vk.com/lenovo54.mart" weight="1" />
+      <edge id="324" source="pedsovet.su" target="top.mail.ru/Rating/Science-Pedagogics/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="325" source="pedsovet.su" target="orphus.ru" weight="1" />
+      <edge id="326" source="pedsovet.su" target="m.vk.com/luzhanskaya446" weight="1" />
+      <edge id="327" source="pedsovet.su" target="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D105559" weight="1" />
+      <edge id="328" source="pedsovet.su" target="guid.uid.me/remind" weight="1" />
+      <edge id="329" source="twitter.com/XakepRU/status/676069184124510208/photo/1" target="t.co/Sj27Ubxj0k" weight="1" />
+      <edge id="330" source="twitter.com/XakepRU/status/676069184124510208/photo/1" target="t.co/LJNlmx3zrD" weight="1" />
+      <edge id="331" source="twitter.com/XakepRU/status/676069184124510208/photo/1" target="twitter.com/XakepRU/status/676069184124510208/photo/1" weight="1" />
+      <edge id="332" source="xakep.ru/2015/12/11/spy-games" target="twitter.com/kevinmitnick" weight="1" />
+      <edge id="333" source="xakep.ru/2015/12/11/spy-games" target="twitter.com/ygoltsev" weight="1" />
+      <edge id="334" source="xakep.ru/2015/12/11/spy-games" target="sans.org/reading-room/whitepapers/auditing/red-teaming-art-ethical-hacking-1272" weight="1" />
+      <edge id="335" source="xakep.ru/2015/12/11/spy-games" target="en.wikipedia.org/wiki/Red_team" weight="1" />
+      <edge id="336" source="xakep.ru/2015/12/11/spy-games" target="twitter.com/hugofortier" weight="1" />
+      <edge id="337" source="xakep.ru/2015/12/11/spy-games" target="imdb.com/title/tt0105435" weight="1" />
+      <edge id="338" source="xakep.ru/2015/12/11/xbox-live-cert" target="technet.microsoft.com/library/security/ms15-dec" weight="1" />
+      <edge id="339" source="xakep.ru/2015/12/11/xbox-live-cert" target="technet.microsoft.com/en-us/library/security/3123040" weight="1" />
+      <edge id="340" source="xakep.ru/2015/12/11/xbox-live-cert" target="support.microsoft.com/en-us/kb/2677070" weight="1" />
+      <edge id="341" source="twitter.com/XakepRU/status/676363919204700161/photo/1" target="twitter.com/XakepRU/status/676363919204700161/photo/1" weight="1" />
+      <edge id="342" source="twitter.com/XakepRU/status/676363919204700161/photo/1" target="t.co/ptRNTpWlH4" weight="1" />
+      <edge id="343" source="play.google.com/store/apps/details?id=com.ucoz.mysites" target="developer.android.com/index.html" weight="1" />
+      <edge id="344" source="play.google.com/store/apps/details?id=com.ucoz.mysites" target="youtube.com?tab=81" weight="1" />
+      <edge id="345" source="twitter.com/XakepRU/status/676303244646289408/photo/1" target="twitter.com/XakepRU/status/676303244646289408/photo/1" weight="1" />
+      <edge id="346" source="twitter.com/XakepRU/status/676303244646289408/photo/1" target="t.co/AwqPoYjxsV" weight="1" />
+      <edge id="347" source="twitter.com/XakepRU/status/675309989649600512/photo/1" target="xakep.ru/2015/12/11/isis-trolling" weight="1" />
+      <edge id="348" source="twitter.com/XakepRU/status/675309989649600512/photo/1" target="twitter.com/XakepRU/status/675309989649600512/photo/1" weight="1" />
+      <edge id="349" source="xakep.ru/2015/12/15/joomla-0day" target="pasted.co/82529a35" weight="1" />
+      <edge id="350" source="xakep.ru/2015/12/15/joomla-0day" target="docs.joomla.org/Security_hotfixes_for_Joomla_EOL_versions" weight="1" />
+      <edge id="351" source="xakep.ru/2015/12/15/joomla-0day" target="pasted.co/4edde763" weight="1" />
+      <edge id="352" source="xakep.ru/2015/12/15/joomla-0day" target="infyways.com" weight="1" />
+      <edge id="353" source="xakep.ru/2015/12/15/joomla-0day" target="developer.joomla.org/security-centre/630-20151214-core-remote-code-execution-vulnerability.html" weight="1" />
+      <edge id="354" source="xakep.ru/2015/12/15/joomla-0day" target="blog.sucuri.net/2015/12/remote-command-execution-vulnerability-in-joomla.html" weight="1" />
+      <edge id="355" source="xakep.ru/2015/12/15/joomla-0day" target="imgur.com/r5tjSSO" weight="1" />
+      <edge id="356" source="xakep.ru/2015/12/15/joomla-0day" target="github.com/orbweb/PHP-SHELL-WSO" weight="1" />
+      <edge id="357" source="xakep.ru/2015/12/15/joomla-0day" target="pastebin.com/e25zxcn6" weight="1" />
+      <edge id="358" source="twitter.com/XakepRU" target="xakep.ru/2015/12/14/japan-drone-interceptor" weight="1" />
+      <edge id="359" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675208804426993664/photo/1" weight="1" />
+      <edge id="360" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676318528635543552/photo/1" weight="1" />
+      <edge id="361" source="twitter.com/XakepRU" target="xakep.ru/2015/12/15/playstation-4-jailbroken" weight="1" />
+      <edge id="362" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" weight="1" />
+      <edge id="363" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675254903133089792/photo/1" weight="1" />
+      <edge id="364" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676303244646289408/photo/1" weight="1" />
+      <edge id="365" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675268918295060480/photo/1" weight="1" />
+      <edge id="366" source="twitter.com/XakepRU" target="xakep.ru/2015/12/15/joomla-0day" weight="1" />
+      <edge id="367" source="twitter.com/XakepRU" target="xakep.ru/2015/12/12/coin-mitm" weight="1" />
+      <edge id="368" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675253858516381696/photo/1" weight="1" />
+      <edge id="369" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676069184124510208/photo/1" weight="1" />
+      <edge id="370" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/isis-trolling" weight="1" />
+      <edge id="371" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676700256197849089/photo/1" weight="1" />
+      <edge id="372" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/spy-games" weight="1" />
+      <edge id="373" source="twitter.com/XakepRU" target="xakep.ru/2015/12/13/oldweb-today" weight="1" />
+      <edge id="374" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675578681541206016/photo/1" weight="1" />
+      <edge id="375" source="twitter.com/XakepRU" target="xakep.ru" weight="1" />
+      <edge id="376" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675223898288427009/photo/1" weight="1" />
+      <edge id="377" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675309989649600512/photo/1" weight="1" />
+      <edge id="378" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/xbox-live-cert" weight="1" />
+      <edge id="379" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675593611849932800/photo/1" weight="1" />
+      <edge id="380" source="twitter.com/XakepRU" target="xakep.ru/2015/12/14/no-ban-for-tor-in-france" weight="1" />
+      <edge id="381" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675321770413580288/photo/1" weight="1" />
+      <edge id="382" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/675563498814898177/photo/1" weight="1" />
+      <edge id="383" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676756500438646784/photo/1" weight="1" />
+      <edge id="384" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676394046911356928/photo/1" weight="1" />
+      <edge id="385" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/valve-new-trading-rules" weight="1" />
+      <edge id="386" source="twitter.com/XakepRU" target="xakep.ru/2015/12/15/twitter-warnings" weight="1" />
+      <edge id="387" source="twitter.com/XakepRU" target="xakep.ru/2015/12/15/active-directory" weight="1" />
+      <edge id="388" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676363919204700161/photo/1" weight="1" />
+      <edge id="389" source="twitter.com/XakepRU" target="xakep.ru/2015/12/12/sha-1-fallback" weight="1" />
+      <edge id="390" source="twitter.com/XakepRU" target="xakep.ru/2015/12/12/hashcat-goes-open-source" weight="1" />
+      <edge id="391" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/root-dns-ddos" weight="1" />
+      <edge id="392" source="twitter.com/XakepRU" target="oldweb.today" weight="1" />
+      <edge id="393" source="twitter.com/XakepRU" target="xakep.ru/2015/12/14/wp-engine-hacked" weight="1" />
+      <edge id="394" source="twitter.com/XakepRU" target="xakep.ru/2015/12/14/cybercrime-article-angler" weight="1" />
+      <edge id="395" source="twitter.com/XakepRU" target="xakep.ru/2015/12/11/apple-flaws-count" weight="1" />
+      <edge id="396" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676680778894483456/photo/1" weight="1" />
+      <edge id="397" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676665783360069632/photo/1" weight="1" />
+      <edge id="398" source="twitter.com/XakepRU" target="xakep.ru/2015/12/15/google-vs-symantec-cert" weight="1" />
+      <edge id="399" source="twitter.com/XakepRU" target="twitter.com/XakepRU/status/676650723917082624/photo/1" weight="1" />
+      <edge id="400" source="twitter.com/XakepRU/status/675253858516381696/photo/1" target="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" weight="1" />
+      <edge id="401" source="twitter.com/XakepRU/status/675253858516381696/photo/1" target="twitter.com/XakepRU/status/675253858516381696/photo/1" weight="1" />
+      <edge id="402" source="xterror.narod.ru" target="ucoz.ru" weight="1" />
+      <edge id="403" source="ok.ru/ucozru" target="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi" weight="1" />
+      <edge id="404" source="ok.ru/ucozru" target="horo.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="405" source="ok.ru/ucozru" target="auto.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="406" source="ok.ru/ucozru" target="realty.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="407" source="ok.ru/ucozru" target="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok" weight="1" />
+      <edge id="408" source="ok.ru/ucozru" target="lady.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="409" source="ok.ru/ucozru" target="e.mail.ru/login" weight="1" />
+      <edge id="410" source="ok.ru/ucozru" target="target.my.com?utm_medium=navi&amp;utm_source=mailru" weight="1" />
+      <edge id="411" source="ok.ru/ucozru" target="torg.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="412" source="ok.ru/ucozru" target="hi-tech.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="413" source="ok.ru/ucozru" target="tv.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="414" source="ok.ru/ucozru" target="love.mail.ru/en?from=odnoklassniki" weight="1" />
+      <edge id="415" source="ok.ru/ucozru" target="go.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="416" source="ok.ru/ucozru" target="apiok.ru/wiki/display/TS/Home" weight="1" />
+      <edge id="417" source="ok.ru/ucozru" target="deti.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="418" source="ok.ru/ucozru" target="sport.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="419" source="ok.ru/ucozru" target="rabota.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="420" source="ok.ru/ucozru" target="calendar.mail.ru/login?page=%2F" weight="1" />
+      <edge id="421" source="ok.ru/ucozru" target="mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="422" source="ok.ru/ucozru" target="pogoda.mail.ru/prognoz/boston?from=odnoklassniki" weight="1" />
+      <edge id="423" source="ok.ru/ucozru" target="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki" weight="1" />
+      <edge id="424" source="ok.ru/ucozru" target="afisha.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="425" source="ok.ru/ucozru" target="otvet.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="426" source="ok.ru/ucozru" target="sales.mail.ru/ru/russia/odnoklassniki/latest" weight="1" />
+      <edge id="427" source="ok.ru/ucozru" target="top.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="428" source="ok.ru/ucozru" target="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main" weight="1" />
+      <edge id="429" source="ok.ru/ucozru" target="icq.com/windows/ru" weight="1" />
+      <edge id="430" source="ok.ru/ucozru" target="health.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="431" source="ok.ru/ucozru" target="money.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="432" source="ok.ru/ucozru" target="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main" weight="1" />
+      <edge id="433" source="ok.ru/ucozru" target="agent.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="434" source="ok.ru/ucozru" target="news.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="435" source="xakep.ru/2015/12/14/no-ban-for-tor-in-france" target="lci.tf1.fr/france/societe/interdiction-du-wifi-public-en-france-manuel-valls-assure-que-8693703.html" weight="1" />
+      <edge id="436" source="utemplate.pro" target="megastock.ru" weight="1" />
+      <edge id="437" source="utemplate.pro" target="passport.webmoney.ru/asp/certview.asp?wmid=137324187753" weight="2" />
+      <edge id="438" source="utemplate.pro" target="feedback.utemplate.pro/knowledgebase/articles/63922-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88-%D1%81%D0%B0%D0%B9%D1%82" weight="1" />
+      <edge id="439" source="utemplate.pro" target="twitter.com/uTemplate_pro" weight="1" />
+      <edge id="440" source="utemplate.pro" target="ucoztemplates.com" weight="1" />
+      <edge id="441" source="utemplate.pro" target="m.vk.com/utemplate" weight="1" />
+      <edge id="442" source="itunes.apple.com/us/app/haker/id551648044?mt=8" target="icloud.com" weight="1" />
+      <edge id="443" source="itunes.apple.com/us/app/haker/id551648044?mt=8" target="twitter.com/iTunes" weight="1" />
+      <edge id="444" source="itunes.apple.com/us/app/haker/id551648044?mt=8" target="twitter.com/AppStore" weight="1" />
+      <edge id="445" source="itunes.apple.com/us/app/haker/id551648044?mt=8" target="glc.ru" weight="1" />
+      <edge id="446" source="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" target="tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20151209-java-deserialization" weight="1" />
+      <edge id="447" source="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" target="ru.wikipedia.org/wiki/Apache_Commons" weight="1" />
+      <edge id="448" source="xakep.ru/2015/12/11/produktsiya-cisco-tozhe-podverzhena-uyazvimosti-deserializatsii-v-java" target="flickr.com/photos/prayitnophotography" weight="1" />
+      <edge id="449" source="xakep.ru/2015/12/12/sha-1-fallback" target="facebook.com/notes/alex-stamos/the-sha-1-sunset/10153782990367929" weight="1" />
+      <edge id="450" source="gta-real.com" target="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24503240" weight="1" />
+      <edge id="451" source="gta-real.com" target="efo-team.com" weight="1" />
+      <edge id="452" source="gta-real.com" target="gta-action.ru" weight="1" />
+      <edge id="453" source="xakep.ru/2015/12/14/wp-engine-hacked" target="wordpressli.com" weight="1" />
+      <edge id="454" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="blog.trendmicro.com/trendlabs-security-intelligence/blog-of-news-site-the-independent-hacked-leads-to-teslacrypto-ransomware" weight="1" />
+      <edge id="455" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="fireeye.com/blog/threat-research/2015/12/cybercrime-news.html" weight="1" />
+      <edge id="456" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="blogs.sophos.com/2015/07/21/a-closer-look-at-the-angler-exploit-kit" weight="1" />
+      <edge id="457" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="blog.malwarebytes.org/malvertising-2/2015/10/angler-exploit-kit-blasts-daily-mail-visitors-via-malvertising" weight="1" />
+      <edge id="458" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="blog.malwarebytes.org/malvertising-2/2015/08/angler-exploit-kit-strikes-on-msn-com-via-malvertising-campaign" weight="1" />
+      <edge id="459" source="xakep.ru/2015/12/14/cybercrime-article-angler" target="blog.malwarebytes.org/online-security/2015/11/readers-digest-and-other-wordpress-sites-compromised-push-angler-ek" weight="1" />
+      <edge id="460" source="bitnet.ru" target="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D24156400" weight="1" />
+      <edge id="461" source="payment.ukit.com/page_quiz" target="ucoz.ru" weight="1" />
+      <edge id="462" source="twitter.com/XakepRU/status/675208804426993664/photo/1" target="twitter.com/XakepRU/status/675208804426993664/photo/1" weight="1" />
+      <edge id="463" source="twitter.com/XakepRU/status/675208804426993664/photo/1" target="xakep.ru/2015/12/11/xbox-live-cert" weight="1" />
+      <edge id="464" source="twitter.com/XakepRU/status/675254903133089792/photo/1" target="twitter.com/XakepRU/status/675254903133089792/photo/1" weight="1" />
+      <edge id="465" source="twitter.com/XakepRU/status/675254903133089792/photo/1" target="xakep.ru/2015/12/11/spy-games" weight="1" />
+      <edge id="466" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="passport.webmoney.ru/asp/certview.asp?wmid=137324187753" weight="2" />
+      <edge id="467" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="megastock.ru" weight="1" />
+      <edge id="468" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="feedback.utemplate.pro/knowledgebase/articles/63922-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0-%D0%BD%D0%B0-%D0%B2%D0%B0%D1%88-%D1%81%D0%B0%D0%B9%D1%82" weight="1" />
+      <edge id="469" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="twitter.com/uTemplate_pro" weight="1" />
+      <edge id="470" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="ucoztemplates.com" weight="1" />
+      <edge id="471" source="utemplate.pro?utm_campaign=umain3lp&amp;utm_medium=ulp&amp;utm_source=ucozmain" target="m.vk.com/utemplate" weight="1" />
+      <edge id="472" source="twitter.com/XakepRU/status/676700256197849089/photo/1" target="t.co/YK5SH4NNq1" weight="1" />
+      <edge id="473" source="twitter.com/XakepRU/status/676700256197849089/photo/1" target="twitter.com/XakepRU/status/676700256197849089/photo/1" weight="1" />
+      <edge id="474" source="xakep.ru" target="play.google.com/store/apps/details?id=ru.gameland.xakep" weight="2" />
+      <edge id="475" source="xakep.ru" target="m.vk.com/xakep_mag" weight="2" />
+      <edge id="476" source="xakep.ru" target="twitter.com/XakepRU" weight="2" />
+      <edge id="477" source="xakep.ru" target="facebook.com/XakepMagazine" weight="2" />
+      <edge id="478" source="xakep.ru" target="itunes.apple.com/us/app/haker/id551648044?mt=8" weight="2" />
+      <edge id="479" source="xakep.ru" target="plus.google.com/113729211146971232528/posts" weight="2" />
+      <edge id="480" source="twitter.com/XakepRU/status/676394046911356928/photo/1" target="t.co/2cDfnCsLOh" weight="1" />
+      <edge id="481" source="twitter.com/XakepRU/status/676394046911356928/photo/1" target="twitter.com/XakepRU/status/676394046911356928/photo/1" weight="1" />
+      <edge id="482" source="twitter.com/XakepRU/status/676394046911356928/photo/1" target="intester.com" weight="1" />
+      <edge id="483" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="microsoft.com/en-us" weight="1" />
+      <edge id="484" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="microsoft.com/ru-ru/privacystatement/default.aspx" weight="1" />
+      <edge id="485" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="microsoft.com/en-us/windowsforbusiness/default.aspx" weight="1" />
+      <edge id="486" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="windowsphone.com/ru-ru/How-to/wp8/apps/how-can-i-tell-if-an-app-has-requirements" weight="1" />
+      <edge id="487" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="windowsphone.com/ru-ru/How-to/wp8/apps/how-do-i-install-apps-from-an-sd-card" weight="1" />
+      <edge id="488" source="windowsphone.com/ru-ru/store/app/%D0%BC%D0%BE%D0%B8-%D1%81%D0%B0%D0%B9%D1%82%D1%8B-%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/bb28e4ab-eeba-4542-ac93-af6a1be71c5c" target="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x419" weight="1" />
+      <edge id="489" source="twitter.com/XakepRU/status/676680778894483456/photo/1" target="t.co/nhai34gvYH" weight="1" />
+      <edge id="490" source="twitter.com/XakepRU/status/676680778894483456/photo/1" target="twitter.com/XakepRU/status/676680778894483456/photo/1" weight="1" />
+      <edge id="491" source="twitter.com/XakepRU/status/676665783360069632/photo/1" target="t.co/nBzMjPc64k" weight="1" />
+      <edge id="492" source="twitter.com/XakepRU/status/676665783360069632/photo/1" target="twitter.com/XakepRU/status/676665783360069632/photo/1" weight="1" />
+      <edge id="493" source="youtube.com/watch?v=A9yfQ6z4b8Y" target="ukit.com" weight="1" />
+      <edge id="494" source="youtube.com/watch?v=A9yfQ6z4b8Y" target="google.com/get/videoqualityreport?v=A9yfQ6z4b8Y" weight="1" />
+      <edge id="495" source="twitter.com/XakepRU/status/676318528635543552/photo/1" target="twitter.com/XakepRU/status/676318528635543552/photo/1" weight="1" />
+      <edge id="496" source="twitter.com/XakepRU/status/676318528635543552/photo/1" target="t.co/aFS2RBl0kJ" weight="1" />
+      <edge id="497" source="xakep.ru/2015/12/11/isis-trolling" target="flickr.com/photos/anon617" weight="1" />
+      <edge id="498" source="xakep.ru/2015/12/11/isis-trolling" target="twitter.com/fe_city_boy/status/674572126658166784" weight="1" />
+      <edge id="499" source="xakep.ru/2015/12/11/isis-trolling" target="twitter.com/fe_city_boy/status/674572126658166784/photo/1" weight="1" />
+      <edge id="500" source="xakep.ru/2015/12/11/isis-trolling" target="ghostbin.com/paste/ucsf3" weight="1" />
+      <edge id="501" source="xakep.ru/2015/12/15/active-directory" target="github.com/PowerShellEmpire/PowerTools" weight="1" />
+      <edge id="502" source="facebook.com/ucoz" target="messenger.com" weight="1" />
+      <edge id="503" source="xakep.ru/2015/12/11/root-dns-ddos" target="root-servers.org/news/events-of-20151130.txt" weight="1" />
+      <edge id="504" source="xakep.ru/2015/12/11/root-dns-ddos" target="tools.ietf.org/html/bcp38" weight="1" />
+      <edge id="505" source="xakep.ru/2015/12/11/root-dns-ddos" target="iana.org/domains/root/servers" weight="1" />
+      <edge id="506" source="xakep.ru/2015/12/11/root-dns-ddos" target="ru.wikipedia.org/wiki/Amsterdam_Internet_Exchange" weight="1" />
+    </edges>
+  </graph>
+</gexf>

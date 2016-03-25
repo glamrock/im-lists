@@ -1,0 +1,1688 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lang_conf" type="double" />
+      <attribute id="1" title="language" type="string" />
+    </attributes>
+    <nodes>
+      <node id="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D26702085" label="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D26702085">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="gomel.slanet.by/zhivotnye/koshki/~612" label="gomel.slanet.by/zhivotnye/koshki/~612">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/abw.by" label="facebook.com/abw.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="istpravda.ru" label="istpravda.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1837121&amp;stat=0&amp;theme=208%2F209%2F240&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1837121&amp;stat=0&amp;theme=208%2F209%2F240&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="brsm.by/projects/otkry-ty-e-debaty-vy-biraj-by" label="brsm.by/projects/otkry-ty-e-debaty-vy-biraj-by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dw.com/ru/%D0%BE%D0%B2%D0%B5%D1%87%D1%8C%D0%B5-%D0%B4%D0%B5%D1%84%D0%B8%D0%BB%D0%B5-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5-%D1%84%D0%BE%D1%82%D0%BE/a-18889174?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" label="dw.com/ru/%D0%BE%D0%B2%D0%B5%D1%87%D1%8C%D0%B5-%D0%B4%D0%B5%D1%84%D0%B8%D0%BB%D0%B5-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5-%D1%84%D0%BE%D1%82%D0%BE/a-18889174?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/nasa_niva" label="m.vk.com/nasa_niva">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="liveinternet.ru" label="liveinternet.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="dw.com/ru/%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B2-%D1%80%D1%84-%D0%B2%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D1%88%D0%B0%D0%BD%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0/a-18884291?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" label="dw.com/ru/%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B2-%D1%80%D1%84-%D0%B2%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D1%88%D0%B0%D0%BD%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0/a-18884291?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dw.com/ru/%D0%B2-%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%D1%85-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B6%D0%B4%D1%83%D1%82-%D0%B2%D1%80%D0%B0%D1%87%D0%B5%D0%B9-%D0%B8%D0%B7-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%B8-%D1%81%D0%BD%D0%B3/a-18885061?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" label="dw.com/ru/%D0%B2-%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%D1%85-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B6%D0%B4%D1%83%D1%82-%D0%B2%D1%80%D0%B0%D1%87%D0%B5%D0%B9-%D0%B8%D0%B7-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%B8-%D1%81%D0%BD%D0%B3/a-18885061?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/pages/Newsbyorg/1569808916598532" label="facebook.com/pages/Newsbyorg/1569808916598532">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/newsbyorg" label="m.vk.com/newsbyorg">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pras.by" label="pras.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=by.nn.app" label="play.google.com/store/apps/details?id=by.nn.app">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" label="polese.by/chastnye-obyavleniya/prodam/nedvizhimost">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="abw.by" label="abw.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/nashaniva" label="instagram.com/nashaniva">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="akavita.com" label="akavita.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="bigmir.net" label="bigmir.net">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="feeds.feedburner.com/varjag/novosti" label="feeds.feedburner.com/varjag/novosti">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="docs.google.com/forms/d/1gkRG_1jpy4ODFkYr1N5Zz4rCnvavUtK5ayGwQAaNs-s/viewform?c=0&amp;w=1" label="docs.google.com/forms/d/1gkRG_1jpy4ODFkYr1N5Zz4rCnvavUtK5ayGwQAaNs-s/viewform?c=0&amp;w=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/freespace_by" label="twitter.com/freespace_by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/dmir.ru" label="facebook.com/dmir.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="kufar.by/%D0%B1%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B?nf=1" label="kufar.by/%D0%B1%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B?nf=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fnaviny.by%252Frubrics%252Fsociety%252F2015%252F12%252F02%252Fic_media_video_116_9639%252F" label="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fnaviny.by%252Frubrics%252Fsociety%252F2015%252F12%252F02%252Fic_media_video_116_9639%252F">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/zautra.by" label="facebook.com/zautra.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D1%80%D0%B5%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2-%D0%BA%D0%B0%D0%BC%D0%BF%D1%83%D1%81%D0%B0/a-18879518?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" label="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D1%80%D0%B5%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2-%D0%BA%D0%B0%D0%BC%D0%BF%D1%83%D1%81%D0%B0/a-18879518?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="t.co/qP5mCmuq" label="t.co/qP5mCmuq" />
+      <node id="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" label="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/belpartisan" label="twitter.com/belpartisan">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a38f1772" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a38f1772">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1301159&amp;stat=0&amp;theme=217%2F218%2F220&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1301159&amp;stat=0&amp;theme=217%2F218%2F220&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="charter97.org/ru/news/2015/12/2/181119" label="charter97.org/ru/news/2015/12/2/181119">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belapan.by" label="belapan.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fpressball.by%26ts%3D1449089716%26uid%3D1167396331445336338&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25BD%25D0%25B0%25D1%2588%25D0%25B0%2520%25D0%25BD%25D0%25B8%25D0%25B2%25D0%25B0%26lr%3D154%26clid%3D1917159&amp;sign=420699674fdfbc99df99994da70c8209&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71868%2Fpart%3D%25D0%25BF%25D1%2580%25D0%25B5%2Fsuggestion%3D%25D0%25BF%25D1%2580%25D0%25B5%25D1%2581%25D1%2581%25D0%25B1%25D0%25BE%25D0%25BB%2Fregion%3D149%2F%2A&amp;text=%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B1%D0%BE%D0%BB" label="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fpressball.by%26ts%3D1449089716%26uid%3D1167396331445336338&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25BD%25D0%25B0%25D1%2588%25D0%25B0%2520%25D0%25BD%25D0%25B8%25D0%25B2%25D0%25B0%26lr%3D154%26clid%3D1917159&amp;sign=420699674fdfbc99df99994da70c8209&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71868%2Fpart%3D%25D0%25BF%25D1%2580%25D0%25B5%2Fsuggestion%3D%25D0%25BF%25D1%2580%25D0%25B5%25D1%2581%25D1%2581%25D0%25B1%25D0%25BE%25D0%25BB%2Fregion%3D149%2F%2A&amp;text=%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B1%D0%BE%D0%BB">
+        <attvalues>
+          <attvalue for="0" value="0.625726147605" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="akavita.by/ru" label="akavita.by/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="nsk-sex.ru" label="nsk-sex.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/brestarki" label="m.vk.com/brestarki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="calend.ru/holidays/belorus" label="calend.ru/holidays/belorus">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="80.240.133.13./openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab1e718a" label="80.240.133.13./openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab1e718a">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=accde4eb" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=accde4eb">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=org.belaruspartisan" label="play.google.com/store/apps/details?id=org.belaruspartisan">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/Slivki.by" label="facebook.com/Slivki.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="interfax.com.ua" label="interfax.com.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/bizlida_by" label="m.vk.com/bizlida_by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="potolkiuvlada.ru" label="potolkiuvlada.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="naviny.by/rubrics/finance/2015/11/28/ic_articles_114_190367" label="naviny.by/rubrics/finance/2015/11/28/ic_articles_114_190367">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/NashaNiva" label="youtube.com/user/NashaNiva">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/charter_97" label="twitter.com/charter_97">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="80.240.133.13./openx/www/delivery/ck.php?cb=8359345945&amp;n=a6ad124e" label="80.240.133.13./openx/www/delivery/ck.php?cb=8359345945&amp;n=a6ad124e">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gazetaby.com/cont/art.php?sn_nid=104749" label="gazetaby.com/cont/art.php?sn_nid=104749">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" label="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/pages/%D0%9D%D0%B0%D1%88%D0%B0-%D0%9D%D1%96%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%88%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0/322733085540" label="facebook.com/pages/%D0%9D%D0%B0%D1%88%D0%B0-%D0%9D%D1%96%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%88%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0/322733085540">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="go.mail.ru/search?hasnavig=0&amp;q=%D0%B8%D0%B7+%D1%80%D1%83%D0%BA+%D0%B2+%D1%80%D1%83%D0%BA%D0%B8+%D0%B1%D1%80%D0%B5%D1%81%D1%82&amp;us=2&amp;usln=4&amp;usqid=97d6a8cb8859198a&amp;usstr=%D0%B8%D0%B7" label="go.mail.ru/search?hasnavig=0&amp;q=%D0%B8%D0%B7+%D1%80%D1%83%D0%BA+%D0%B2+%D1%80%D1%83%D0%BA%D0%B8+%D0%B1%D1%80%D0%B5%D1%81%D1%82&amp;us=2&amp;usln=4&amp;usqid=97d6a8cb8859198a&amp;usstr=%D0%B8%D0%B7">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/shtorypinsk" label="m.vk.com/shtorypinsk">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="bgk-meshkova.com" label="bgk-meshkova.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="radyjo.net/4/90/Artykul/231252,%D0%9F%D0%B0%D0%BB%D1%96%D1%86%D1%8B%D1%8F-%D0%91%D1%8D%D0%BB%D1%8C%D0%B3%D1%96%D1%96-%D0%B7%D0%B0%D1%82%D1%80%D1%8B%D0%BC%D0%B0%D0%BB%D0%B0-%D1%8F%D1%88%D1%87%D1%8D-%D0%B4%D0%B2%D1%83%D1%85-%D0%BC%D0%B5%D1%80%D0%BA%D0%B0%D0%B2%D0%B0%D0%BD%D1%8B%D1%85-%D1%82%D1%8D%D1%80%D0%B0%D1%80%D1%8B%D1%81%D1%82%D0%B0%D1%9E" label="radyjo.net/4/90/Artykul/231252,%D0%9F%D0%B0%D0%BB%D1%96%D1%86%D1%8B%D1%8F-%D0%91%D1%8D%D0%BB%D1%8C%D0%B3%D1%96%D1%96-%D0%B7%D0%B0%D1%82%D1%80%D1%8B%D0%BC%D0%B0%D0%BB%D0%B0-%D1%8F%D1%88%D1%87%D1%8D-%D0%B4%D0%B2%D1%83%D1%85-%D0%BC%D0%B5%D1%80%D0%BA%D0%B0%D0%B2%D0%B0%D0%BD%D1%8B%D1%85-%D1%82%D1%8D%D1%80%D0%B0%D1%80%D1%8B%D1%81%D1%82%D0%B0%D1%9E">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/club87813108" label="m.vk.com/club87813108">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/newsbyorg" label="twitter.com/newsbyorg">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="p-shkola.by/ru/reklama?id=245" label="p-shkola.by/ru/reklama?id=245">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gazetaby.com/cont/art.php?sn_nid=105588" label="gazetaby.com/cont/art.php?sn_nid=105588">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="funtastik.by" label="funtastik.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/charter_97" label="m.vk.com/charter_97">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/group/54857116942363" label="ok.ru/group/54857116942363">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a758fa77" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a758fa77">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="freespace.by" label="freespace.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="develop.belta.by" label="develop.belta.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="radyjo.net/4/88/Artykul/231212,%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E-%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D1%9E%D0%BD%D1%96%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%84%D0%BE%D1%82%D0%B0%D0%B7%D0%B4%D1%8B%D0%BC%D0%BA%D0%B0%D1%9E" label="radyjo.net/4/88/Artykul/231212,%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E-%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D1%9E%D0%BD%D1%96%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%84%D0%BE%D1%82%D0%B0%D0%B7%D0%B4%D1%8B%D0%BC%D0%BA%D0%B0%D1%9E">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="zautra.by/art.php?sn_nid=20051" label="zautra.by/art.php?sn_nid=20051">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="bizlida.by" label="bizlida.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244" label="jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/charter97" label="ok.ru/charter97">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressball.by/news" label="pressball.by/news">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressball.by" label="pressball.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="webmoney.ru" label="webmoney.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pinskap.by/content/traffic/urban_transport" label="pinskap.by/content/traffic/urban_transport">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="delo-tehniki.by" label="delo-tehniki.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="abw.by/allpublic/sell/8432199" label="abw.by/allpublic/sell/8432199">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com" label="m.vk.com">
+        <attvalues>
+          <attvalue for="0" value="0.999999999999" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/m103by" label="m.vk.com/m103by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="president.gov.by" label="president.gov.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itmedia.by" label="itmedia.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="radyjo.net/4/88/Artykul/231310,%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8B-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B7%D1%8F%D1%86%D1%86%D0%B0-%D0%BD%D0%B0-%D1%8F%D0%BA%D0%B0%D1%81%D1%8C%D1%86%D1%8C-%D1%80%D0%B0%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D0%B9-%D0%BD%D0%B0%D1%84%D1%82%D1%8B" label="radyjo.net/4/88/Artykul/231310,%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8B-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B7%D1%8F%D1%86%D1%86%D0%B0-%D0%BD%D0%B0-%D1%8F%D0%BA%D0%B0%D1%81%D1%8C%D1%86%D1%8C-%D1%80%D0%B0%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D0%B9-%D0%BD%D0%B0%D1%84%D1%82%D1%8B">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="molodechnomebel.by" label="molodechnomebel.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belta.by" label="belta.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/charter97.org" label="facebook.com/charter97.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="mininform.gov.by/ru" label="mininform.gov.by/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="slivki.by/kofe" label="slivki.by/kofe">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hoster.by" label="hoster.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="nur.kz/895103-smk-predlozhil-vvesti-v-kazakhstane-nal.html" label="nur.kz/895103-smk-predlozhil-vvesti-v-kazakhstane-nal.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="etalon-irkutsk.ru" label="etalon-irkutsk.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="freemarket.kiev.ua" label="freemarket.kiev.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="go.mail.ru/search?hasnavig=0&amp;q=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;us=27&amp;usau=1&amp;usln=1&amp;usqid=97d69b4f0ab6b5ed&amp;usstr=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8" label="go.mail.ru/search?hasnavig=0&amp;q=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;us=27&amp;usau=1&amp;usln=1&amp;usqid=97d69b4f0ab6b5ed&amp;usstr=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=697446&amp;stat=0&amp;theme=229%2F236&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=697446&amp;stat=0&amp;theme=229%2F236&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="abff.by/index.php?lang=ru" label="abff.by/index.php?lang=ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all" label="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=2&amp;pageCount=30&amp;resourceId=2418936&amp;stat=0&amp;type=19&amp;view=short" label="top100.rambler.ru/navi?page=2&amp;pageCount=30&amp;resourceId=2418936&amp;stat=0&amp;type=19&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hockey.by" label="hockey.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/pressball" label="facebook.com/pressball">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fwww.moyareklama.by%26ts%3D1449089716%26uid%3D527143061409512691&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B5%25D0%25BE%25203d%2520%25D0%25BF%25D1%2580%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%2520%25D0%25B2%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B5%26lr%3D155&amp;sign=5e076df39ca8bb712e31818ae599918a&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71613%2Fpart%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%2Fsuggestion%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25BC%25D0%25B0%2520%25D0%25B3%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BB%25D1%258C%2Fregion%3D149%2F%2A&amp;text=%D0%BC%D0%BE%D1%8F+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" label="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fwww.moyareklama.by%26ts%3D1449089716%26uid%3D527143061409512691&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B5%25D0%25BE%25203d%2520%25D0%25BF%25D1%2580%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%2520%25D0%25B2%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B5%26lr%3D155&amp;sign=5e076df39ca8bb712e31818ae599918a&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71613%2Fpart%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%2Fsuggestion%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25BC%25D0%25B0%2520%25D0%25B3%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BB%25D1%258C%2Fregion%3D149%2F%2A&amp;text=%D0%BC%D0%BE%D1%8F+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/navinyby?sk=wall" label="facebook.com/navinyby?sk=wall">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pogoda.by" label="pogoda.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/channel/UCRiV78AOBPdPAUR1i_D9z7w" label="youtube.com/channel/UCRiV78AOBPdPAUR1i_D9z7w">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="mysql.com" label="mysql.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gismeteo.by" label="gismeteo.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="createaforum.com" label="createaforum.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gismeteo.by/weather-pinsk-4914" label="gismeteo.by/weather-pinsk-4914">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="db.by" label="db.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="brest-region.gov.by" label="brest-region.gov.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com" label="twitter.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="nn.by?lang=ru" label="nn.by?lang=ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressball.by/news/biathlon/218684" label="pressball.by/news/biathlon/218684">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/m103by" label="facebook.com/m103by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a50ef925" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a50ef925">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/Charter97video" label="youtube.com/user/Charter97video">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="allkupe.by" label="allkupe.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="livescore.in/ru" label="livescore.in/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/afroditapinsk" label="m.vk.com/afroditapinsk">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="rozumsoft.ru" label="rozumsoft.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="showroom.by" label="showroom.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="active.by" label="active.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="rostehsert.ru" label="rostehsert.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belapan.com/site/about" label="belapan.com/site/about">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="015.by" label="015.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD8-0tog6OowACC3yjLVL2XPKirSx_SjgwJkAFSXfztHbDg7chVuwEJ82xo0eqMUULssvYIL_NuSu1VC0olgeVfVCj7we5hU23QgFHjKeZjTEJ_I00Qb1i0o_cleg06rVDOY8rpOyBZ5rHhhGuKs88QRRH8MldFs7U__e-N8KRDOh7zUP4XpkEZpkfkIbHiof4YST8IKhMjrusxh2zVD-BBmUQn3C_olWgFjg2DHh061&amp;cts=1449009109963&amp;from=yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.921928094887362&amp;ref=orjY4mGPRjkHVRqRT7scntuoYxQHzkpRiJ8K0mnjiDMsYjDmqXAoqNLlWKM52v6lewhEBIsm1yTz6DAg5QTdjkJf6kCj1hyGPW1lAG8Qkxn__XgKkclcn9ICrRwuaptficNbT_B4RO08AYhpDixDenl2DNzvbXGC5tCeV911rSugrFoZZ2L7sommJNJRmbE_B5ubz3Q3Y0eKBqL1up4cKm90eBrArSfAHEUOCjt3codmWj5FAkGSe9k0bFqKFmhz2wu-2B2BWYI_21LYL-2mWQ&amp;sign=2458caf80bb51b49d7da3b7d8da7dd34&amp;state=PEtFfuTeVD5kpHnK9lio9daDl0Ow0EQqBnwXqr2CGSTlhSDEzIy2U7BBTY65%2Fy93%2BqwDrx71SbSVJRsoLuhczA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5+%D0%BE%D0%B1%D1%83%D0%B2%D1%8C+%D0%B8%D0%B7+%D1%82%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;url=http%3A%2F%2Fdm.by%2Fminsk%2Fdressing%2Fwomen-shoes%2Fobuv-turciya%2F" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD8-0tog6OowACC3yjLVL2XPKirSx_SjgwJkAFSXfztHbDg7chVuwEJ82xo0eqMUULssvYIL_NuSu1VC0olgeVfVCj7we5hU23QgFHjKeZjTEJ_I00Qb1i0o_cleg06rVDOY8rpOyBZ5rHhhGuKs88QRRH8MldFs7U__e-N8KRDOh7zUP4XpkEZpkfkIbHiof4YST8IKhMjrusxh2zVD-BBmUQn3C_olWgFjg2DHh061&amp;cts=1449009109963&amp;from=yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.921928094887362&amp;ref=orjY4mGPRjkHVRqRT7scntuoYxQHzkpRiJ8K0mnjiDMsYjDmqXAoqNLlWKM52v6lewhEBIsm1yTz6DAg5QTdjkJf6kCj1hyGPW1lAG8Qkxn__XgKkclcn9ICrRwuaptficNbT_B4RO08AYhpDixDenl2DNzvbXGC5tCeV911rSugrFoZZ2L7sommJNJRmbE_B5ubz3Q3Y0eKBqL1up4cKm90eBrArSfAHEUOCjt3codmWj5FAkGSe9k0bFqKFmhz2wu-2B2BWYI_21LYL-2mWQ&amp;sign=2458caf80bb51b49d7da3b7d8da7dd34&amp;state=PEtFfuTeVD5kpHnK9lio9daDl0Ow0EQqBnwXqr2CGSTlhSDEzIy2U7BBTY65%2Fy93%2BqwDrx71SbSVJRsoLuhczA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5+%D0%BE%D0%B1%D1%83%D0%B2%D1%8C+%D0%B8%D0%B7+%D1%82%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;url=http%3A%2F%2Fdm.by%2Fminsk%2Fdressing%2Fwomen-shoes%2Fobuv-turciya%2F">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" label="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/TRK_Varjag" label="twitter.com/TRK_Varjag">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="freemax.by" label="freemax.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pbliga.com" label="pbliga.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gismeteo.by/weather-pinsk-4914/14-days" label="gismeteo.by/weather-pinsk-4914/14-days">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/nasa_niva_ru" label="twitter.com/nasa_niva_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="newsby.org/novosti/2015/12/01/text6248.htm" label="newsby.org/novosti/2015/12/01/text6248.htm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="charter97.org/ru/news/2015/12/2/181121" label="charter97.org/ru/news/2015/12/2/181121">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="radyjo.net/4/88/Artykul/231308,%D0%A0%D1%8D%D0%BA%D1%82%D0%B0%D1%80-%D0%91%D0%94%D0%A3-%D0%BF%D1%80%D0%B0%D1%96%D0%B3%D0%BD%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D1%9E-%D0%BF%D0%B0%D1%82%D1%80%D0%B0%D0%B1%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%D0%BD%D1%96-%D1%81%D1%82%D1%83%D0%B4%D1%8D%D0%BD%D1%82%D0%B0%D1%9E" label="radyjo.net/4/88/Artykul/231308,%D0%A0%D1%8D%D0%BA%D1%82%D0%B0%D1%80-%D0%91%D0%94%D0%A3-%D0%BF%D1%80%D0%B0%D1%96%D0%B3%D0%BD%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D1%9E-%D0%BF%D0%B0%D1%82%D1%80%D0%B0%D0%B1%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%D0%BD%D1%96-%D1%81%D1%82%D1%83%D0%B4%D1%8D%D0%BD%D1%82%D0%B0%D1%9E">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="charter97.org/ru/news/p/2" label="charter97.org/ru/news/p/2">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/navinyby" label="m.vk.com/navinyby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="validator.w3.org/check?accept=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8&amp;accept-language=en&amp;uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244" label="validator.w3.org/check?accept=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8&amp;accept-language=en&amp;uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ptushki.org" label="ptushki.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itibo.com" label="itibo.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/MassMedia-Newspapers/Today/Visitors/8.html?from=jumpfrom" label="top.mail.ru/Rating/MassMedia-Newspapers/Today/Visitors/8.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youblisher.com/p/941983-%CA%E0%F2%E0%EB%EE%E3-%E8%E7%E4%E0%F2%E5%EB%FC%F1%F2%E2%E0-%CF%E0%F7%E0%F2%EA%EE%E2%E0%FF-%F8%EA%EE%EB%E0" label="youblisher.com/p/941983-%CA%E0%F2%E0%EB%EE%E3-%E8%E7%E4%E0%F2%E5%EB%FC%F1%F2%E2%E0-%CF%E0%F7%E0%F2%EA%EE%E2%E0%FF-%F8%EA%EE%EB%E0">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="petsby.com" label="petsby.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/112247816664052877615" label="plus.google.com/112247816664052877615">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belstu.by" label="belstu.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="brest.irr.by" label="brest.irr.by" />
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a179a3a2" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a179a3a2">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="kurs.expert/ru/obmennik.html" label="kurs.expert/ru/obmennik.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="company.dmir.ru" label="company.dmir.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pressball.by/news/biathlon/218674" label="pressball.by/news/biathlon/218674">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="landing.fxline.by?utm_campaign=kak-zarabatyvat-bolshe&amp;utm_medium=sponsorstvo-rubriki&amp;utm_source=naviny" label="landing.fxline.by?utm_campaign=kak-zarabatyvat-bolshe&amp;utm_medium=sponsorstvo-rubriki&amp;utm_source=naviny">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/belaruspartisan" label="m.vk.com/belaruspartisan">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="autotrader.by/avtolombard" label="autotrader.by/avtolombard">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="6.pogoda.by" label="6.pogoda.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFK_4aBOFq1ZuV1PYAf2XSQuk9uf2Ko7T3e8w0nZjA22yEO68LXry3lLrDKs_xGFNMME3snma6Uckw_6Q9Ru2v_hl-Ys02fHR2hAkg6ujnN1udW2xEpv5WUjeowkB2WsUljn9nyONigutfhQjMtL7z6wU5oqf78lL7xudQaJeMAr8YfI5GdsSFXcEPQL78Dg0jedsDP4VWezHjT6UaO5pVac&amp;cts=1449089722949&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.109283749883896&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjx37ucE0HtIEfufVzfwxY_uMb2X6ymBWvAsyxah4FQfkT-xeyYSq7s8VBw5lV6_lLcmLn1NFjG3fqIDE0ywqnOBihUcnrzXw7zjf7rzYsYP1MhIuJkWf6T1jHssqDnkr-iBI3L-k61mYS6ganFYVoFcBWxDgGBk3l-kSpVk9lXNrJY5Xu1isTZ8JBXXbC9mhhwhoo7XxCWHhmDfFQLbhOnD16mCSwFwadYlWL2SK1LNRiQxXubo7uILhf2nQx9SyZ23fKVrXKOXAU2Pda4N9c_HtNHIo177Z3ivGfEuwCU3UWkJ35YhpblQ&amp;sign=deb4e195c99c9fa3a6aaac6dafcf3452&amp;state=PEtFfuTeVD5kpHnK9lio9Zc%2FDIZZ0dKubMH5SlV3e2pxP4XEzyw1aQ%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5&amp;url=http%3A%2F%2Fwww.polese.by%2Fchastnye-obyavleniya%2Fprodam%2Fnedvizhimost%2F" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFK_4aBOFq1ZuV1PYAf2XSQuk9uf2Ko7T3e8w0nZjA22yEO68LXry3lLrDKs_xGFNMME3snma6Uckw_6Q9Ru2v_hl-Ys02fHR2hAkg6ujnN1udW2xEpv5WUjeowkB2WsUljn9nyONigutfhQjMtL7z6wU5oqf78lL7xudQaJeMAr8YfI5GdsSFXcEPQL78Dg0jedsDP4VWezHjT6UaO5pVac&amp;cts=1449089722949&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.109283749883896&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjx37ucE0HtIEfufVzfwxY_uMb2X6ymBWvAsyxah4FQfkT-xeyYSq7s8VBw5lV6_lLcmLn1NFjG3fqIDE0ywqnOBihUcnrzXw7zjf7rzYsYP1MhIuJkWf6T1jHssqDnkr-iBI3L-k61mYS6ganFYVoFcBWxDgGBk3l-kSpVk9lXNrJY5Xu1isTZ8JBXXbC9mhhwhoo7XxCWHhmDfFQLbhOnD16mCSwFwadYlWL2SK1LNRiQxXubo7uILhf2nQx9SyZ23fKVrXKOXAU2Pda4N9c_HtNHIo177Z3ivGfEuwCU3UWkJ35YhpblQ&amp;sign=deb4e195c99c9fa3a6aaac6dafcf3452&amp;state=PEtFfuTeVD5kpHnK9lio9Zc%2FDIZZ0dKubMH5SlV3e2pxP4XEzyw1aQ%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5&amp;url=http%3A%2F%2Fwww.polese.by%2Fchastnye-obyavleniya%2Fprodam%2Fnedvizhimost%2F">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afde4019" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afde4019">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFLy6vCFiLD6GijWDwmolAA4JoqCqqiVWQiZmixA9GVl6dTvhgU6r4spzJcRta_PNkOwsvjT7UqxFqzlWuQ3ysQ3Ksf18gZ1qXTvT_BxwURuRcgKsuSmnfXDIzYN5CxkWrGKtkDlrWqzp7wgfxUVOKUGj9l-vx6dtDeUQfn7wxrd4tRJgpZyyHNwS4pKCI2Hn21-GAPTDfHPhCbDTPpl8zDWgqYVMaclXXH-kQxLG_GeIN-027QZJ3y3w83WehLe5as2f-inUFVhjuZ00g1F9l_8&amp;cts=1449089721862&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.471354487013931&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjQ0PVB6FJObHj9SwpwL8l53JUze5mq0TImtU-8_UmAxDBHtXrhgN6c_HuFZEYpaw90F2TxpccX-uIr73GCpp1JXAkCSQ_znUkO7ec0n5y8V_hHTa1-FM3xYnoFSpnmr9PJQxKCRVAHThkmXNivd_WJUIw_O0P_Z3QmQ9yrZUN8RGROy5yvjeCJHBaond2Clm_NjL_wpKvtM0&amp;sign=d6182bfe368f2c66853d7058ede02f9b&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;url=http%3A%2F%2Fwww.lastochka.by%2Fauto%2F" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFLy6vCFiLD6GijWDwmolAA4JoqCqqiVWQiZmixA9GVl6dTvhgU6r4spzJcRta_PNkOwsvjT7UqxFqzlWuQ3ysQ3Ksf18gZ1qXTvT_BxwURuRcgKsuSmnfXDIzYN5CxkWrGKtkDlrWqzp7wgfxUVOKUGj9l-vx6dtDeUQfn7wxrd4tRJgpZyyHNwS4pKCI2Hn21-GAPTDfHPhCbDTPpl8zDWgqYVMaclXXH-kQxLG_GeIN-027QZJ3y3w83WehLe5as2f-inUFVhjuZ00g1F9l_8&amp;cts=1449089721862&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.471354487013931&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjQ0PVB6FJObHj9SwpwL8l53JUze5mq0TImtU-8_UmAxDBHtXrhgN6c_HuFZEYpaw90F2TxpccX-uIr73GCpp1JXAkCSQ_znUkO7ec0n5y8V_hHTa1-FM3xYnoFSpnmr9PJQxKCRVAHThkmXNivd_WJUIw_O0P_Z3QmQ9yrZUN8RGROy5yvjeCJHBaond2Clm_NjL_wpKvtM0&amp;sign=d6182bfe368f2c66853d7058ede02f9b&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;url=http%3A%2F%2Fwww.lastochka.by%2Fauto%2F">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/pressballnews" label="m.vk.com/pressballnews">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="abcmebel.by" label="abcmebel.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dm.by/minsk/dressing/women-shoes/obuv-turciya" label="dm.by/minsk/dressing/women-shoes/obuv-turciya">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af4ae113" label="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af4ae113">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gazetaby.com" label="gazetaby.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belkiosk.by/navpales" label="belkiosk.by/navpales">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belaruspartisan.org/lenta" label="belaruspartisan.org/lenta">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="avtozor.com/search?search=1" label="avtozor.com/search?search=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="simplemachines.org/about/smf/copyright.php" label="simplemachines.org/about/smf/copyright.php">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/freespace_by/status/279694983047569408/photo/1" label="twitter.com/freespace_by/status/279694983047569408/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="stolin.brest-region.gov.by" label="stolin.brest-region.gov.by">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru" label="top100.rambler.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/moyareklamaby" label="m.vk.com/moyareklamaby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="nasha_niva.livejournal.com" label="nasha_niva.livejournal.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFMbamS5178-BiZ-Oj30wRLijXVSG6xgt0DL5ZFuWPb8AlbCGvSbcVTrU9neBGoDxFsQKiSUBY8d-ASIa_ahY0C-9TtiOccuXxRVG9P4mQTQdm7BSYTkgVPcK_Y_eJjTe1ADBHXsfgPjZ9jtrM1vgUtap-GXVjYmYccxgHyH5n8ml-9FKgT7ACbwdW4y5vcb1PE0ogEzn21tP-zRJ3RGsnm98JbIxc-kuEruIVWoK0dVby-YmYXIuJWRVEmdd0tZ5jEIRw4xDhFudGFzckjPQBWbidWBPw2w6L2FxgJItEs3NXsGwm2VUjK5rpZnwkEraWIAKyI4_ajK2&amp;cts=1449089727155&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=2.752733436352641&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjpMix6vzvzTN8yF0JHIQCeNRLPNzZgMHxQVFsy3PgdZUbbNic7q11bb0A9ICKabUR1VbAU8wxPdxYVWu-shxN_vWJ1xVCptaF62R_NyxzHCs9h4UlzJQwhvB6LKoAXQjIvOmJAaRVyRcuEZ94aOIDzky8Wo5bgN1mYm6gyspbfq4fJExOlYQCskEF32S88xrvxccgpf7B59k8kSu9XbcqOkMFLOdubPBIJ0GfkluJU8FNbmx9hhs6XsZaSz6GM6QpmTpK1OynyNLo1X3LsPft2bQS0bc5tVUWJ9mYsLhdrLZRZB_zKIPQs1FzX3JcxlJS74nPQLADnT12pJ86i6vDe5iTKyrFF7UN&amp;sign=db87a8bebaeba3c2b6f25ddd781a499d&amp;state=PEtFfuTeVD5kpHnK9lio9Y1w3Nt2jODPxQ%2FSNO3S%2BXHz72ZsV%2Bdx8w%3D%3D&amp;text=%D0%B1%D0%B5%D0%B7%D0%BE%D1%82%D0%BC%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%BE+2+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5+%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B&amp;url=http%3A%2F%2Fwww.p-shkola.by%2Fru%2Freklama%3Fid%3D245" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFMbamS5178-BiZ-Oj30wRLijXVSG6xgt0DL5ZFuWPb8AlbCGvSbcVTrU9neBGoDxFsQKiSUBY8d-ASIa_ahY0C-9TtiOccuXxRVG9P4mQTQdm7BSYTkgVPcK_Y_eJjTe1ADBHXsfgPjZ9jtrM1vgUtap-GXVjYmYccxgHyH5n8ml-9FKgT7ACbwdW4y5vcb1PE0ogEzn21tP-zRJ3RGsnm98JbIxc-kuEruIVWoK0dVby-YmYXIuJWRVEmdd0tZ5jEIRw4xDhFudGFzckjPQBWbidWBPw2w6L2FxgJItEs3NXsGwm2VUjK5rpZnwkEraWIAKyI4_ajK2&amp;cts=1449089727155&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=2.752733436352641&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjpMix6vzvzTN8yF0JHIQCeNRLPNzZgMHxQVFsy3PgdZUbbNic7q11bb0A9ICKabUR1VbAU8wxPdxYVWu-shxN_vWJ1xVCptaF62R_NyxzHCs9h4UlzJQwhvB6LKoAXQjIvOmJAaRVyRcuEZ94aOIDzky8Wo5bgN1mYm6gyspbfq4fJExOlYQCskEF32S88xrvxccgpf7B59k8kSu9XbcqOkMFLOdubPBIJ0GfkluJU8FNbmx9hhs6XsZaSz6GM6QpmTpK1OynyNLo1X3LsPft2bQS0bc5tVUWJ9mYsLhdrLZRZB_zKIPQs1FzX3JcxlJS74nPQLADnT12pJ86i6vDe5iTKyrFF7UN&amp;sign=db87a8bebaeba3c2b6f25ddd781a499d&amp;state=PEtFfuTeVD5kpHnK9lio9Y1w3Nt2jODPxQ%2FSNO3S%2BXHz72ZsV%2Bdx8w%3D%3D&amp;text=%D0%B1%D0%B5%D0%B7%D0%BE%D1%82%D0%BC%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%BE+2+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5+%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B&amp;url=http%3A%2F%2Fwww.p-shkola.by%2Fru%2Freklama%3Fid%3D245">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="all.by" label="all.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="mobile.dmir.ru" label="mobile.dmir.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="news.allcrimea.net/news/2015/12/2/probnyi-zapusk-energomosta-v-krym-ne-udalsya-50003" label="news.allcrimea.net/news/2015/12/2/probnyi-zapusk-energomosta-v-krym-ne-udalsya-50003">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/belaruspartisan.org" label="facebook.com/belaruspartisan.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/navinyby" label="facebook.com/navinyby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="www.mir.pravo.by" label="www.mir.pravo.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Internet-Free/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Internet-Free/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/id949399156" label="itunes.apple.com/app/id949399156">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="bbc.com/russian/news/2015/12/151202_ukraine_kgb_archives" label="bbc.com/russian/news/2015/12/151202_ukraine_kgb_archives">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="banner.grodno.net/openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a32eb8eb" label="banner.grodno.net/openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a32eb8eb">
+        <attvalues>
+          <attvalue for="0" value="0.169461505959" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="php.net" label="php.net">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFBsQUXbgSHWDFyAuRERBj2dvrsCgkolErXX9A2HOlyJm2aeVVXM83sD0c6Q2XmsYLaC9RCUtuYs5H9B1JTRhyGI5gcsM0ASOF2cy76uX4IljJGzdNG9wJjVIfTbvy5AG0uYtVGtRGy1EaS7waDmow7qzfZa_9i7mIuOvVKRCDnYcH-LuFO_j5t5jX6_CJ_ZeYGP1BCrrqM2mfK3iUlYScBj8h3upor00LK93lFaxCYQX&amp;cts=1449089724152&amp;from=www.yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.740163823462&amp;ref=orjY4mGPRjlSKyJlbRuxUktv92klnDKHbzjnJ3NB5Zvj5_j01dZDzMOmNQoWC67531Y4LGL4UzZOy6ptyV2oNPylgGKfOdvm3s1j-qzX2_NwBae33BmpfN2_X0NDbng-u2Rb_pNgK2caS08xb3Ineu38R9sHO01ZTwmrMPGjnqFkYQ7jeGDLZuvO1znmtV9awYg-On26yxM0mIFFuu-uNe63i2PuzAqN8iZMdIo9qtuSBEZJw_AskvkJ1bwPb9hQOLw4uKnZdvTCLvum4e-I2sRJ8st3GnXNbn2SirSb-DA7QZ913RL7FUVIWJtuTvYMCXJM0Vbj6syA3L9D-IkTOKJ5aIq--FefQCoMssG_JoqVN0TS3vorcZwnMKul9QzFCqIyPs86JQMOGQ8Fy81pMze8wrvhpeU9OR7VKJIhxza8OTcMy0gMxelfZrP8QRShxZIhYZEtzaGgCYkMwQsh8i1iSuk0lyi5gknqFH83iEY5IGzkQ2uKSw&amp;sign=5c7c5a18dd658d5bb1a22209328135f7&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F+%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA+%D0%BE%D1%82%D0%B4%D0%B0%D0%BC+%D0%B2+%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5+%D1%80%D1%83%D0%BA%D0%B8+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C&amp;url=http%3A%2F%2Fgomel.slanet.by%2Fctg-612%2F" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFBsQUXbgSHWDFyAuRERBj2dvrsCgkolErXX9A2HOlyJm2aeVVXM83sD0c6Q2XmsYLaC9RCUtuYs5H9B1JTRhyGI5gcsM0ASOF2cy76uX4IljJGzdNG9wJjVIfTbvy5AG0uYtVGtRGy1EaS7waDmow7qzfZa_9i7mIuOvVKRCDnYcH-LuFO_j5t5jX6_CJ_ZeYGP1BCrrqM2mfK3iUlYScBj8h3upor00LK93lFaxCYQX&amp;cts=1449089724152&amp;from=www.yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.740163823462&amp;ref=orjY4mGPRjlSKyJlbRuxUktv92klnDKHbzjnJ3NB5Zvj5_j01dZDzMOmNQoWC67531Y4LGL4UzZOy6ptyV2oNPylgGKfOdvm3s1j-qzX2_NwBae33BmpfN2_X0NDbng-u2Rb_pNgK2caS08xb3Ineu38R9sHO01ZTwmrMPGjnqFkYQ7jeGDLZuvO1znmtV9awYg-On26yxM0mIFFuu-uNe63i2PuzAqN8iZMdIo9qtuSBEZJw_AskvkJ1bwPb9hQOLw4uKnZdvTCLvum4e-I2sRJ8st3GnXNbn2SirSb-DA7QZ913RL7FUVIWJtuTvYMCXJM0Vbj6syA3L9D-IkTOKJ5aIq--FefQCoMssG_JoqVN0TS3vorcZwnMKul9QzFCqIyPs86JQMOGQ8Fy81pMze8wrvhpeU9OR7VKJIhxza8OTcMy0gMxelfZrP8QRShxZIhYZEtzaGgCYkMwQsh8i1iSuk0lyi5gknqFH83iEY5IGzkQ2uKSw&amp;sign=5c7c5a18dd658d5bb1a22209328135f7&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F+%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA+%D0%BE%D1%82%D0%B4%D0%B0%D0%BC+%D0%B2+%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5+%D1%80%D1%83%D0%BA%D0%B8+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C&amp;url=http%3A%2F%2Fgomel.slanet.by%2Fctg-612%2F">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/group/53627650769005" label="ok.ru/group/53627650769005">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" label="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/-zJLWrgzd6" label="instagram.com/p/-zJLWrgzd6">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="pshop.by" label="pshop.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/pressballby" label="twitter.com/pressballby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="simplemachines.org" label="simplemachines.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2840802&amp;stat=0&amp;theme=440%2F443&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2840802&amp;stat=0&amp;theme=440%2F443&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/MassMedia-Online/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/MassMedia-Online/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belconsole.by/Avtotovary/fm_modulyatory_fm_transmittery_/ritmix11/FM-transmitter_FM-modulyator_RITMIX_FMT-A730" label="belconsole.by/Avtotovary/fm_modulyatory_fm_transmittery_/ritmix11/FM-transmitter_FM-modulyator_RITMIX_FMT-A730">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="belaruspartisan.org/politic/326092" label="belaruspartisan.org/politic/326092">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D1%87%D1%83%D0%BC%D0%B0-%D0%BA%D0%BE%D1%84%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B8-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%83/a-18885032?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" label="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D1%87%D1%83%D0%BC%D0%B0-%D0%BA%D0%BE%D1%84%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B8-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%83/a-18885032?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="seo.artox-media.ru" label="seo.artox-media.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="rp5.by/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5" label="rp5.by/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="stat.akavita.by/stat/stat.pl?id=11952&amp;lang=ru" label="stat.akavita.by/stat/stat.pl?id=11952&amp;lang=ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="bereza.slanet.by/realt/kvartiry/arenda/~396" label="bereza.slanet.by/realt/kvartiry/arenda/~396">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/ru/app/belorusskij-partizan/id551657917?mt=8" label="itunes.apple.com/ru/app/belorusskij-partizan/id551657917?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/rukzachok1" label="m.vk.com/rukzachok1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="reformal.ru" label="reformal.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="radyjo.net/4/90/Artykul/231277,%D0%A2%D1%83%D1%80%D1%86%D1%8B%D1%8F-%D0%B7%D0%B3%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D1%86%D0%B0%D0%BB%D0%BA%D0%B0%D0%BC-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%86%D1%8C-%D0%BC%D1%8F%D0%B6%D1%83-%D0%B7-%D0%A1%D1%8B%D1%80%D1%8B%D1%8F%D0%B9" label="radyjo.net/4/90/Artykul/231277,%D0%A2%D1%83%D1%80%D1%86%D1%8B%D1%8F-%D0%B7%D0%B3%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D1%86%D0%B0%D0%BB%D0%BA%D0%B0%D0%BC-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%86%D1%8C-%D0%BC%D1%8F%D0%B6%D1%83-%D0%B7-%D0%A1%D1%8B%D1%80%D1%8B%D1%8F%D0%B9">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/bizlida.by" label="facebook.com/bizlida.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/slivkiby" label="m.vk.com/slivkiby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="odnoklassniki.ru/moyareklamaby" label="odnoklassniki.ru/moyareklamaby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="azati.com" label="azati.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="detmagazin.ucoz.ru" label="detmagazin.ucoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Cars-Sale/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Cars-Sale/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/+Charter97Org_news" label="plus.google.com/+Charter97Org_news">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="artox.com/city-platform" label="artox.com/city-platform">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="stat.akavita.by/stat/stat.pl?id=2299" label="stat.akavita.by/stat/stat.pl?id=2299">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Belarusian" />
+        </attvalues>
+      </node>
+      <node id="livejournal.com/update.bml?event=http%3A%2F%2Fnaviny.by%2Frubrics%2Fsociety%2F2015%2F12%2F02%2Fic_media_video_116_9639%2F&amp;subject=%D1%F2%F3%E4%E5%ED%F2%FB+%C1%C3%D3+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F2+%EF%F0%EE%F2%E8%E2+%E2%E2%E5%E4%E5%ED%E8%FF+%EF%EB%E0%F2%FB+%E7%E0+%EF%E5%F0%E5%F1%E4%E0%F7%E8" label="livejournal.com/update.bml?event=http%3A%2F%2Fnaviny.by%2Frubrics%2Fsociety%2F2015%2F12%2F02%2Fic_media_video_116_9639%2F&amp;subject=%D1%F2%F3%E4%E5%ED%F2%FB+%C1%C3%D3+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F2+%EF%F0%EE%F2%E8%E2+%E2%E2%E5%E4%E5%ED%E8%FF+%EF%EB%E0%F2%FB+%E7%E0+%EF%E5%F0%E5%F1%E4%E0%F7%E8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=by.slivki.android" label="play.google.com/store/apps/details?id=by.slivki.android">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/naviny" label="twitter.com/naviny">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD3Zn11VoYlTabb5C8n5s8gyJeA0ehsdPuOet7zPzWocjWBaKgobGwAz8KcTT5x7ZnO2MT8-9a6Ehh--6qzzhCk53eys15IuIB57GYbncS2ngZaf3r0cVsrXI_kffIqPB4zy8JK3xhlnR7lA_PnhuXNnxwkSCOHbVfVP5BiREs3yHrdouEZI0CwahP2osINlZaHIWuAECdse9N-98g5gQbYV_bIgj__oxwM1mLlAjNr1GhndSw8GwjYj-QxxXbtTsw&amp;cts=1449089694999&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.192470766387128&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjXqmWJ4Ni9GFPzVkbNw5L8ig_ELnqh7QXDToSfEBhBe5f3tSbafVvAggva6Bbg8pPrs_3w4Rhty5yAvbijAqhqYp5lSuqh9Fge8jlM8gBC7hkZk8emnwcQzfxTRQUJWjYlDL1f44_9o1dZYz-PPoVWmOkqD0__jr7O2OT-y68Ql5BB15IqGkgPOL7xGXBPOS-6kqaJnVmmBU_kDh6CrNiNiaQO1Q3UIYvEWX7xAMvmIVFiHyvuCcju_UTHHDA0qyuOOyQrFMdHuUQCsxpDg1sZ7AVxOyL3x8bIIg1vDaWmsbAD7UJH_1tKWLawVbwlwaKk3Si0JUerKU&amp;sign=8335a75ce36af26143548aaf8cb23d0d&amp;state=PEtFfuTeVD5kpHnK9lio9ZA7Np24Z20t470I%2BvJO%2FGIiNhWIhYNH5g%3D%3D&amp;text=%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8+2015&amp;url=http%3A%2F%2Fvarjag.net%2Fminobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu%2F" label="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD3Zn11VoYlTabb5C8n5s8gyJeA0ehsdPuOet7zPzWocjWBaKgobGwAz8KcTT5x7ZnO2MT8-9a6Ehh--6qzzhCk53eys15IuIB57GYbncS2ngZaf3r0cVsrXI_kffIqPB4zy8JK3xhlnR7lA_PnhuXNnxwkSCOHbVfVP5BiREs3yHrdouEZI0CwahP2osINlZaHIWuAECdse9N-98g5gQbYV_bIgj__oxwM1mLlAjNr1GhndSw8GwjYj-QxxXbtTsw&amp;cts=1449089694999&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.192470766387128&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjXqmWJ4Ni9GFPzVkbNw5L8ig_ELnqh7QXDToSfEBhBe5f3tSbafVvAggva6Bbg8pPrs_3w4Rhty5yAvbijAqhqYp5lSuqh9Fge8jlM8gBC7hkZk8emnwcQzfxTRQUJWjYlDL1f44_9o1dZYz-PPoVWmOkqD0__jr7O2OT-y68Ql5BB15IqGkgPOL7xGXBPOS-6kqaJnVmmBU_kDh6CrNiNiaQO1Q3UIYvEWX7xAMvmIVFiHyvuCcju_UTHHDA0qyuOOyQrFMdHuUQCsxpDg1sZ7AVxOyL3x8bIIg1vDaWmsbAD7UJH_1tKWLawVbwlwaKk3Si0JUerKU&amp;sign=8335a75ce36af26143548aaf8cb23d0d&amp;state=PEtFfuTeVD5kpHnK9lio9ZA7Np24Z20t470I%2BvJO%2FGIiNhWIhYNH5g%3D%3D&amp;text=%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8+2015&amp;url=http%3A%2F%2Fvarjag.net%2Fminobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu%2F">
+        <attvalues>
+          <attvalue for="0" value="0.612724730211" />
+          <attvalue for="1" value="Kinyarwanda" />
+        </attvalues>
+      </node>
+      <node id="slivki_by.reformal.ru" label="slivki_by.reformal.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="na.by" label="na.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="shop.by" label="shop.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/slivkiby" label="twitter.com/slivkiby">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/MassMedia-News/Today/Visitors/5.html?from=jumpfrom" label="top.mail.ru/Rating/MassMedia-News/Today/Visitors/5.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="lastochka.by/auto" label="lastochka.by/auto">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="103.by" label="103.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xn----8sbjufbbcmolbtcflf.xn--p1ai" label="xn----8sbjufbbcmolbtcflf.xn--p1ai">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="6b4fe1b3a6b911fb63e920dd1ffcf21fa6b51a90.googledrive.com/host/0B4C6lwn_ak6zZUo1Z1FfVjg3ZUU/form.html" label="6b4fe1b3a6b911fb63e920dd1ffcf21fa6b51a90.googledrive.com/host/0B4C6lwn_ak6zZUo1Z1FfVjg3ZUU/form.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="gomel.slanet.by/zhivotnye/koshki/~612" target="top100.rambler.ru/navi?page=2&amp;pageCount=30&amp;resourceId=2418936&amp;stat=0&amp;type=19&amp;view=short" weight="1" />
+      <edge id="1" source="gomel.slanet.by/zhivotnye/koshki/~612" target="akavita.by/ru" weight="1" />
+      <edge id="2" source="gomel.slanet.by/zhivotnye/koshki/~612" target="all.by" weight="1" />
+      <edge id="3" source="gomel.slanet.by/zhivotnye/koshki/~612" target="top.mail.ru/Rating/Internet-Free/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="4" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="stolin.brest-region.gov.by" weight="1" />
+      <edge id="5" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="m.vk.com/club87813108" weight="1" />
+      <edge id="6" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="mininform.gov.by/ru" weight="1" />
+      <edge id="7" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="rp5.by/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5" weight="1" />
+      <edge id="8" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="hoster.by" weight="1" />
+      <edge id="9" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="ok.ru/group/54857116942363" weight="1" />
+      <edge id="10" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="calend.ru/holidays/belorus" weight="1" />
+      <edge id="11" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="belkiosk.by/navpales" weight="1" />
+      <edge id="12" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="brsm.by/projects/otkry-ty-e-debaty-vy-biraj-by" weight="1" />
+      <edge id="13" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="president.gov.by" weight="1" />
+      <edge id="14" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="akavita.by/ru" weight="1" />
+      <edge id="15" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="brest-region.gov.by" weight="1" />
+      <edge id="16" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="kufar.by/%D0%B1%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B?nf=1" weight="1" />
+      <edge id="17" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="belta.by" weight="1" />
+      <edge id="18" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="top.mail.ru/Rating/MassMedia-Newspapers/Today/Visitors/8.html?from=jumpfrom" weight="1" />
+      <edge id="19" source="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" target="nsk-sex.ru" weight="1" />
+      <edge id="20" source="abw.by" target="akavita.by/ru" weight="1" />
+      <edge id="21" source="abw.by" target="youtube.com/channel/UCRiV78AOBPdPAUR1i_D9z7w" weight="1" />
+      <edge id="22" source="abw.by" target="facebook.com/abw.by" weight="1" />
+      <edge id="23" source="abw.by" target="gismeteo.by" weight="1" />
+      <edge id="24" source="twitter.com/freespace_by" target="twitter.com/freespace_by/status/279694983047569408/photo/1" weight="1" />
+      <edge id="25" source="twitter.com/freespace_by" target="freespace.by" weight="3" />
+      <edge id="26" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="php.net" weight="1" />
+      <edge id="27" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244" weight="1" />
+      <edge id="28" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="validator.w3.org/check?accept=text%2Fhtml%2Capplication%2Fxhtml%2Bxml%2Capplication%2Fxml%3Bq%3D0.9%2C%2A%2F%2A%3Bq%3D0.8&amp;accept-language=en&amp;uri=http%3A%2F%2Fforum.grodno.net%2Findex.php%3Faction%3Dactivate%26code%3D7ca10e012a%26u%3D281244" weight="1" />
+      <edge id="29" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="stat.akavita.by/stat/stat.pl?id=11952&amp;lang=ru" weight="1" />
+      <edge id="30" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="top100.rambler.ru" weight="1" />
+      <edge id="31" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="015.by" weight="1" />
+      <edge id="32" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="mysql.com" weight="1" />
+      <edge id="33" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="createaforum.com" weight="1" />
+      <edge id="34" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="simplemachines.org" weight="1" />
+      <edge id="35" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="80.240.133.13./openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab1e718a" weight="1" />
+      <edge id="36" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="80.240.133.13./openx/www/delivery/ck.php?cb=8359345945&amp;n=a6ad124e" weight="1" />
+      <edge id="37" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="itibo.com" weight="1" />
+      <edge id="38" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="azati.com" weight="1" />
+      <edge id="39" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="banner.grodno.net/openx/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a32eb8eb" weight="1" />
+      <edge id="40" source="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" target="simplemachines.org/about/smf/copyright.php" weight="1" />
+      <edge id="41" source="charter97.org/ru/news/2015/12/2/181119" target="plus.google.com/+Charter97Org_news" weight="1" />
+      <edge id="42" source="charter97.org/ru/news/2015/12/2/181119" target="ok.ru/charter97" weight="1" />
+      <edge id="43" source="charter97.org/ru/news/2015/12/2/181119" target="interfax.com.ua" weight="1" />
+      <edge id="44" source="charter97.org/ru/news/2015/12/2/181119" target="youtube.com/user/Charter97video" weight="1" />
+      <edge id="45" source="charter97.org/ru/news/2015/12/2/181119" target="twitter.com/charter_97" weight="1" />
+      <edge id="46" source="charter97.org/ru/news/2015/12/2/181119" target="akavita.by/ru" weight="1" />
+      <edge id="47" source="charter97.org/ru/news/2015/12/2/181119" target="facebook.com/charter97.org" weight="1" />
+      <edge id="48" source="charter97.org/ru/news/2015/12/2/181119" target="bbc.com/russian/news/2015/12/151202_ukraine_kgb_archives" weight="1" />
+      <edge id="49" source="charter97.org/ru/news/2015/12/2/181119" target="m.vk.com/charter_97" weight="1" />
+      <edge id="50" source="akavita.by/ru" target="gomel.slanet.by/zhivotnye/koshki/~612" weight="1" />
+      <edge id="51" source="akavita.by/ru" target="charter97.org/ru/news/2015/12/2/181119" weight="1" />
+      <edge id="52" source="akavita.by/ru" target="p-shkola.by/ru/reklama?id=245" weight="1" />
+      <edge id="53" source="akavita.by/ru" target="brest.irr.by" weight="1" />
+      <edge id="54" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFMbamS5178-BiZ-Oj30wRLijXVSG6xgt0DL5ZFuWPb8AlbCGvSbcVTrU9neBGoDxFsQKiSUBY8d-ASIa_ahY0C-9TtiOccuXxRVG9P4mQTQdm7BSYTkgVPcK_Y_eJjTe1ADBHXsfgPjZ9jtrM1vgUtap-GXVjYmYccxgHyH5n8ml-9FKgT7ACbwdW4y5vcb1PE0ogEzn21tP-zRJ3RGsnm98JbIxc-kuEruIVWoK0dVby-YmYXIuJWRVEmdd0tZ5jEIRw4xDhFudGFzckjPQBWbidWBPw2w6L2FxgJItEs3NXsGwm2VUjK5rpZnwkEraWIAKyI4_ajK2&amp;cts=1449089727155&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=2.752733436352641&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjpMix6vzvzTN8yF0JHIQCeNRLPNzZgMHxQVFsy3PgdZUbbNic7q11bb0A9ICKabUR1VbAU8wxPdxYVWu-shxN_vWJ1xVCptaF62R_NyxzHCs9h4UlzJQwhvB6LKoAXQjIvOmJAaRVyRcuEZ94aOIDzky8Wo5bgN1mYm6gyspbfq4fJExOlYQCskEF32S88xrvxccgpf7B59k8kSu9XbcqOkMFLOdubPBIJ0GfkluJU8FNbmx9hhs6XsZaSz6GM6QpmTpK1OynyNLo1X3LsPft2bQS0bc5tVUWJ9mYsLhdrLZRZB_zKIPQs1FzX3JcxlJS74nPQLADnT12pJ86i6vDe5iTKyrFF7UN&amp;sign=db87a8bebaeba3c2b6f25ddd781a499d&amp;state=PEtFfuTeVD5kpHnK9lio9Y1w3Nt2jODPxQ%2FSNO3S%2BXHz72ZsV%2Bdx8w%3D%3D&amp;text=%D0%B1%D0%B5%D0%B7%D0%BE%D1%82%D0%BC%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2%D0%BE+2+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B5+%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B&amp;url=http%3A%2F%2Fwww.p-shkola.by%2Fru%2Freklama%3Fid%3D245" weight="1" />
+      <edge id="55" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD8-0tog6OowACC3yjLVL2XPKirSx_SjgwJkAFSXfztHbDg7chVuwEJ82xo0eqMUULssvYIL_NuSu1VC0olgeVfVCj7we5hU23QgFHjKeZjTEJ_I00Qb1i0o_cleg06rVDOY8rpOyBZ5rHhhGuKs88QRRH8MldFs7U__e-N8KRDOh7zUP4XpkEZpkfkIbHiof4YST8IKhMjrusxh2zVD-BBmUQn3C_olWgFjg2DHh061&amp;cts=1449009109963&amp;from=yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.921928094887362&amp;ref=orjY4mGPRjkHVRqRT7scntuoYxQHzkpRiJ8K0mnjiDMsYjDmqXAoqNLlWKM52v6lewhEBIsm1yTz6DAg5QTdjkJf6kCj1hyGPW1lAG8Qkxn__XgKkclcn9ICrRwuaptficNbT_B4RO08AYhpDixDenl2DNzvbXGC5tCeV911rSugrFoZZ2L7sommJNJRmbE_B5ubz3Q3Y0eKBqL1up4cKm90eBrArSfAHEUOCjt3codmWj5FAkGSe9k0bFqKFmhz2wu-2B2BWYI_21LYL-2mWQ&amp;sign=2458caf80bb51b49d7da3b7d8da7dd34&amp;state=PEtFfuTeVD5kpHnK9lio9daDl0Ow0EQqBnwXqr2CGSTlhSDEzIy2U7BBTY65%2Fy93%2BqwDrx71SbSVJRsoLuhczA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5+%D0%BE%D0%B1%D1%83%D0%B2%D1%8C+%D0%B8%D0%B7+%D1%82%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;url=http%3A%2F%2Fdm.by%2Fminsk%2Fdressing%2Fwomen-shoes%2Fobuv-turciya%2F" weight="1" />
+      <edge id="56" source="akavita.by/ru" target="go.mail.ru/search?hasnavig=0&amp;q=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;us=27&amp;usau=1&amp;usln=1&amp;usqid=97d69b4f0ab6b5ed&amp;usstr=ritmix+fmt-a730+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B8" weight="1" />
+      <edge id="57" source="akavita.by/ru" target="zautra.by/art.php?sn_nid=20051" weight="1" />
+      <edge id="58" source="akavita.by/ru" target="bizlida.by" weight="1" />
+      <edge id="59" source="akavita.by/ru" target="belconsole.by/Avtotovary/fm_modulyatory_fm_transmittery_/ritmix11/FM-transmitter_FM-modulyator_RITMIX_FMT-A730" weight="1" />
+      <edge id="60" source="akavita.by/ru" target="pressball.by" weight="1" />
+      <edge id="61" source="akavita.by/ru" target="abw.by" weight="1" />
+      <edge id="62" source="akavita.by/ru" target="newsby.org/novosti/2015/12/01/text6248.htm" weight="1" />
+      <edge id="63" source="akavita.by/ru" target="charter97.org/ru/news/2015/12/2/181121" weight="1" />
+      <edge id="64" source="akavita.by/ru" target="abw.by/allpublic/sell/8432199" weight="1" />
+      <edge id="65" source="akavita.by/ru" target="charter97.org/ru/news/p/2" weight="1" />
+      <edge id="66" source="akavita.by/ru" target="pressball.by/news" weight="1" />
+      <edge id="67" source="akavita.by/ru" target="polese.by/chastnye-obyavleniya/prodam/nedvizhimost" weight="1" />
+      <edge id="68" source="akavita.by/ru" target="belaruspartisan.org/politic/326092" weight="1" />
+      <edge id="69" source="akavita.by/ru" target="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" weight="1" />
+      <edge id="70" source="akavita.by/ru" target="forum.grodno.net/index.php?action=activate&amp;code=7ca10e012a&amp;u=281244" weight="1" />
+      <edge id="71" source="akavita.by/ru" target="belaruspartisan.org/lenta" weight="1" />
+      <edge id="72" source="akavita.by/ru" target="slivki.by/kofe" weight="1" />
+      <edge id="73" source="akavita.by/ru" target="bereza.slanet.by/realt/kvartiry/arenda/~396" weight="1" />
+      <edge id="74" source="akavita.by/ru" target="pressball.by/news/biathlon/218674" weight="1" />
+      <edge id="75" source="akavita.by/ru" target="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" weight="1" />
+      <edge id="76" source="akavita.by/ru" target="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fpressball.by%26ts%3D1449089716%26uid%3D1167396331445336338&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25BD%25D0%25B0%25D1%2588%25D0%25B0%2520%25D0%25BD%25D0%25B8%25D0%25B2%25D0%25B0%26lr%3D154%26clid%3D1917159&amp;sign=420699674fdfbc99df99994da70c8209&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71868%2Fpart%3D%25D0%25BF%25D1%2580%25D0%25B5%2Fsuggestion%3D%25D0%25BF%25D1%2580%25D0%25B5%25D1%2581%25D1%2581%25D0%25B1%25D0%25BE%25D0%25BB%2Fregion%3D149%2F%2A&amp;text=%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B1%D0%BE%D0%BB" weight="1" />
+      <edge id="77" source="akavita.by/ru" target="6.pogoda.by" weight="1" />
+      <edge id="78" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFK_4aBOFq1ZuV1PYAf2XSQuk9uf2Ko7T3e8w0nZjA22yEO68LXry3lLrDKs_xGFNMME3snma6Uckw_6Q9Ru2v_hl-Ys02fHR2hAkg6ujnN1udW2xEpv5WUjeowkB2WsUljn9nyONigutfhQjMtL7z6wU5oqf78lL7xudQaJeMAr8YfI5GdsSFXcEPQL78Dg0jedsDP4VWezHjT6UaO5pVac&amp;cts=1449089722949&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.109283749883896&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjx37ucE0HtIEfufVzfwxY_uMb2X6ymBWvAsyxah4FQfkT-xeyYSq7s8VBw5lV6_lLcmLn1NFjG3fqIDE0ywqnOBihUcnrzXw7zjf7rzYsYP1MhIuJkWf6T1jHssqDnkr-iBI3L-k61mYS6ganFYVoFcBWxDgGBk3l-kSpVk9lXNrJY5Xu1isTZ8JBXXbC9mhhwhoo7XxCWHhmDfFQLbhOnD16mCSwFwadYlWL2SK1LNRiQxXubo7uILhf2nQx9SyZ23fKVrXKOXAU2Pda4N9c_HtNHIo177Z3ivGfEuwCU3UWkJ35YhpblQ&amp;sign=deb4e195c99c9fa3a6aaac6dafcf3452&amp;state=PEtFfuTeVD5kpHnK9lio9Zc%2FDIZZ0dKubMH5SlV3e2pxP4XEzyw1aQ%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5&amp;url=http%3A%2F%2Fwww.polese.by%2Fchastnye-obyavleniya%2Fprodam%2Fnedvizhimost%2F" weight="1" />
+      <edge id="79" source="akavita.by/ru" target="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all" weight="1" />
+      <edge id="80" source="akavita.by/ru" target="nn.by?lang=ru" weight="1" />
+      <edge id="81" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFLy6vCFiLD6GijWDwmolAA4JoqCqqiVWQiZmixA9GVl6dTvhgU6r4spzJcRta_PNkOwsvjT7UqxFqzlWuQ3ysQ3Ksf18gZ1qXTvT_BxwURuRcgKsuSmnfXDIzYN5CxkWrGKtkDlrWqzp7wgfxUVOKUGj9l-vx6dtDeUQfn7wxrd4tRJgpZyyHNwS4pKCI2Hn21-GAPTDfHPhCbDTPpl8zDWgqYVMaclXXH-kQxLG_GeIN-027QZJ3y3w83WehLe5as2f-inUFVhjuZ00g1F9l_8&amp;cts=1449089721862&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.471354487013931&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjQ0PVB6FJObHj9SwpwL8l53JUze5mq0TImtU-8_UmAxDBHtXrhgN6c_HuFZEYpaw90F2TxpccX-uIr73GCpp1JXAkCSQ_znUkO7ec0n5y8V_hHTa1-FM3xYnoFSpnmr9PJQxKCRVAHThkmXNivd_WJUIw_O0P_Z3QmQ9yrZUN8RGROy5yvjeCJHBaond2Clm_NjL_wpKvtM0&amp;sign=d6182bfe368f2c66853d7058ede02f9b&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B0%D0%B2%D1%82%D0%BE+%D0%B2+%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5&amp;url=http%3A%2F%2Fwww.lastochka.by%2Fauto%2F" weight="1" />
+      <edge id="82" source="akavita.by/ru" target="pressball.by/news/biathlon/218684" weight="1" />
+      <edge id="83" source="akavita.by/ru" target="yandex.by/clck/jsredir?data=url%3Dhttp%253A%252F%252Fwww.moyareklama.by%26ts%3D1449089716%26uid%3D527143061409512691&amp;from=yandex.by%3Bsuggest%3Bweb&amp;keyno=0&amp;l10n=ru&amp;ref=https%3A%2F%2Fyandex.by%2Fsearch%2F%3Ftext%3D%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B5%25D0%25BE%25203d%2520%25D0%25BF%25D1%2580%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%2520%25D0%25B2%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B5%26lr%3D155&amp;sign=5e076df39ca8bb712e31818ae599918a&amp;state=dtype%3Dstred%2Fpid%3D1%2Fcid%3D71613%2Fpart%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%2Fsuggestion%3D%25D0%25BC%25D0%25BE%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25BC%25D0%25B0%2520%25D0%25B3%25D0%25BE%25D0%25BC%25D0%25B5%25D0%25BB%25D1%258C%2Fregion%3D149%2F%2A&amp;text=%D0%BC%D0%BE%D1%8F+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" weight="1" />
+      <edge id="84" source="akavita.by/ru" target="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" weight="1" />
+      <edge id="85" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFBsQUXbgSHWDFyAuRERBj2dvrsCgkolErXX9A2HOlyJm2aeVVXM83sD0c6Q2XmsYLaC9RCUtuYs5H9B1JTRhyGI5gcsM0ASOF2cy76uX4IljJGzdNG9wJjVIfTbvy5AG0uYtVGtRGy1EaS7waDmow7qzfZa_9i7mIuOvVKRCDnYcH-LuFO_j5t5jX6_CJ_ZeYGP1BCrrqM2mfK3iUlYScBj8h3upor00LK93lFaxCYQX&amp;cts=1449089724152&amp;from=www.yandex.by%3Byandsearch%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=3.740163823462&amp;ref=orjY4mGPRjlSKyJlbRuxUktv92klnDKHbzjnJ3NB5Zvj5_j01dZDzMOmNQoWC67531Y4LGL4UzZOy6ptyV2oNPylgGKfOdvm3s1j-qzX2_NwBae33BmpfN2_X0NDbng-u2Rb_pNgK2caS08xb3Ineu38R9sHO01ZTwmrMPGjnqFkYQ7jeGDLZuvO1znmtV9awYg-On26yxM0mIFFuu-uNe63i2PuzAqN8iZMdIo9qtuSBEZJw_AskvkJ1bwPb9hQOLw4uKnZdvTCLvum4e-I2sRJ8st3GnXNbn2SirSb-DA7QZ913RL7FUVIWJtuTvYMCXJM0Vbj6syA3L9D-IkTOKJ5aIq--FefQCoMssG_JoqVN0TS3vorcZwnMKul9QzFCqIyPs86JQMOGQ8Fy81pMze8wrvhpeU9OR7VKJIhxza8OTcMy0gMxelfZrP8QRShxZIhYZEtzaGgCYkMwQsh8i1iSuk0lyi5gknqFH83iEY5IGzkQ2uKSw&amp;sign=5c7c5a18dd658d5bb1a22209328135f7&amp;state=PEtFfuTeVD5kpHnK9lio9b04eb9KTsJpEk3AFOuLWkb2A2ZADgA4gA%3D%3D&amp;text=%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F+%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA+%D0%BE%D1%82%D0%B4%D0%B0%D0%BC+%D0%B2+%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5+%D1%80%D1%83%D0%BA%D0%B8+%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C&amp;url=http%3A%2F%2Fgomel.slanet.by%2Fctg-612%2F" weight="1" />
+      <edge id="86" source="akavita.by/ru" target="na.by" weight="1" />
+      <edge id="87" source="akavita.by/ru" target="lastochka.by/auto" weight="1" />
+      <edge id="88" source="akavita.by/ru" target="dm.by/minsk/dressing/women-shoes/obuv-turciya" weight="1" />
+      <edge id="89" source="akavita.by/ru" target="103.by" weight="1" />
+      <edge id="90" source="akavita.by/ru" target="go.mail.ru/search?hasnavig=0&amp;q=%D0%B8%D0%B7+%D1%80%D1%83%D0%BA+%D0%B2+%D1%80%D1%83%D0%BA%D0%B8+%D0%B1%D1%80%D0%B5%D1%81%D1%82&amp;us=2&amp;usln=4&amp;usqid=97d6a8cb8859198a&amp;usstr=%D0%B8%D0%B7" weight="1" />
+      <edge id="91" source="akavita.by/ru" target="funtastik.by" weight="1" />
+      <edge id="92" source="akavita.by/ru" target="yandex.by/clck/jsredir?b64e=3&amp;cst=AiuY0DBWFJ5Hyx_fyvalFD3Zn11VoYlTabb5C8n5s8gyJeA0ehsdPuOet7zPzWocjWBaKgobGwAz8KcTT5x7ZnO2MT8-9a6Ehh--6qzzhCk53eys15IuIB57GYbncS2ngZaf3r0cVsrXI_kffIqPB4zy8JK3xhlnR7lA_PnhuXNnxwkSCOHbVfVP5BiREs3yHrdouEZI0CwahP2osINlZaHIWuAECdse9N-98g5gQbYV_bIgj__oxwM1mLlAjNr1GhndSw8GwjYj-QxxXbtTsw&amp;cts=1449089694999&amp;from=yandex.by%3Bsearch%2F%3Bweb%3B%3B&amp;keyno=0&amp;l10n=ru&amp;mc=5.192470766387128&amp;ref=orjY4mGPRjkHVRqRT7scnl9k3ZfzgjFjXqmWJ4Ni9GFPzVkbNw5L8ig_ELnqh7QXDToSfEBhBe5f3tSbafVvAggva6Bbg8pPrs_3w4Rhty5yAvbijAqhqYp5lSuqh9Fge8jlM8gBC7hkZk8emnwcQzfxTRQUJWjYlDL1f44_9o1dZYz-PPoVWmOkqD0__jr7O2OT-y68Ql5BB15IqGkgPOL7xGXBPOS-6kqaJnVmmBU_kDh6CrNiNiaQO1Q3UIYvEWX7xAMvmIVFiHyvuCcju_UTHHDA0qyuOOyQrFMdHuUQCsxpDg1sZ7AVxOyL3x8bIIg1vDaWmsbAD7UJH_1tKWLawVbwlwaKk3Si0JUerKU&amp;sign=8335a75ce36af26143548aaf8cb23d0d&amp;state=PEtFfuTeVD5kpHnK9lio9ZA7Np24Z20t470I%2BvJO%2FGIiNhWIhYNH5g%3D%3D&amp;text=%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8+2015&amp;url=http%3A%2F%2Fvarjag.net%2Fminobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu%2F" weight="1" />
+      <edge id="93" source="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=697446&amp;stat=0&amp;theme=229%2F236&amp;view=short" weight="1" />
+      <edge id="94" source="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" target="m.vk.com/moyareklamaby" weight="1" />
+      <edge id="95" source="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" target="odnoklassniki.ru/moyareklamaby" weight="1" />
+      <edge id="96" source="moyareklama.by/%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C" target="akavita.by/ru" weight="1" />
+      <edge id="97" source="p-shkola.by/ru/reklama?id=245" target="detmagazin.ucoz.ru" weight="1" />
+      <edge id="98" source="p-shkola.by/ru/reklama?id=245" target="belstu.by" weight="1" />
+      <edge id="99" source="p-shkola.by/ru/reklama?id=245" target="top100.rambler.ru" weight="1" />
+      <edge id="100" source="p-shkola.by/ru/reklama?id=245" target="petsby.com" weight="1" />
+      <edge id="101" source="p-shkola.by/ru/reklama?id=245" target="m.vk.com/rukzachok1" weight="1" />
+      <edge id="102" source="p-shkola.by/ru/reklama?id=245" target="pshop.by" weight="1" />
+      <edge id="103" source="p-shkola.by/ru/reklama?id=245" target="ptushki.org" weight="1" />
+      <edge id="104" source="p-shkola.by/ru/reklama?id=245" target="develop.belta.by" weight="1" />
+      <edge id="105" source="p-shkola.by/ru/reklama?id=245" target="www.mir.pravo.by" weight="1" />
+      <edge id="106" source="p-shkola.by/ru/reklama?id=245" target="akavita.by/ru" weight="1" />
+      <edge id="107" source="p-shkola.by/ru/reklama?id=245" target="youblisher.com/p/941983-%CA%E0%F2%E0%EB%EE%E3-%E8%E7%E4%E0%F2%E5%EB%FC%F1%F2%E2%E0-%CF%E0%F7%E0%F2%EA%EE%E2%E0%FF-%F8%EA%EE%EB%E0" weight="1" />
+      <edge id="108" source="funtastik.by" target="akavita.by/ru" weight="1" />
+      <edge id="109" source="freespace.by" target="avtozor.com/search?search=1" weight="2" />
+      <edge id="110" source="freespace.by" target="akavita.by/ru" weight="2" />
+      <edge id="111" source="freespace.by" target="twitter.com/freespace_by" weight="2" />
+      <edge id="112" source="zautra.by/art.php?sn_nid=20051" target="gazetaby.com/cont/art.php?sn_nid=105588" weight="1" />
+      <edge id="113" source="zautra.by/art.php?sn_nid=20051" target="facebook.com/zautra.by" weight="1" />
+      <edge id="114" source="zautra.by/art.php?sn_nid=20051" target="gazetaby.com" weight="1" />
+      <edge id="115" source="zautra.by/art.php?sn_nid=20051" target="m.vk.com" weight="1" />
+      <edge id="116" source="zautra.by/art.php?sn_nid=20051" target="gazetaby.com/cont/art.php?sn_nid=104749" weight="1" />
+      <edge id="117" source="zautra.by/art.php?sn_nid=20051" target="akavita.by/ru" weight="1" />
+      <edge id="118" source="bizlida.by" target="akavita.by/ru" weight="1" />
+      <edge id="119" source="bizlida.by" target="itmedia.by" weight="1" />
+      <edge id="120" source="bizlida.by" target="m.vk.com/bizlida_by" weight="1" />
+      <edge id="121" source="bizlida.by" target="facebook.com/bizlida.by" weight="1" />
+      <edge id="122" source="pressball.by/news" target="webmoney.ru" weight="1" />
+      <edge id="123" source="pressball.by/news" target="m.vk.com/pressballnews" weight="1" />
+      <edge id="124" source="pressball.by/news" target="stat.akavita.by/stat/stat.pl?id=2299" weight="1" />
+      <edge id="125" source="pressball.by/news" target="facebook.com/pressball" weight="1" />
+      <edge id="126" source="pressball.by/news" target="bigmir.net" weight="1" />
+      <edge id="127" source="pressball.by/news" target="twitter.com/pressballby" weight="1" />
+      <edge id="128" source="pressball.by/news" target="all.by" weight="1" />
+      <edge id="129" source="pressball.by/news" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="130" source="pressball.by/news" target="db.by" weight="1" />
+      <edge id="131" source="pressball.by/news" target="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="132" source="pressball.by/news" target="potolkiuvlada.ru" weight="1" />
+      <edge id="133" source="pressball.by/news" target="pbliga.com" weight="1" />
+      <edge id="134" source="pressball.by/news" target="rozumsoft.ru" weight="1" />
+      <edge id="135" source="pressball.by/news" target="plus.google.com/112247816664052877615" weight="1" />
+      <edge id="136" source="pressball.by" target="webmoney.ru" weight="1" />
+      <edge id="137" source="pressball.by" target="m.vk.com/pressballnews" weight="1" />
+      <edge id="138" source="pressball.by" target="hockey.by" weight="1" />
+      <edge id="139" source="pressball.by" target="livescore.in/ru" weight="1" />
+      <edge id="140" source="pressball.by" target="stat.akavita.by/stat/stat.pl?id=2299" weight="1" />
+      <edge id="141" source="pressball.by" target="rozumsoft.ru" weight="1" />
+      <edge id="142" source="pressball.by" target="bigmir.net" weight="1" />
+      <edge id="143" source="pressball.by" target="kurs.expert/ru/obmennik.html" weight="1" />
+      <edge id="144" source="pressball.by" target="facebook.com/pressball" weight="1" />
+      <edge id="145" source="pressball.by" target="twitter.com/pressballby" weight="1" />
+      <edge id="146" source="pressball.by" target="all.by" weight="1" />
+      <edge id="147" source="pressball.by" target="molodechnomebel.by" weight="1" />
+      <edge id="148" source="pressball.by" target="bgk-meshkova.com" weight="1" />
+      <edge id="149" source="pressball.by" target="db.by" weight="1" />
+      <edge id="150" source="pressball.by" target="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="151" source="pressball.by" target="abff.by/index.php?lang=ru" weight="1" />
+      <edge id="152" source="pressball.by" target="pbliga.com" weight="1" />
+      <edge id="153" source="pressball.by" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="154" source="pressball.by" target="xn----8sbjufbbcmolbtcflf.xn--p1ai" weight="1" />
+      <edge id="155" source="pressball.by" target="plus.google.com/112247816664052877615" weight="1" />
+      <edge id="156" source="abw.by/allpublic/sell/8432199" target="akavita.by/ru" weight="1" />
+      <edge id="157" source="abw.by/allpublic/sell/8432199" target="youtube.com/channel/UCRiV78AOBPdPAUR1i_D9z7w" weight="1" />
+      <edge id="158" source="abw.by/allpublic/sell/8432199" target="facebook.com/abw.by" weight="1" />
+      <edge id="159" source="slivki.by/kofe" target="ok.ru/group/53627650769005" weight="1" />
+      <edge id="160" source="slivki.by/kofe" target="play.google.com/store/apps/details?id=by.slivki.android" weight="1" />
+      <edge id="161" source="slivki.by/kofe" target="facebook.com/Slivki.by" weight="1" />
+      <edge id="162" source="slivki.by/kofe" target="slivki_by.reformal.ru" weight="1" />
+      <edge id="163" source="slivki.by/kofe" target="twitter.com/slivkiby" weight="1" />
+      <edge id="164" source="slivki.by/kofe" target="reformal.ru" weight="1" />
+      <edge id="165" source="slivki.by/kofe" target="akavita.by/ru" weight="1" />
+      <edge id="166" source="slivki.by/kofe" target="m.vk.com/slivkiby" weight="1" />
+      <edge id="167" source="slivki.by/kofe" target="itunes.apple.com/app/id949399156" weight="1" />
+      <edge id="168" source="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all" target="all.by" weight="1" />
+      <edge id="169" source="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1837121&amp;stat=0&amp;theme=208%2F209%2F240&amp;view=short" weight="1" />
+      <edge id="170" source="pudra.by/catalog/hair?brand=303&amp;cat=all&amp;page=2&amp;sex=all" target="akavita.by/ru" weight="1" />
+      <edge id="171" source="nn.by?lang=ru" target="twitter.com/nasa_niva_ru" weight="1" />
+      <edge id="172" source="nn.by?lang=ru" target="instagram.com/nashaniva" weight="1" />
+      <edge id="173" source="nn.by?lang=ru" target="akavita.com" weight="1" />
+      <edge id="174" source="nn.by?lang=ru" target="nasha_niva.livejournal.com" weight="1" />
+      <edge id="175" source="nn.by?lang=ru" target="m.vk.com/nasa_niva" weight="1" />
+      <edge id="176" source="nn.by?lang=ru" target="youtube.com/user/NashaNiva" weight="1" />
+      <edge id="177" source="nn.by?lang=ru" target="facebook.com/pages/%D0%9D%D0%B0%D1%88%D0%B0-%D0%9D%D1%96%D0%B2%D0%B0-%D0%BF%D0%B5%D1%80%D1%88%D0%B0%D1%8F-%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0/322733085540" weight="1" />
+      <edge id="178" source="nn.by?lang=ru" target="pras.by" weight="1" />
+      <edge id="179" source="nn.by?lang=ru" target="play.google.com/store/apps/details?id=by.nn.app" weight="1" />
+      <edge id="180" source="pressball.by/news/biathlon/218684" target="webmoney.ru" weight="1" />
+      <edge id="181" source="pressball.by/news/biathlon/218684" target="m.vk.com/pressballnews" weight="1" />
+      <edge id="182" source="pressball.by/news/biathlon/218684" target="stat.akavita.by/stat/stat.pl?id=2299" weight="1" />
+      <edge id="183" source="pressball.by/news/biathlon/218684" target="facebook.com/pressball" weight="1" />
+      <edge id="184" source="pressball.by/news/biathlon/218684" target="bigmir.net" weight="1" />
+      <edge id="185" source="pressball.by/news/biathlon/218684" target="instagram.com/p/-zJLWrgzd6" weight="1" />
+      <edge id="186" source="pressball.by/news/biathlon/218684" target="twitter.com/pressballby" weight="1" />
+      <edge id="187" source="pressball.by/news/biathlon/218684" target="all.by" weight="1" />
+      <edge id="188" source="pressball.by/news/biathlon/218684" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="189" source="pressball.by/news/biathlon/218684" target="db.by" weight="1" />
+      <edge id="190" source="pressball.by/news/biathlon/218684" target="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="191" source="pressball.by/news/biathlon/218684" target="pbliga.com" weight="1" />
+      <edge id="192" source="pressball.by/news/biathlon/218684" target="rozumsoft.ru" weight="1" />
+      <edge id="193" source="pressball.by/news/biathlon/218684" target="plus.google.com/112247816664052877615" weight="1" />
+      <edge id="194" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="passport.yandex.ru/auth?retpath=https%3A%2F%2Fmetrika.yandex.ru%2Fdashboard%3Ffrom%3Dinformer%26id%3D26702085" weight="1" />
+      <edge id="195" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="m.vk.com/afroditapinsk" weight="1" />
+      <edge id="196" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="abcmebel.by" weight="1" />
+      <edge id="197" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="pinskap.by/content/traffic/urban_transport" weight="1" />
+      <edge id="198" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="allkupe.by" weight="1" />
+      <edge id="199" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="showroom.by" weight="1" />
+      <edge id="200" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="gismeteo.by" weight="1" />
+      <edge id="201" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="m.vk.com/shtorypinsk" weight="1" />
+      <edge id="202" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="gismeteo.by/weather-pinsk-4914" weight="1" />
+      <edge id="203" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="delo-tehniki.by" weight="1" />
+      <edge id="204" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="twitter.com/TRK_Varjag" weight="1" />
+      <edge id="205" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="feeds.feedburner.com/varjag/novosti" weight="1" />
+      <edge id="206" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="akavita.by/ru" weight="1" />
+      <edge id="207" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="gismeteo.by/weather-pinsk-4914/14-days" weight="1" />
+      <edge id="208" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="freemax.by" weight="1" />
+      <edge id="209" source="varjag.net/minobrazovaniya-v-profilnye-klassy-uchashhiesya-budut-zachislyatsya-po-konkursu" target="m.vk.com/brestarki" weight="1" />
+      <edge id="210" source="newsby.org/novosti/2015/12/01/text6248.htm" target="twitter.com/newsbyorg" weight="1" />
+      <edge id="211" source="newsby.org/novosti/2015/12/01/text6248.htm" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1301159&amp;stat=0&amp;theme=217%2F218%2F220&amp;view=short" weight="1" />
+      <edge id="212" source="newsby.org/novosti/2015/12/01/text6248.htm" target="nur.kz/895103-smk-predlozhil-vvesti-v-kazakhstane-nal.html" weight="1" />
+      <edge id="213" source="newsby.org/novosti/2015/12/01/text6248.htm" target="naviny.by/rubrics/finance/2015/11/28/ic_articles_114_190367" weight="1" />
+      <edge id="214" source="newsby.org/novosti/2015/12/01/text6248.htm" target="facebook.com/pages/Newsbyorg/1569808916598532" weight="1" />
+      <edge id="215" source="newsby.org/novosti/2015/12/01/text6248.htm" target="akavita.by/ru" weight="1" />
+      <edge id="216" source="newsby.org/novosti/2015/12/01/text6248.htm" target="m.vk.com/newsbyorg" weight="1" />
+      <edge id="217" source="newsby.org/novosti/2015/12/01/text6248.htm" target="top.mail.ru/Rating/MassMedia-News/Today/Visitors/5.html?from=jumpfrom" weight="1" />
+      <edge id="218" source="charter97.org/ru/news/2015/12/2/181121" target="plus.google.com/+Charter97Org_news" weight="1" />
+      <edge id="219" source="charter97.org/ru/news/2015/12/2/181121" target="youtube.com/user/Charter97video" weight="1" />
+      <edge id="220" source="charter97.org/ru/news/2015/12/2/181121" target="news.allcrimea.net/news/2015/12/2/probnyi-zapusk-energomosta-v-krym-ne-udalsya-50003" weight="1" />
+      <edge id="221" source="charter97.org/ru/news/2015/12/2/181121" target="twitter.com/charter_97" weight="1" />
+      <edge id="222" source="charter97.org/ru/news/2015/12/2/181121" target="akavita.by/ru" weight="1" />
+      <edge id="223" source="charter97.org/ru/news/2015/12/2/181121" target="facebook.com/charter97.org" weight="1" />
+      <edge id="224" source="charter97.org/ru/news/2015/12/2/181121" target="ok.ru/charter97" weight="1" />
+      <edge id="225" source="charter97.org/ru/news/2015/12/2/181121" target="m.vk.com/charter_97" weight="1" />
+      <edge id="226" source="charter97.org/ru/news/p/2" target="plus.google.com/+Charter97Org_news" weight="1" />
+      <edge id="227" source="charter97.org/ru/news/p/2" target="youtube.com/user/Charter97video" weight="1" />
+      <edge id="228" source="charter97.org/ru/news/p/2" target="twitter.com/charter_97" weight="1" />
+      <edge id="229" source="charter97.org/ru/news/p/2" target="akavita.by/ru" weight="1" />
+      <edge id="230" source="charter97.org/ru/news/p/2" target="facebook.com/charter97.org" weight="1" />
+      <edge id="231" source="charter97.org/ru/news/p/2" target="ok.ru/charter97" weight="1" />
+      <edge id="232" source="charter97.org/ru/news/p/2" target="m.vk.com/charter_97" weight="1" />
+      <edge id="233" source="pressball.by/news/biathlon/218674" target="webmoney.ru" weight="1" />
+      <edge id="234" source="pressball.by/news/biathlon/218674" target="m.vk.com/pressballnews" weight="1" />
+      <edge id="235" source="pressball.by/news/biathlon/218674" target="stat.akavita.by/stat/stat.pl?id=2299" weight="1" />
+      <edge id="236" source="pressball.by/news/biathlon/218674" target="facebook.com/pressball" weight="1" />
+      <edge id="237" source="pressball.by/news/biathlon/218674" target="bigmir.net" weight="1" />
+      <edge id="238" source="pressball.by/news/biathlon/218674" target="twitter.com/pressballby" weight="1" />
+      <edge id="239" source="pressball.by/news/biathlon/218674" target="all.by" weight="1" />
+      <edge id="240" source="pressball.by/news/biathlon/218674" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=337561&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="241" source="pressball.by/news/biathlon/218674" target="db.by" weight="1" />
+      <edge id="242" source="pressball.by/news/biathlon/218674" target="top.mail.ru/Rating/Sport-Media/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="243" source="pressball.by/news/biathlon/218674" target="pbliga.com" weight="1" />
+      <edge id="244" source="pressball.by/news/biathlon/218674" target="rozumsoft.ru" weight="1" />
+      <edge id="245" source="pressball.by/news/biathlon/218674" target="plus.google.com/112247816664052877615" weight="1" />
+      <edge id="246" source="6.pogoda.by" target="akavita.by/ru" weight="1" />
+      <edge id="247" source="6.pogoda.by" target="rostehsert.ru" weight="1" />
+      <edge id="248" source="6.pogoda.by" target="freemarket.kiev.ua" weight="1" />
+      <edge id="249" source="dm.by/minsk/dressing/women-shoes/obuv-turciya" target="akavita.by/ru" weight="1" />
+      <edge id="250" source="dm.by/minsk/dressing/women-shoes/obuv-turciya" target="mobile.dmir.ru" weight="1" />
+      <edge id="251" source="dm.by/minsk/dressing/women-shoes/obuv-turciya" target="liveinternet.ru" weight="1" />
+      <edge id="252" source="dm.by/minsk/dressing/women-shoes/obuv-turciya" target="facebook.com/dmir.ru" weight="1" />
+      <edge id="253" source="dm.by/minsk/dressing/women-shoes/obuv-turciya" target="company.dmir.ru" weight="1" />
+      <edge id="254" source="belaruspartisan.org/lenta" target="play.google.com/store/apps/details?id=org.belaruspartisan" weight="1" />
+      <edge id="255" source="belaruspartisan.org/lenta" target="istpravda.ru" weight="1" />
+      <edge id="256" source="belaruspartisan.org/lenta" target="twitter.com/belpartisan" weight="1" />
+      <edge id="257" source="belaruspartisan.org/lenta" target="itunes.apple.com/ru/app/belorusskij-partizan/id551657917?mt=8" weight="2" />
+      <edge id="258" source="belaruspartisan.org/lenta" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a758fa77" weight="1" />
+      <edge id="259" source="belaruspartisan.org/lenta" target="etalon-irkutsk.ru" weight="1" />
+      <edge id="260" source="belaruspartisan.org/lenta" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2840802&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="261" source="belaruspartisan.org/lenta" target="facebook.com/belaruspartisan.org" weight="1" />
+      <edge id="262" source="belaruspartisan.org/lenta" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a179a3a2" weight="1" />
+      <edge id="263" source="belaruspartisan.org/lenta" target="akavita.by/ru" weight="1" />
+      <edge id="264" source="belaruspartisan.org/lenta" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=accde4eb" weight="1" />
+      <edge id="265" source="belaruspartisan.org/lenta" target="m.vk.com/belaruspartisan" weight="1" />
+      <edge id="266" source="belaruspartisan.org/lenta" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a50ef925" weight="1" />
+      <edge id="267" source="twitter.com/freespace_by/status/279694983047569408/photo/1" target="t.co/qP5mCmuq" weight="1" />
+      <edge id="268" source="twitter.com/freespace_by/status/279694983047569408/photo/1" target="twitter.com/freespace_by/status/279694983047569408/photo/1" weight="1" />
+      <edge id="269" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="belapan.by" weight="1" />
+      <edge id="270" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="hoster.by" weight="1" />
+      <edge id="271" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="facebook.com/navinyby?sk=wall" weight="1" />
+      <edge id="272" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="livejournal.com/update.bml?event=http%3A%2F%2Fnaviny.by%2Frubrics%2Fsociety%2F2015%2F12%2F02%2Fic_media_video_116_9639%2F&amp;subject=%D1%F2%F3%E4%E5%ED%F2%FB+%C1%C3%D3+%EF%F0%EE%F2%E5%F1%F2%F3%FE%F2+%EF%F0%EE%F2%E8%E2+%E2%E2%E5%E4%E5%ED%E8%FF+%EF%EB%E0%F2%FB+%E7%E0+%EF%E5%F0%E5%F1%E4%E0%F7%E8" weight="1" />
+      <edge id="273" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="belapan.com/site/about" weight="1" />
+      <edge id="274" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="pogoda.by" weight="1" />
+      <edge id="275" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="m.vk.com/navinyby" weight="1" />
+      <edge id="276" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="all.by" weight="1" />
+      <edge id="277" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="landing.fxline.by?utm_campaign=kak-zarabatyvat-bolshe&amp;utm_medium=sponsorstvo-rubriki&amp;utm_source=naviny" weight="1" />
+      <edge id="278" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="top.mail.ru/Rating/MassMedia-Online/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="279" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="twitter.com/naviny" weight="1" />
+      <edge id="280" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="akavita.by/ru" weight="1" />
+      <edge id="281" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="facebook.com/navinyby" weight="1" />
+      <edge id="282" source="naviny.by/rubrics/society/2015/12/02/ic_media_video_116_9639" target="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fnaviny.by%252Frubrics%252Fsociety%252F2015%252F12%252F02%252Fic_media_video_116_9639%252F" weight="1" />
+      <edge id="283" source="belconsole.by/Avtotovary/fm_modulyatory_fm_transmittery_/ritmix11/FM-transmitter_FM-modulyator_RITMIX_FMT-A730" target="all.by" weight="1" />
+      <edge id="284" source="belconsole.by/Avtotovary/fm_modulyatory_fm_transmittery_/ritmix11/FM-transmitter_FM-modulyator_RITMIX_FMT-A730" target="shop.by" weight="1" />
+      <edge id="285" source="belaruspartisan.org/politic/326092" target="istpravda.ru" weight="1" />
+      <edge id="286" source="belaruspartisan.org/politic/326092" target="twitter.com/belpartisan" weight="1" />
+      <edge id="287" source="belaruspartisan.org/politic/326092" target="m.vk.com/belaruspartisan" weight="1" />
+      <edge id="288" source="belaruspartisan.org/politic/326092" target="dw.com/ru/%D0%BE%D0%B2%D0%B5%D1%87%D1%8C%D0%B5-%D0%B4%D0%B5%D1%84%D0%B8%D0%BB%D0%B5-%D0%BD%D0%B0-%D0%B1%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5-%D1%84%D0%BE%D1%82%D0%BE/a-18889174?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" weight="1" />
+      <edge id="289" source="belaruspartisan.org/politic/326092" target="radyjo.net/4/90/Artykul/231252,%D0%9F%D0%B0%D0%BB%D1%96%D1%86%D1%8B%D1%8F-%D0%91%D1%8D%D0%BB%D1%8C%D0%B3%D1%96%D1%96-%D0%B7%D0%B0%D1%82%D1%80%D1%8B%D0%BC%D0%B0%D0%BB%D0%B0-%D1%8F%D1%88%D1%87%D1%8D-%D0%B4%D0%B2%D1%83%D1%85-%D0%BC%D0%B5%D1%80%D0%BA%D0%B0%D0%B2%D0%B0%D0%BD%D1%8B%D1%85-%D1%82%D1%8D%D1%80%D0%B0%D1%80%D1%8B%D1%81%D1%82%D0%B0%D1%9E" weight="1" />
+      <edge id="290" source="belaruspartisan.org/politic/326092" target="dw.com/ru/%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B2-%D1%80%D1%84-%D0%B2%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D1%88%D0%B0%D0%BD%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0/a-18884291?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" weight="1" />
+      <edge id="291" source="belaruspartisan.org/politic/326092" target="radyjo.net/4/88/Artykul/231212,%D0%9C%D0%B0%D0%B3%D1%96%D0%BB%D1%91%D1%9E-%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%B0-%D1%9E%D0%BD%D1%96%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%84%D0%BE%D1%82%D0%B0%D0%B7%D0%B4%D1%8B%D0%BC%D0%BA%D0%B0%D1%9E" weight="1" />
+      <edge id="292" source="belaruspartisan.org/politic/326092" target="radyjo.net/4/88/Artykul/231308,%D0%A0%D1%8D%D0%BA%D1%82%D0%B0%D1%80-%D0%91%D0%94%D0%A3-%D0%BF%D1%80%D0%B0%D1%96%D0%B3%D0%BD%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D1%9E-%D0%BF%D0%B0%D1%82%D1%80%D0%B0%D0%B1%D0%B0%D0%B2%D0%B0%D0%BD%D1%8C%D0%BD%D1%96-%D1%81%D1%82%D1%83%D0%B4%D1%8D%D0%BD%D1%82%D0%B0%D1%9E" weight="1" />
+      <edge id="293" source="belaruspartisan.org/politic/326092" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=2840802&amp;stat=0&amp;theme=440%2F443&amp;view=short" weight="1" />
+      <edge id="294" source="belaruspartisan.org/politic/326092" target="radyjo.net/4/88/Artykul/231310,%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8B-%D1%81%D0%BA%D0%B0%D1%80%D0%B4%D0%B7%D1%8F%D1%86%D1%86%D0%B0-%D0%BD%D0%B0-%D1%8F%D0%BA%D0%B0%D1%81%D1%8C%D1%86%D1%8C-%D1%80%D0%B0%D1%81%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D0%B9-%D0%BD%D0%B0%D1%84%D1%82%D1%8B" weight="1" />
+      <edge id="295" source="belaruspartisan.org/politic/326092" target="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D1%87%D1%83%D0%BC%D0%B0-%D0%BA%D0%BE%D1%84%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B8-%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5-%D1%8D%D0%BA%D1%81%D0%BA%D1%83%D1%80%D1%81%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%83/a-18885032?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" weight="1" />
+      <edge id="296" source="belaruspartisan.org/politic/326092" target="dw.com/ru/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D1%80%D0%B5%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2-%D0%BA%D0%B0%D0%BC%D0%BF%D1%83%D1%81%D0%B0/a-18879518?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" weight="1" />
+      <edge id="297" source="belaruspartisan.org/politic/326092" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a38f1772" weight="1" />
+      <edge id="298" source="belaruspartisan.org/politic/326092" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;ct=1&amp;n=a179a3a2" weight="1" />
+      <edge id="299" source="belaruspartisan.org/politic/326092" target="akavita.by/ru" weight="1" />
+      <edge id="300" source="belaruspartisan.org/politic/326092" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afde4019" weight="1" />
+      <edge id="301" source="belaruspartisan.org/politic/326092" target="radyjo.net/4/90/Artykul/231277,%D0%A2%D1%83%D1%80%D1%86%D1%8B%D1%8F-%D0%B7%D0%B3%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D1%86%D0%B0%D0%BB%D0%BA%D0%B0%D0%BC-%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%86%D1%8C-%D0%BC%D1%8F%D0%B6%D1%83-%D0%B7-%D0%A1%D1%8B%D1%80%D1%8B%D1%8F%D0%B9" weight="1" />
+      <edge id="302" source="belaruspartisan.org/politic/326092" target="play.google.com/store/apps/details?id=org.belaruspartisan" weight="1" />
+      <edge id="303" source="belaruspartisan.org/politic/326092" target="openx.belaruspartizan.org/www/delivery/ck.php?cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af4ae113" weight="1" />
+      <edge id="304" source="belaruspartisan.org/politic/326092" target="facebook.com/belaruspartisan.org" weight="1" />
+      <edge id="305" source="belaruspartisan.org/politic/326092" target="itunes.apple.com/ru/app/belorusskij-partizan/id551657917?mt=8" weight="2" />
+      <edge id="306" source="belaruspartisan.org/politic/326092" target="dw.com/ru/%D0%B2-%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0%D1%85-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B6%D0%B4%D1%83%D1%82-%D0%B2%D1%80%D0%B0%D1%87%D0%B5%D0%B9-%D0%B8%D0%B7-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%B8-%D1%81%D0%BD%D0%B3/a-18885061?maca=rus-CB_rus_BelarusPartisan-4786-xml-mrss" weight="1" />
+      <edge id="307" source="bereza.slanet.by/realt/kvartiry/arenda/~396" target="top100.rambler.ru/navi?page=2&amp;pageCount=30&amp;resourceId=2418936&amp;stat=0&amp;type=19&amp;view=short" weight="1" />
+      <edge id="308" source="bereza.slanet.by/realt/kvartiry/arenda/~396" target="top.mail.ru/Rating/Internet-Free/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="309" source="bereza.slanet.by/realt/kvartiry/arenda/~396" target="all.by" weight="1" />
+      <edge id="310" source="bereza.slanet.by/realt/kvartiry/arenda/~396" target="akavita.by/ru" weight="1" />
+      <edge id="311" source="na.by" target="docs.google.com/forms/d/1gkRG_1jpy4ODFkYr1N5Zz4rCnvavUtK5ayGwQAaNs-s/viewform?c=0&amp;w=1" weight="1" />
+      <edge id="312" source="lastochka.by/auto" target="all.by" weight="1" />
+      <edge id="313" source="lastochka.by/auto" target="autotrader.by/avtolombard" weight="1" />
+      <edge id="314" source="lastochka.by/auto" target="top.mail.ru/Rating/Cars-Sale/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="315" source="lastochka.by/auto" target="liveinternet.ru" weight="1" />
+      <edge id="316" source="lastochka.by/auto" target="akavita.by/ru" weight="1" />
+      <edge id="317" source="103.by" target="seo.artox-media.ru" weight="1" />
+      <edge id="318" source="103.by" target="artox.com/city-platform" weight="1" />
+      <edge id="319" source="103.by" target="active.by" weight="1" />
+      <edge id="320" source="103.by" target="m.vk.com/m103by" weight="1" />
+      <edge id="321" source="103.by" target="akavita.by/ru" weight="1" />
+      <edge id="322" source="103.by" target="facebook.com/m103by" weight="1" />
+      <edge id="323" source="103.by" target="6b4fe1b3a6b911fb63e920dd1ffcf21fa6b51a90.googledrive.com/host/0B4C6lwn_ak6zZUo1Z1FfVjg3ZUU/form.html" weight="1" />
+    </edges>
+  </graph>
+</gexf>

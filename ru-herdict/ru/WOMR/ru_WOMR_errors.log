@@ -1,0 +1,7 @@
+"http://edge11445.icecast.akadns.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11?akacasthops=2" - "[<twisted.python.failure.Failure twisted.web._newclient.BadResponseVersion: ('need more than 1 value to unpack', 'ICY')>]"
+"http://%E8%ED%E2%E5%F1%F2%EA%EB%E8%EC%E0%F2.%F0%F4/" - "DNS lookup failed: address '%E8%ED%E2%E5%F1%F2%EA%EB%E8%EC%E0%F2.%F0%F4' not found: [Errno -2] Name or service not known."
+"http://origin.voasomali.org/programindex.html" - "User timeout caused connection failure."
+"http://gnd.voanews.com/" - "User timeout caused connection failure: Getting http://gnd.voanews.com/ took longer than 20.0 seconds.."
+"http://www.finam.fm/" - "User timeout caused connection failure."
+"http://alhurra.com/" - "User timeout caused connection failure."
+"http://origin.voazimbabwe.org/programindex.html" - "User timeout caused connection failure."

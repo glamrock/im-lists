@@ -1,0 +1,370 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lang_conf" type="double" />
+      <attribute id="1" title="language" type="string" />
+    </attributes>
+    <nodes>
+      <node id="jw.org/en" label="jw.org/en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213956" label="pressorg24.com/news?id=213956">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru/global/screen" label="hotlog.ru/global/screen">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213969" label="pressorg24.com/news?id=213969">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213968" label="pressorg24.com/news?id=213968">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru" label="hotlog.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213963" label="pressorg24.com/news?id=213963">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213962" label="pressorg24.com/news?id=213962">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213965" label="pressorg24.com/news?id=213965">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213967" label="pressorg24.com/news?id=213967">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213966" label="pressorg24.com/news?id=213966">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="infostars.ru" label="infostars.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="webat25.org" label="webat25.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="rkn.gov.ru/news/rsoc/news23775.htm" label="rkn.gov.ru/news/rsoc/news23775.htm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="wciom.ru/index.php?id=459&amp;uid=113471" label="wciom.ru/index.php?id=459&amp;uid=113471">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="comscore.com/Insights/Press-Releases/2012/12/comScore-Releases-November-2012-US-Online-Video-Rankings" label="comscore.com/Insights/Press-Releases/2012/12/comScore-Releases-November-2012-US-Online-Video-Rankings">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/globalwebindex/status/443785649616093184/photo/1" label="twitter.com/globalwebindex/status/443785649616093184/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru/gctop" label="hotlog.ru/gctop">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="old.iatp.org.ua" label="old.iatp.org.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru/global/se" label="hotlog.ru/global/se">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/politics/evromaidan-onlain-gromadske-tv-online-translyaciya" label="pressorg24.com/politics/evromaidan-onlain-gromadske-tv-online-translyaciya">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="sdstream.ru" label="sdstream.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="searchengines.ru/seoblog/google_mobile_day.html" label="searchengines.ru/seoblog/google_mobile_day.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/globalwebindex/status/434375020908122112/photo/1" label="twitter.com/globalwebindex/status/434375020908122112/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/NewsOfUkraine" label="twitter.com/NewsOfUkraine">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru?18814+target=_top" label="hotlog.ru?18814+target=_top">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="sostav.ru/news/2012/12/20/mobilniy_socseti" label="sostav.ru/news/2012/12/20/mobilniy_socseti">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213952" label="pressorg24.com/news?id=213952">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/globalwebindex/status/431829580744511489/photo/1" label="twitter.com/globalwebindex/status/431829580744511489/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="judaica.kiev.ua" label="judaica.kiev.ua">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/politics/veb-kamera-na-maidan-nezalezhnosti-kiev-onlain-video" label="pressorg24.com/politics/veb-kamera-na-maidan-nezalezhnosti-kiev-onlain-video">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213972" label="pressorg24.com/news?id=213972">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213973" label="pressorg24.com/news?id=213973">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213970" label="pressorg24.com/news?id=213970">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213971" label="pressorg24.com/news?id=213971">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gartner.com/newsroom/id/2280617" label="gartner.com/newsroom/id/2280617">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213974" label="pressorg24.com/news?id=213974">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/hotlogproject/status/261115051186982912" label="twitter.com/hotlogproject/status/261115051186982912">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="top1000-ru.hotlog.ru" label="top1000-ru.hotlog.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/politics/espresso-tv-onlain-translyatsiya-maidana-v-gorode-kieve-pryamoi-efir" label="pressorg24.com/politics/espresso-tv-onlain-translyatsiya-maidana-v-gorode-kieve-pryamoi-efir">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru/global/browser" label="hotlog.ru/global/browser">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hotlog.ru/news" label="hotlog.ru/news">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com" label="pressorg24.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213995" label="pressorg24.com/news?id=213995">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=214001" label="pressorg24.com/news?id=214001">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213997" label="pressorg24.com/news?id=213997">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/hotlogproject" label="twitter.com/hotlogproject">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="windows.microsoft.com/en-us/internet-explorer/browser-ie" label="windows.microsoft.com/en-us/internet-explorer/browser-ie">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213993" label="pressorg24.com/news?id=213993">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pressorg24.com/news?id=213999" label="pressorg24.com/news?id=213999">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="cnet.com/news/firefoxs-new-interface-is-almost-here" label="cnet.com/news/firefoxs-new-interface-is-almost-here">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="infostars.ru" target="hotlog.ru" weight="2" />
+      <edge id="1" source="infostars.ru" target="sdstream.ru" weight="1" />
+      <edge id="2" source="old.iatp.org.ua" target="pressorg24.com/politics/espresso-tv-onlain-translyatsiya-maidana-v-gorode-kieve-pryamoi-efir" weight="1" />
+      <edge id="3" source="old.iatp.org.ua" target="pressorg24.com/politics/veb-kamera-na-maidan-nezalezhnosti-kiev-onlain-video" weight="1" />
+      <edge id="4" source="old.iatp.org.ua" target="pressorg24.com/politics/evromaidan-onlain-gromadske-tv-online-translyaciya" weight="1" />
+      <edge id="5" source="pressorg24.com/politics/evromaidan-onlain-gromadske-tv-online-translyaciya" target="twitter.com/NewsOfUkraine" weight="1" />
+      <edge id="6" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213969" weight="1" />
+      <edge id="7" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213962" weight="1" />
+      <edge id="8" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213995" weight="1" />
+      <edge id="9" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=214001" weight="1" />
+      <edge id="10" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213999" weight="1" />
+      <edge id="11" source="twitter.com/NewsOfUkraine" target="pressorg24.com" weight="1" />
+      <edge id="12" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213968" weight="1" />
+      <edge id="13" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213952" weight="1" />
+      <edge id="14" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213997" weight="1" />
+      <edge id="15" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213974" weight="1" />
+      <edge id="16" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213956" weight="1" />
+      <edge id="17" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213993" weight="1" />
+      <edge id="18" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213972" weight="1" />
+      <edge id="19" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213973" weight="1" />
+      <edge id="20" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213963" weight="1" />
+      <edge id="21" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213971" weight="1" />
+      <edge id="22" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213965" weight="1" />
+      <edge id="23" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213970" weight="1" />
+      <edge id="24" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213967" weight="1" />
+      <edge id="25" source="twitter.com/NewsOfUkraine" target="pressorg24.com/news?id=213966" weight="1" />
+      <edge id="26" source="hotlog.ru?18814+target=_top" target="infostars.ru" weight="1" />
+      <edge id="27" source="hotlog.ru?18814+target=_top" target="hotlog.ru?18814+target=_top" weight="1" />
+      <edge id="28" source="hotlog.ru?18814+target=_top" target="twitter.com/hotlogproject" weight="1" />
+      <edge id="29" source="judaica.kiev.ua" target="hotlog.ru?18814+target=_top" weight="1" />
+      <edge id="30" source="pressorg24.com/politics/veb-kamera-na-maidan-nezalezhnosti-kiev-onlain-video" target="twitter.com/NewsOfUkraine" weight="1" />
+      <edge id="31" source="pressorg24.com/politics/espresso-tv-onlain-translyatsiya-maidana-v-gorode-kieve-pryamoi-efir" target="twitter.com/NewsOfUkraine" weight="1" />
+      <edge id="32" source="twitter.com/hotlogproject" target="hotlog.ru" weight="1" />
+      <edge id="33" source="twitter.com/hotlogproject" target="twitter.com/hotlogproject/status/261115051186982912" weight="1" />
+      <edge id="34" source="twitter.com/hotlogproject" target="cnet.com/news/firefoxs-new-interface-is-almost-here" weight="1" />
+      <edge id="35" source="twitter.com/hotlogproject" target="top1000-ru.hotlog.ru" weight="1" />
+      <edge id="36" source="twitter.com/hotlogproject" target="wciom.ru/index.php?id=459&amp;uid=113471" weight="1" />
+      <edge id="37" source="twitter.com/hotlogproject" target="searchengines.ru/seoblog/google_mobile_day.html" weight="1" />
+      <edge id="38" source="twitter.com/hotlogproject" target="comscore.com/Insights/Press-Releases/2012/12/comScore-Releases-November-2012-US-Online-Video-Rankings" weight="1" />
+      <edge id="39" source="twitter.com/hotlogproject" target="hotlog.ru/global/screen" weight="1" />
+      <edge id="40" source="twitter.com/hotlogproject" target="sostav.ru/news/2012/12/20/mobilniy_socseti" weight="1" />
+      <edge id="41" source="twitter.com/hotlogproject" target="hotlog.ru/news" weight="1" />
+      <edge id="42" source="twitter.com/hotlogproject" target="hotlog.ru/global/browser" weight="2" />
+      <edge id="43" source="twitter.com/hotlogproject" target="twitter.com/globalwebindex/status/431829580744511489/photo/1" weight="1" />
+      <edge id="44" source="twitter.com/hotlogproject" target="hotlog.ru/gctop" weight="1" />
+      <edge id="45" source="twitter.com/hotlogproject" target="hotlog.ru/global/se" weight="1" />
+      <edge id="46" source="twitter.com/hotlogproject" target="windows.microsoft.com/en-us/internet-explorer/browser-ie" weight="1" />
+      <edge id="47" source="twitter.com/hotlogproject" target="webat25.org" weight="1" />
+      <edge id="48" source="twitter.com/hotlogproject" target="rkn.gov.ru/news/rsoc/news23775.htm" weight="1" />
+      <edge id="49" source="twitter.com/hotlogproject" target="twitter.com/globalwebindex/status/443785649616093184/photo/1" weight="1" />
+      <edge id="50" source="twitter.com/hotlogproject" target="gartner.com/newsroom/id/2280617" weight="1" />
+      <edge id="51" source="twitter.com/hotlogproject" target="twitter.com/globalwebindex/status/434375020908122112/photo/1" weight="1" />
+    </edges>
+  </graph>
+</gexf>

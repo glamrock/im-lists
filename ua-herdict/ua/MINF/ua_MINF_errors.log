@@ -1,0 +1,4 @@
+"http://node/38" - "DNS lookup failed: address 'node' not found: [Errno -2] Name or service not known."
+"http://insights.chitika.com/2012/operating-system-market-share-november-2012-update/" - "User timeout caused connection failure."
+"http://insights.chitika.com/2012/web-browser-market-share-november-2012-update/" - "User timeout caused connection failure."
+"http://insights.chitika.com/2012/search-engine-market-share-november-2012-update/" - "User timeout caused connection failure."

@@ -1,0 +1,444 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lang_conf" type="double" />
+      <attribute id="1" title="language" type="string" />
+    </attributes>
+    <nodes>
+      <node id="healthysleep.ru/naduvnye.shtml" label="healthysleep.ru/naduvnye.shtml">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="vodoobmen.ru" label="vodoobmen.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ads.adfox.ru/202433/goDefaultLink?p1=biozy&amp;p2=v" label="ads.adfox.ru/202433/goDefaultLink?p1=biozy&amp;p2=v" />
+      <node id="madamo.ru/fullsize.html" label="madamo.ru/fullsize.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ozon_books" label="twitter.com/ozon_books">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="ozon.ru/context/detail/id/27615602" label="ozon.ru/context/detail/id/27615602">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru" label="top100.rambler.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ochisti.ru" label="ochisti.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ozon.travel?utm_medium=bottom&amp;utm_source=ozon" label="ozon.travel?utm_medium=bottom&amp;utm_source=ozon">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="healthspa.ru" label="healthspa.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="healthyhair.ru/hair_line.html" label="healthyhair.ru/hair_line.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="fountainfoods.ru" label="fountainfoods.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="healthysleep.ru" label="healthysleep.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Sport-Bodybuilding/Today/Visitors/20.html?from=jumpfrom" label="top.mail.ru/Rating/Sport-Bodybuilding/Today/Visitors/20.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dancestart.ru" label="dancestart.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="vodovoz.ru" label="vodovoz.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="healthsleep.ru" label="healthsleep.ru" />
+      <node id="trenerovka.ru/forum" label="trenerovka.ru/forum">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="velokat.ru/03-types-06-bmx.html" label="velokat.ru/03-types-06-bmx.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pilateslegko.ru/04.html" label="pilateslegko.ru/04.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="chlopok.ru/velvet.html" label="chlopok.ru/velvet.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/House-Mistress/Today/Visitors/9.html?from=jumpfrom" label="top.mail.ru/Rating/House-Mistress/Today/Visitors/9.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=ru.ozon.app.android" label="play.google.com/store/apps/details?id=ru.ozon.app.android">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="portanki.ru/galstuki_podbor.shtml" label="portanki.ru/galstuki_podbor.shtml">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ozon.ru/context/detail/id/27596730" label="ozon.ru/context/detail/id/27596730">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="rambler-co.ru/jobs" label="rambler-co.ru/jobs">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="litres.ru" label="litres.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dishisvobodno.ru" label="dishisvobodno.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="andreyvl.ru" label="andreyvl.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="r0.ru?topline=1&amp;utm_content=r0&amp;utm_medium=topline&amp;utm_source=top100" label="r0.ru?topline=1&amp;utm_content=r0&amp;utm_medium=topline&amp;utm_source=top100">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="trenerovka.ru/cardio.html" label="trenerovka.ru/cardio.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="new.krasfair.ru/rus/info-2013/index.shtml" label="new.krasfair.ru/rus/info-2013/index.shtml">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="water.ru" label="water.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ozon.ru/context/detail/id/27615595" label="ozon.ru/context/detail/id/27615595">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gidsm.ru" label="gidsm.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="whitelab.pro" label="whitelab.pro">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="krosy.ru/skeitkrosy.html" label="krosy.ru/skeitkrosy.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/ozon.ru" label="facebook.com/ozon.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.aquaexpert.ru?id=475&amp;pos=find" label="top.aquaexpert.ru?id=475&amp;pos=find">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ocourier.ru" label="ocourier.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="xn----gtbmipfchkdekf.xn--p1ai" label="xn----gtbmipfchkdekf.xn--p1ai">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="chlopok.ru/rayon.html" label="chlopok.ru/rayon.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="nwr.ru" label="nwr.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dachamania.ru" label="dachamania.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="sadomania.ru" label="sadomania.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="iec-expo.com.ua/o-forume-aqua-ukraine-2014.html" label="iec-expo.com.ua/o-forume-aqua-ukraine-2014.html" />
+      <node id="itunes.apple.com/ru/app/ozon.ru/id407804998?mt=8" label="itunes.apple.com/ru/app/ozon.ru/id407804998?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="vodoobmen.ru/03-proizvoditeli.html" label="vodoobmen.ru/03-proizvoditeli.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="healthynails.ru/nakladnye_nogti.html" label="healthynails.ru/nakladnye_nogti.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="fisio.ru" label="fisio.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="tenisist.ru/table_tennis.html" label="tenisist.ru/table_tennis.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="tvoison.ru/regulation.shtml" label="tvoison.ru/regulation.shtml">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru/Rating/Business-Analytics/Today/Visitors/1.html?from=jumpfrom" label="top.mail.ru/Rating/Business-Analytics/Today/Visitors/1.html?from=jumpfrom">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="autorambler.ru?utm_content=autorambler&amp;utm_medium=topline&amp;utm_source=top100" label="autorambler.ru?utm_content=autorambler&amp;utm_medium=topline&amp;utm_source=top100">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="jusprivatum.ru/reg-offshore-comp.htm" label="jusprivatum.ru/reg-offshore-comp.htm">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="watermarket.ru" label="watermarket.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="umki.ru" label="umki.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gicpv.ru" label="gicpv.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="tvoison.ru/dream.shtml" label="tvoison.ru/dream.shtml">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/ozon" label="m.vk.com/ozon">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="ozon.ru/context/detail/id/4247027" label="ozon.ru/context/detail/id/4247027">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="healthysleep.ru/naduvnye.shtml" target="ozon.ru/context/detail/id/27615595" weight="1" />
+      <edge id="1" source="healthysleep.ru/naduvnye.shtml" target="vodoobmen.ru" weight="1" />
+      <edge id="2" source="healthysleep.ru/naduvnye.shtml" target="chlopok.ru/velvet.html" weight="1" />
+      <edge id="3" source="healthysleep.ru/naduvnye.shtml" target="ozon.ru/context/detail/id/27615602" weight="1" />
+      <edge id="4" source="healthysleep.ru/naduvnye.shtml" target="top100.rambler.ru" weight="1" />
+      <edge id="5" source="healthysleep.ru/naduvnye.shtml" target="dachamania.ru" weight="1" />
+      <edge id="6" source="healthysleep.ru/naduvnye.shtml" target="umki.ru" weight="1" />
+      <edge id="7" source="healthysleep.ru/naduvnye.shtml" target="tvoison.ru/dream.shtml" weight="1" />
+      <edge id="8" source="vodoobmen.ru" target="top.aquaexpert.ru?id=475&amp;pos=find" weight="1" />
+      <edge id="9" source="vodoobmen.ru" target="iec-expo.com.ua/o-forume-aqua-ukraine-2014.html" weight="1" />
+      <edge id="10" source="ozon.ru/context/detail/id/27615602" target="ocourier.ru" weight="1" />
+      <edge id="11" source="ozon.ru/context/detail/id/27615602" target="twitter.com/ozon_books" weight="1" />
+      <edge id="12" source="ozon.ru/context/detail/id/27615602" target="play.google.com/store/apps/details?id=ru.ozon.app.android" weight="1" />
+      <edge id="13" source="ozon.ru/context/detail/id/27615602" target="facebook.com/ozon.ru" weight="1" />
+      <edge id="14" source="ozon.ru/context/detail/id/27615602" target="itunes.apple.com/ru/app/ozon.ru/id407804998?mt=8" weight="1" />
+      <edge id="15" source="ozon.ru/context/detail/id/27615602" target="litres.ru" weight="1" />
+      <edge id="16" source="ozon.ru/context/detail/id/27615602" target="ozon.travel?utm_medium=bottom&amp;utm_source=ozon" weight="1" />
+      <edge id="17" source="ozon.ru/context/detail/id/27615602" target="m.vk.com/ozon" weight="1" />
+      <edge id="18" source="top100.rambler.ru" target="r0.ru?topline=1&amp;utm_content=r0&amp;utm_medium=topline&amp;utm_source=top100" weight="1" />
+      <edge id="19" source="top100.rambler.ru" target="autorambler.ru?utm_content=autorambler&amp;utm_medium=topline&amp;utm_source=top100" weight="1" />
+      <edge id="20" source="top100.rambler.ru" target="rambler-co.ru/jobs" weight="1" />
+      <edge id="21" source="top100.rambler.ru" target="ads.adfox.ru/202433/goDefaultLink?p1=biozy&amp;p2=v" weight="1" />
+      <edge id="22" source="healthspa.ru" target="healthyhair.ru/hair_line.html" weight="1" />
+      <edge id="23" source="healthspa.ru" target="gidsm.ru" weight="1" />
+      <edge id="24" source="healthspa.ru" target="healthynails.ru/nakladnye_nogti.html" weight="1" />
+      <edge id="25" source="healthysleep.ru" target="top100.rambler.ru" weight="1" />
+      <edge id="26" source="healthysleep.ru" target="healthsleep.ru" weight="1" />
+      <edge id="27" source="velokat.ru/03-types-06-bmx.html" target="whitelab.pro" weight="1" />
+      <edge id="28" source="velokat.ru/03-types-06-bmx.html" target="xn----gtbmipfchkdekf.xn--p1ai" weight="1" />
+      <edge id="29" source="pilateslegko.ru/04.html" target="jusprivatum.ru/reg-offshore-comp.htm" weight="1" />
+      <edge id="30" source="pilateslegko.ru/04.html" target="trenerovka.ru/forum" weight="1" />
+      <edge id="31" source="chlopok.ru/velvet.html" target="top.mail.ru/Rating/House-Mistress/Today/Visitors/9.html?from=jumpfrom" weight="1" />
+      <edge id="32" source="dishisvobodno.ru" target="healthysleep.ru/naduvnye.shtml" weight="1" />
+      <edge id="33" source="dishisvobodno.ru" target="fisio.ru" weight="1" />
+      <edge id="34" source="dishisvobodno.ru" target="vodoobmen.ru/03-proizvoditeli.html" weight="1" />
+      <edge id="35" source="dishisvobodno.ru" target="tvoison.ru/regulation.shtml" weight="1" />
+      <edge id="36" source="trenerovka.ru/cardio.html" target="top.mail.ru/Rating/Sport-Bodybuilding/Today/Visitors/20.html?from=jumpfrom" weight="1" />
+      <edge id="37" source="ozon.ru/context/detail/id/27615595" target="ocourier.ru" weight="1" />
+      <edge id="38" source="ozon.ru/context/detail/id/27615595" target="twitter.com/ozon_books" weight="1" />
+      <edge id="39" source="ozon.ru/context/detail/id/27615595" target="play.google.com/store/apps/details?id=ru.ozon.app.android" weight="1" />
+      <edge id="40" source="ozon.ru/context/detail/id/27615595" target="facebook.com/ozon.ru" weight="1" />
+      <edge id="41" source="ozon.ru/context/detail/id/27615595" target="itunes.apple.com/ru/app/ozon.ru/id407804998?mt=8" weight="1" />
+      <edge id="42" source="ozon.ru/context/detail/id/27615595" target="ozon.travel?utm_medium=bottom&amp;utm_source=ozon" weight="1" />
+      <edge id="43" source="ozon.ru/context/detail/id/27615595" target="m.vk.com/ozon" weight="1" />
+      <edge id="44" source="ozon.ru/context/detail/id/27615595" target="litres.ru" weight="1" />
+      <edge id="45" source="top.aquaexpert.ru?id=475&amp;pos=find" target="nwr.ru" weight="1" />
+      <edge id="46" source="top.aquaexpert.ru?id=475&amp;pos=find" target="vodoobmen.ru" weight="1" />
+      <edge id="47" source="top.aquaexpert.ru?id=475&amp;pos=find" target="top100.rambler.ru" weight="1" />
+      <edge id="48" source="top.aquaexpert.ru?id=475&amp;pos=find" target="ochisti.ru" weight="1" />
+      <edge id="49" source="top.aquaexpert.ru?id=475&amp;pos=find" target="top.mail.ru/Rating/Business-Analytics/Today/Visitors/1.html?from=jumpfrom" weight="1" />
+      <edge id="50" source="top.aquaexpert.ru?id=475&amp;pos=find" target="watermarket.ru" weight="1" />
+      <edge id="51" source="top.aquaexpert.ru?id=475&amp;pos=find" target="andreyvl.ru" weight="1" />
+      <edge id="52" source="top.aquaexpert.ru?id=475&amp;pos=find" target="fountainfoods.ru" weight="1" />
+      <edge id="53" source="top.aquaexpert.ru?id=475&amp;pos=find" target="gicpv.ru" weight="1" />
+      <edge id="54" source="top.aquaexpert.ru?id=475&amp;pos=find" target="vodovoz.ru" weight="1" />
+      <edge id="55" source="top.aquaexpert.ru?id=475&amp;pos=find" target="water.ru" weight="1" />
+      <edge id="56" source="dachamania.ru" target="sadomania.ru" weight="1" />
+      <edge id="57" source="dachamania.ru" target="new.krasfair.ru/rus/info-2013/index.shtml" weight="1" />
+      <edge id="58" source="vodoobmen.ru/03-proizvoditeli.html" target="top.aquaexpert.ru?id=475&amp;pos=find" weight="1" />
+      <edge id="59" source="vodoobmen.ru/03-proizvoditeli.html" target="healthspa.ru" weight="1" />
+      <edge id="60" source="fisio.ru" target="dancestart.ru" weight="1" />
+      <edge id="61" source="fisio.ru" target="trenerovka.ru/cardio.html" weight="1" />
+      <edge id="62" source="fisio.ru" target="velokat.ru/03-types-06-bmx.html" weight="1" />
+      <edge id="63" source="fisio.ru" target="pilateslegko.ru/04.html" weight="1" />
+      <edge id="64" source="fisio.ru" target="tenisist.ru/table_tennis.html" weight="1" />
+      <edge id="65" source="tvoison.ru/regulation.shtml" target="healthysleep.ru" weight="1" />
+      <edge id="66" source="tvoison.ru/regulation.shtml" target="ozon.ru/context/detail/id/4247027" weight="1" />
+      <edge id="67" source="umki.ru" target="krosy.ru/skeitkrosy.html" weight="1" />
+      <edge id="68" source="umki.ru" target="madamo.ru/fullsize.html" weight="1" />
+      <edge id="69" source="umki.ru" target="portanki.ru/galstuki_podbor.shtml" weight="1" />
+      <edge id="70" source="umki.ru" target="chlopok.ru/rayon.html" weight="1" />
+      <edge id="71" source="umki.ru" target="top100.rambler.ru" weight="1" />
+      <edge id="72" source="tvoison.ru/dream.shtml" target="ozon.ru/context/detail/id/27596730" weight="1" />
+      <edge id="73" source="ozon.ru/context/detail/id/4247027" target="ocourier.ru" weight="1" />
+      <edge id="74" source="ozon.ru/context/detail/id/4247027" target="twitter.com/ozon_books" weight="1" />
+      <edge id="75" source="ozon.ru/context/detail/id/4247027" target="play.google.com/store/apps/details?id=ru.ozon.app.android" weight="1" />
+      <edge id="76" source="ozon.ru/context/detail/id/4247027" target="facebook.com/ozon.ru" weight="1" />
+      <edge id="77" source="ozon.ru/context/detail/id/4247027" target="itunes.apple.com/ru/app/ozon.ru/id407804998?mt=8" weight="1" />
+      <edge id="78" source="ozon.ru/context/detail/id/4247027" target="litres.ru" weight="1" />
+      <edge id="79" source="ozon.ru/context/detail/id/4247027" target="ozon.travel?utm_medium=bottom&amp;utm_source=ozon" weight="1" />
+      <edge id="80" source="ozon.ru/context/detail/id/4247027" target="m.vk.com/ozon" weight="1" />
+    </edges>
+  </graph>
+</gexf>

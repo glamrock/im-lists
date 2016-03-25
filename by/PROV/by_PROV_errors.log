@@ -1,0 +1,5 @@
+"http://%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru/" - "DNS lookup failed: address '%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru' not found: [Errno -2] Name or service not known."
+"http://renault.own-site.ru/" - "DNS lookup failed: address 'renault.own-site.ru' not found: [Errno -2] Name or service not known."
+"http://www.faza.ru/" - "DNS lookup failed: address 'www.faza.ru' not found: [Errno -2] Name or service not known."
+"http://megane.ru/" - "DNS lookup failed: address 'megane.ru' not found: [Errno -2] Name or service not known."
+"http://zautra.by/art.php?sn_nid=20051" - "User timeout caused connection failure: Getting http://zautra.by/art.php?sn_nid=20051 took longer than 20.0 seconds.."

@@ -1,0 +1,1972 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="lang_conf" type="double" />
+      <attribute id="1" title="language" type="string" />
+    </attributes>
+    <nodes>
+      <node id="chromium.org" label="chromium.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/4thScreenAdvertising" label="youtube.com/user/4thScreenAdvertising">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=tAQHskwog&amp;s=1&amp;u=http%3A%2F%2Fwww.windowsphone.com%2Fs%3Fappid%3D3219d30d-4a23-4f58-a91c-c44b04e6a0c7" label="facebook.com/l.php?h=tAQHskwog&amp;s=1&amp;u=http%3A%2F%2Fwww.windowsphone.com%2Fs%3Fappid%3D3219d30d-4a23-4f58-a91c-c44b04e6a0c7">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/press" label="operasoftware.com/press">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="chrome.blogspot.com" label="chrome.blogspot.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="pogoda.mail.ru/prognoz/boston?from=odnoklassniki" label="pogoda.mail.ru/prognoz/boston?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/policy.php" label="facebook.com/policy.php">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/apple-store/id989804926?mt=8" label="itunes.apple.com/app/apple-store/id989804926?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/cosmopolitanrus" label="twitter.com/cosmopolitanrus">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/11/vstrechayte-komandu-brauzera-opera-dlya-mac" label="blogs.opera.com/russia/2015/11/vstrechayte-komandu-brauzera-opera-dlya-mac">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="surfeasy.com/en" label="surfeasy.com/en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/desktop" label="blogs.opera.com/desktop">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/WindowsForBusiness" label="microsoft.com/en-us/WindowsForBusiness">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="torg.mail.ru?from=odnoklassniki" label="torg.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pcworld.com/article/2904093/hands-on-the-149-hisense-chromebook-succeeds-at-being-incredibly-affordable.html" label="pcworld.com/article/2904093/hands-on-the-149-hisense-chromebook-succeeds-at-being-incredibly-affordable.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/ca/app/surfeasy-vpn-for-iphone-ipad/id633495655?mt=8" label="itunes.apple.com/ca/app/surfeasy-vpn-for-iphone-ipad/id633495655?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/chrome" label="google.com/chrome">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="support.google.com/chrome/a/answer/6220366?hl=en" label="support.google.com/chrome/a/answer/6220366?hl=en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/10/novaya-%D0%BE-poyavilas-v-opera-dlya-kompyuterov" label="blogs.opera.com/russia/2015/10/novaya-%D0%BE-poyavilas-v-opera-dlya-kompyuterov">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=383398" label="newsweb.no/newsweb/search.do?messageId=383398">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/id454638411" label="itunes.apple.com/app/id454638411">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="wmj.ru" label="wmj.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/11/7-funkciy-opera-dlya-legkogo-upravleniya-vkladkami" label="blogs.opera.com/russia/2015/11/7-funkciy-opera-dlya-legkogo-upravleniya-vkladkami">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blog.chromium.org" label="blog.chromium.org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=383108" label="newsweb.no/newsweb/search.do?messageId=383108">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/company/investors" label="operasoftware.com/company/investors">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ok.ru/opera" label="ok.ru/opera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=390435" label="newsweb.no/newsweb/search.do?messageId=390435">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="support.google.com/chrome/answer/2393487?hl=en&amp;p=ios_help&amp;rd=2" label="support.google.com/chrome/answer/2393487?hl=en&amp;p=ios_help&amp;rd=2">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="login.live.com/login.srf?cbcxt=h_d10db682284e41afabd0100efcf3b93b_p_03be6e51a12b41ab82881f1acdba78e2&amp;id=285275&amp;lc=1033&amp;mkt=ru-RU&amp;rpsnv=12&amp;rver=6.1.6206.0&amp;wa=wsignin1.0&amp;wp=LBI_SSL&amp;wreply=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie" label="login.live.com/login.srf?cbcxt=h_d10db682284e41afabd0100efcf3b93b_p_03be6e51a12b41ab82881f1acdba78e2&amp;id=285275&amp;lc=1033&amp;mkt=ru-RU&amp;rpsnv=12&amp;rver=6.1.6206.0&amp;wa=wsignin1.0&amp;wp=LBI_SSL&amp;wreply=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="opera.com/mobile" label="opera.com/mobile">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/newsstand/details/Cosmopolitan_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F?id=CAow_6yeCQ" label="play.google.com/store/newsstand/details/Cosmopolitan_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F?id=CAow_6yeCQ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4oAetStzXa" label="instagram.com/p/4oAetStzXa">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=sLprVF6d7Ug" label="youtube.com/watch?v=sLprVF6d7Ug">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4mkteDtzR-" label="instagram.com/p/4mkteDtzR-">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="login.live.com/logout.srf?id=285275&amp;lc=1033&amp;ru=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie&amp;rver=6.1.6206.0" label="login.live.com/logout.srf?id=285275&amp;lc=1033&amp;ru=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie&amp;rver=6.1.6206.0">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="sport.mail.ru?from=odnoklassniki" label="sport.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/windowsphone" label="twitter.com/windowsphone">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/opera" label="twitter.com/opera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/webmasters/hacked" label="google.com/webmasters/hacked">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="support.google.com/websearch/answer/106318?hl=en&amp;rd=1" label="support.google.com/websearch/answer/106318?hl=en&amp;rd=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/dirt-rally/poslednyaya-igra-serii-dirt-pereedet-na-sovremennye-konsoli" label="gmbox.ru/dirt-rally/poslednyaya-igra-serii-dirt-pereedet-na-sovremennye-konsoli">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="calendar.mail.ru/login?page=%2F" label="calendar.mail.ru/login?page=%2F">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/11/kak-rabotaet-tehnologiya-kompressii" label="blogs.opera.com/russia/2015/11/kak-rabotaet-tehnologiya-kompressii">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/jade-empire/igru-bioware-besplatno-razdali-klientam-origin" label="gmbox.ru/jade-empire/igru-bioware-besplatno-razdali-klientam-origin">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/store/apps/sportboxru/9wzdncrdf8k5" label="microsoft.com/en-us/store/apps/sportboxru/9wzdncrdf8k5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="lp-partners.ru" label="lp-partners.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" label="microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Chinese" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/platform/pc/geymeram-predlozhili-profinansirovat-retro-fayting" label="gmbox.ru/platform/pc/geymeram-predlozhili-profinansirovat-retro-fayting">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4vq2ltNzXd" label="instagram.com/p/4vq2ltNzXd">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/11/szhimayte-video-i-smotrite-bolshe-kontenta" label="blogs.opera.com/russia/2015/11/szhimayte-video-i-smotrite-bolshe-kontenta">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="operamediaworks.com" label="operamediaworks.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/iTunes" label="twitter.com/iTunes">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="support.office.com/en-us/article/Facebook-Connect-is-no-longer-available-f31c8107-7b5a-4e3d-8a22-e506dacb6db6?ad=US&amp;rs=en-001&amp;ui=en-US" label="support.office.com/en-us/article/Facebook-Connect-is-no-longer-available-f31c8107-7b5a-4e3d-8a22-e506dacb6db6?ad=US&amp;rs=en-001&amp;ui=en-US">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="messenger.com" label="messenger.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="top.mail.ru?from=odnoklassniki" label="top.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main" label="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="shop.imedia.ru/cosmopolitan" label="shop.imedia.ru/cosmopolitan">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="support.google.com/chrome/answer/2392284?hl=en" label="support.google.com/chrome/answer/2392284?hl=en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com?tab=81" label="youtube.com?tab=81">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="linkedin.com/company/opera-software" label="linkedin.com/company/opera-software" />
+      <node id="newsweb.no/newsweb/search.do?messageId=387820" label="newsweb.no/newsweb/search.do?messageId=387820">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="google.com/policies/terms" label="google.com/policies/terms">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="balticdate.com/by" label="balticdate.com/by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=eAQE_jFDd&amp;s=1&amp;u=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.facebook.orca" label="facebook.com/l.php?h=eAQE_jFDd&amp;s=1&amp;u=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.facebook.orca">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/shadow-complex/priklyuchencheskiy-ekshen-ot-epic-games-adaptiruyut-dlya-pc" label="gmbox.ru/shadow-complex/priklyuchencheskiy-ekshen-ot-epic-games-adaptiruyut-dlya-pc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="opera.com/terms" label="opera.com/terms">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/chrome/browser/desktop/index.html" label="google.com/chrome/browser/desktop/index.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="liveinternet.ru" label="liveinternet.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=ymhEE6ZNlr0" label="youtube.com/watch?v=ymhEE6ZNlr0">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8" label="itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="horo.mail.ru?from=odnoklassniki" label="horo.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/surfeasyinc" label="facebook.com/surfeasyinc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/design/spec/material-design/introduction.html" label="google.com/design/spec/material-design/introduction.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=aky9FFj4ybE" label="youtube.com/watch?v=aky9FFj4ybE">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windows.microsoft.com/ru-ru/internet-explorer/download-ie" label="windows.microsoft.com/ru-ru/internet-explorer/download-ie">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/googlechrome" label="facebook.com/googlechrome">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/login.php?api_key=249216878438606&amp;cancel_url=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-4%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&amp;display=page&amp;next=https%3A%2F%2Fwww.facebook.com%2Fv2.2%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Floveplanet.ru%252Fa-oauth%252Fosys-4%252Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%253D%253D%26scope%3Dpublic_profile%252Cemail%252Cuser_friends%252C%26response_type%3Dcode%26client_id%3D249216878438606%26ret%3Dlogin&amp;signed_next=1&amp;skip_api_login=1" label="facebook.com/login.php?api_key=249216878438606&amp;cancel_url=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-4%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D%3Ferror%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied%23_%3D_&amp;display=page&amp;next=https%3A%2F%2Fwww.facebook.com%2Fv2.2%2Fdialog%2Foauth%3Fredirect_uri%3Dhttp%253A%252F%252Floveplanet.ru%252Fa-oauth%252Fosys-4%252Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%253D%253D%26scope%3Dpublic_profile%252Cemail%252Cuser_friends%252C%26response_type%3Dcode%26client_id%3D249216878438606%26ret%3Dlogin&amp;signed_next=1&amp;skip_api_login=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="accounts.google.com/ServiceLogin?continue=http%3A%2F%2Fsites.google.com%2Fa%2Fchromium.org%2Fdev%2Fchromium-os&amp;passive=true&amp;service=jotspot&amp;ul=1" label="accounts.google.com/ServiceLogin?continue=http%3A%2F%2Fsites.google.com%2Fa%2Fchromium.org%2Fdev%2Fchromium-os&amp;passive=true&amp;service=jotspot&amp;ul=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=K4JhruinbWc" label="youtube.com/watch?v=K4JhruinbWc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok" label="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/44QLU2tzdy" label="instagram.com/p/44QLU2tzdy">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/privacystatement/default.aspx" label="microsoft.com/en-us/privacystatement/default.aspx">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/analytics" label="google.com/analytics">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="opera.com/about" label="opera.com/about">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="accounts.google.com/ServiceLogin?continue=http%3A%2F%2Fsites.google.com%2Fa%2Fchromium.org%2Fdev%2Fchromium-projects&amp;passive=true&amp;service=jotspot&amp;ul=1" label="accounts.google.com/ServiceLogin?continue=http%3A%2F%2Fsites.google.com%2Fa%2Fchromium.org%2Fdev%2Fchromium-projects&amp;passive=true&amp;service=jotspot&amp;ul=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/company/jobs/list" label="operasoftware.com/company/jobs/list">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/10/ozhivite-startovuyu-stranicu-opera" label="blogs.opera.com/russia/2015/10/ozhivite-startovuyu-stranicu-opera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="tv.mail.ru?from=odnoklassniki" label="tv.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html" label="googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/content-partners" label="operasoftware.com/content-partners">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="shop.imedia.ru/cosmo-beauty" label="shop.imedia.ru/cosmo-beauty">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="google.com/about/company/unwanted-software-policy.html" label="google.com/about/company/unwanted-software-policy.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/+Surfeasy/posts" label="plus.google.com/+Surfeasy/posts">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/chivalry-medieval-warfare/sostoyalsya-reliz-chivalry-medieval-warfare-na-sovremennyh-konsolyah" label="gmbox.ru/chivalry-medieval-warfare/sostoyalsya-reliz-chivalry-medieval-warfare-na-sovremennyh-konsolyah">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="love.mail.ru/en?from=odnoklassniki" label="love.mail.ru/en?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="go.mail.ru?from=odnoklassniki" label="go.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="opera.com/developer" label="opera.com/developer">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="softportal.com/software-12-opera.html" label="softportal.com/software-12-opera.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/googlechrome?hl=en" label="youtube.com/user/googlechrome?hl=en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="samsung.com/ru/samsung-tv-apps" label="samsung.com/ru/samsung-tv-apps">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru" label="gmbox.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="windows.microsoft.com/en-us/windows-10/support-mobile?ocid=wpcom_nav" label="windows.microsoft.com/en-us/windows-10/support-mobile?ocid=wpcom_nav">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="deti.mail.ru?from=odnoklassniki" label="deti.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main" label="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/l.php?h=LAQGyaXfF&amp;s=1&amp;u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid454638411" label="facebook.com/l.php?h=LAQGyaXfF&amp;s=1&amp;u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid454638411">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/wmjournal" label="twitter.com/wmjournal">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/SurfEasyInc" label="twitter.com/SurfEasyInc">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=g5e2gQ7j7lU" label="youtube.com/watch?v=g5e2gQ7j7lU">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/4pdaru/status/669788125053493248/photo/1" label="twitter.com/4pdaru/status/669788125053493248/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="chromium.org/chromium-os" label="chromium.org/chromium-os">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki" label="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/opera-tv" label="operasoftware.com/opera-tv">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="ru.lgappstv.com/appspc/store/product/retrieveProductInfo.lge?appId=123792&amp;dummy=all" label="ru.lgappstv.com/appspc/store/product/retrieveProductInfo.lge?appId=123792&amp;dummy=all">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia" label="blogs.opera.com/russia">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/dom2" label="m.vk.com/dom2">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="totaltheme.wpengine.com/base/services" label="totaltheme.wpengine.com/base/services">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="lifehacker.ru/2015/11/23/opera-max" label="lifehacker.ru/2015/11/23/opera-max">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="britishdesign.ru/masterclasses/m?id=472" label="britishdesign.ru/masterclasses/m?id=472">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/opera" label="m.vk.com/opera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="sales.mail.ru/ru/russia/odnoklassniki/latest" label="sales.mail.ru/ru/russia/odnoklassniki/latest">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="groups.google.com/a/chromium.org/forum?_escaped_fragment_=forum%2Fchromium-os-discuss" label="groups.google.com/a/chromium.org/forum?_escaped_fragment_=forum%2Fchromium-os-discuss">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="money.mail.ru?from=odnoklassniki" label="money.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/opera_ru/status/649477702764920832/photo/1" label="twitter.com/opera_ru/status/649477702764920832/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com" label="blogs.opera.com" />
+      <node id="oauth.vk.com/authorize?client_id=4552413&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-3%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code&amp;scope=notify%2Cfriends%2Cwall%2Cemail" label="oauth.vk.com/authorize?client_id=4552413&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-3%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code&amp;scope=notify%2Cfriends%2Cwall%2Cemail">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="health.mail.ru?from=odnoklassniki" label="health.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/opera_ru" label="twitter.com/opera_ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="connect.mail.ru/oauth/authorize?client_id=637589&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-5%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code" label="connect.mail.ru/oauth/authorize?client_id=637589&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-5%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/43bwdetze3" label="instagram.com/p/43bwdetze3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/OMediaworks" label="twitter.com/OMediaworks">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="chromium.googlesource.com" label="chromium.googlesource.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windows.microsoft.com/en-us/windows-10/how-to-get-windows-10-mobile" label="windows.microsoft.com/en-us/windows-10/how-to-get-windows-10-mobile">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="accounts.google.com/ServiceLogin?btmpl=popup&amp;continue=https%3A%2F%2Fplus.google.com%2Fshare%3Furl%3Dhttp%3A%2F%2Fwww.opera.com%2Fru%2Fcomputer%2Fwindows%26gpsrc%3Dgplp0&amp;passive=1209600&amp;service=oz" label="accounts.google.com/ServiceLogin?btmpl=popup&amp;continue=https%3A%2F%2Fplus.google.com%2Fshare%3Furl%3Dhttp%3A%2F%2Fwww.opera.com%2Fru%2Fcomputer%2Fwindows%26gpsrc%3Dgplp0&amp;passive=1209600&amp;service=oz">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/ru/app/sportboks-sportbox.ru/id499018840" label="itunes.apple.com/ru/app/sportboks-sportbox.ru/id499018840">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/CosmopolitanRussia" label="facebook.com/CosmopolitanRussia">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/en-us/how-to/wp8" label="windowsphone.com/en-us/how-to/wp8">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="login.live.com/login.srf?ct=1449094234&amp;id=38936&amp;lc=1033&amp;mkt=en-US&amp;rpsnv=12&amp;rver=6.5.6510.0&amp;uaid=063bb52e03b74f3eb053ca332be3371e&amp;wa=wsignin1.0&amp;wp=SAPI&amp;wreply=https%3A%2F%2Faccount.live.com%2Fsummarypage.aspx" label="login.live.com/login.srf?ct=1449094234&amp;id=38936&amp;lc=1033&amp;mkt=en-US&amp;rpsnv=12&amp;rver=6.5.6510.0&amp;uaid=063bb52e03b74f3eb053ca332be3371e&amp;wa=wsignin1.0&amp;wp=SAPI&amp;wreply=https%3A%2F%2Faccount.live.com%2Fsummarypage.aspx">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi" label="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/street-fighter-5/u-street-fighter-5-budet-tretiy-etap-beta-testirovaniya" label="gmbox.ru/street-fighter-5/u-street-fighter-5-budet-tretiy-etap-beta-testirovaniya">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="en.wikipedia.org/wiki/Zoetrope" label="en.wikipedia.org/wiki/Zoetrope">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us" label="microsoft.com/en-us">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="4pda.ru/2015/11/26/259820" label="4pda.ru/2015/11/26/259820">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="player.vimeo.com/video/88096808?autoplay=1" label="player.vimeo.com/video/88096808?autoplay=1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="dobro.mail.ru" label="dobro.mail.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="github.com/google/styleguide" label="github.com/google/styleguide">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="creativecommons.org/licenses/by/2.5" label="creativecommons.org/licenses/by/2.5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/news" label="blogs.opera.com/news">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="support.mozilla.org/en-US/products/ios" label="support.mozilla.org/en-US/products/ios">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/safetycenter/everyone/cybercrime/identity-theft" label="google.com/safetycenter/everyone/cybercrime/identity-theft">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="lady.mail.ru?from=odnoklassniki" label="lady.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4i-KqntzZu" label="instagram.com/p/4i-KqntzZu">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="." label=".">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="target.my.com?utm_medium=navi&amp;utm_source=mailru" label="target.my.com?utm_medium=navi&amp;utm_source=mailru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="developer.android.com/index.html" label="developer.android.com/index.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/419icntzXa" label="instagram.com/p/419icntzXa">
+        <attvalues>
+          <attvalue for="0" value="0.999999901501" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2F&amp;followup=https%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2F&amp;passive=1209600&amp;service=sitemaps" label="accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2F&amp;followup=https%3A%2F%2Fwww.google.com%2Fwebmasters%2Ftools%2F&amp;passive=1209600&amp;service=sitemaps">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/login?redirect_after_login=%2Fhome%2F%3Fstatus%3D%25D0%25A1%25D0%25BA%25D0%25B0%25D1%2587%25D0%25B0%25D1%2582%25D1%258C%2B%25D0%25B1%25D1%2580%25D0%25B0%25D1%2583%25D0%25B7%25D0%25B5%25D1%2580%2BOpera%2B%25D0%25B4%25D0%25BB%25D1%258F%2B%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D1%258C%25D1%258E%25D1%2582%25D0%25B5%25D1%2580%25D0%25BE%25D0%25B2%2Bhttp%253A%252F%252Fwww.opera.com%252Fru%252Fcomputer%252Fwindows" label="twitter.com/login?redirect_after_login=%2Fhome%2F%3Fstatus%3D%25D0%25A1%25D0%25BA%25D0%25B0%25D1%2587%25D0%25B0%25D1%2582%25D1%258C%2B%25D0%25B1%25D1%2580%25D0%25B0%25D1%2583%25D0%25B7%25D0%25B5%25D1%2580%2BOpera%2B%25D0%25B4%25D0%25BB%25D1%258F%2B%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D1%258C%25D1%258E%25D1%2582%25D0%25B5%25D1%2580%25D0%25BE%25D0%25B2%2Bhttp%253A%252F%252Fwww.opera.com%252Fru%252Fcomputer%252Fwindows">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=389010" label="newsweb.no/newsweb/search.do?messageId=389010">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=iR-mFcEhQXQ" label="youtube.com/watch?v=iR-mFcEhQXQ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="chromium.org/developers/how-tos/chrome-frame-getting-started" label="chromium.org/developers/how-tos/chrome-frame-getting-started">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?hl=en&amp;id=com.surfeasy" label="play.google.com/store/apps/details?hl=en&amp;id=com.surfeasy">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="odnoklassniki.ru/womanjournal" label="odnoklassniki.ru/womanjournal">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?feature=nav_result&amp;id=air.ru.sportbox.sportboxmobile" label="play.google.com/store/apps/details?feature=nav_result&amp;id=air.ru.sportbox.sportboxmobile">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="amazon.com/Best-Sellers-Electronics-Laptop-Computers/zgbs/electronics/565108" label="amazon.com/Best-Sellers-Electronics-Laptop-Computers/zgbs/electronics/565108">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/opera" label="youtube.com/opera">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/403Y5ItzfZ" label="instagram.com/p/403Y5ItzfZ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/kings-quest/vtoraya-glava-kings-quest-vyydet-do-konca-goda" label="gmbox.ru/kings-quest/vtoraya-glava-kings-quest-vyydet-do-konca-goda">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=IdneKLhsWOQ" label="youtube.com/watch?v=IdneKLhsWOQ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="vimeo.com/operamediaworks" label="vimeo.com/operamediaworks">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="apiok.ru/wiki/display/TS/Home" label="apiok.ru/wiki/display/TS/Home">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/ru_lh/status/668806371060641792/photo/1" label="twitter.com/ru_lh/status/668806371060641792/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/wmjru" label="instagram.com/wmjru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=383390" label="newsweb.no/newsweb/search.do?messageId=383390">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="gleam.io/2C8Co/-opera-huawei-honor-7" label="gleam.io/2C8Co/-opera-huawei-honor-7">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="code.google.com/p/chromium/issues/list" label="code.google.com/p/chromium/issues/list">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="rabota.mail.ru?from=odnoklassniki" label="rabota.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/mobile" label="blogs.opera.com/mobile">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/rocket-league/spisok-platform-dlya-rocket-league-rasshiryat-za-schet-xbox-one" label="gmbox.ru/rocket-league/spisok-platform-dlya-rocket-league-rasshiryat-za-schet-xbox-one">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="opera.com/help" label="opera.com/help">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4yu01MNzS5" label="instagram.com/p/4yu01MNzS5">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/opera?_rdr=p" label="facebook.com/opera?_rdr=p">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=A9WVmNfgjtQ" label="youtube.com/watch?v=A9WVmNfgjtQ">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=com.facebook.orca" label="play.google.com/store/apps/details?id=com.facebook.orca">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/work/chrome/devices/chromebit" label="google.com/work/chrome/devices/chromebit">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/wmj.ru" label="facebook.com/wmj.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=384206" label="newsweb.no/newsweb/search.do?messageId=384206">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/us/app/chrome/id535886823" label="itunes.apple.com/us/app/chrome/id535886823">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="chromeexperiments.com" label="chromeexperiments.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fwww.opera.com%252Fru%252Fcomputer%252Fwindows" label="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fwww.opera.com%252Fru%252Fcomputer%252Fwindows">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="google.com/chrome/devices" label="google.com/chrome/devices">
+        <attvalues>
+          <attvalue for="0" value="0.391570887611" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="xbox.com/ru-RU/entertainment/xbox-one/live-apps/sportbox" label="xbox.com/ru-RU/entertainment/xbox-one/live-apps/sportbox">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="realty.mail.ru?from=odnoklassniki" label="realty.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x409" label="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x409">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Quechua" />
+        </attvalues>
+      </node>
+      <node id="developer.chrome.com/extensions" label="developer.chrome.com/extensions">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/10/opera-coast-sovershenniy-brauzer-dlya-ipad-na-ios9" label="blogs.opera.com/russia/2015/10/opera-coast-sovershenniy-brauzer-dlya-ipad-na-ios9">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=com.opera.max.global" label="play.google.com/store/apps/details?id=com.opera.max.global">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="developers.google.com/site-policies" label="developers.google.com/site-policies">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="amazon.com/gp/product/B00DTOYJJ2/ref=pd_sim__3?ie=UTF8&amp;redirect=true" label="amazon.com/gp/product/B00DTOYJJ2/ref=pd_sim__3?ie=UTF8&amp;redirect=true">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=mTFfl7AjNfI" label="youtube.com/watch?v=mTFfl7AjNfI">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="shop.imedia.ru/cosmo-shopping" label="shop.imedia.ru/cosmo-shopping">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="dom2.ru" label="dom2.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Kyrgyz" />
+        </attvalues>
+      </node>
+      <node id="agent.mail.ru?from=odnoklassniki" label="agent.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1175640&amp;stat=0&amp;theme=604&amp;view=short" label="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1175640&amp;stat=0&amp;theme=604&amp;view=short">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="google.com" label="google.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" label="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="connect.ok.ru/dk?st.cmd=OAuth2Login&amp;st.redirect=%252Fdk%253Fst.cmd%253DOAuth2Permissions%2526amp%253Bst.scope%253DVALUABLE%252BACCESS%2526amp%253Bst.response_type%253Dcode%2526amp%253Bst.show_permissions%253Doff%2526amp%253Bst.redirect_uri%253Dhttp%25253A%25252F%25252Floveplanet.ru%25252Fa-oauth%25252Fosys-6%25253Frefer%25253DaG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%25253D%25253D%2526amp%253Bst.client_id%253D3496704" label="connect.ok.ru/dk?st.cmd=OAuth2Login&amp;st.redirect=%252Fdk%253Fst.cmd%253DOAuth2Permissions%2526amp%253Bst.scope%253DVALUABLE%252BACCESS%2526amp%253Bst.response_type%253Dcode%2526amp%253Bst.show_permissions%253Doff%2526amp%253Bst.redirect_uri%253Dhttp%25253A%25252F%25252Floveplanet.ru%25252Fa-oauth%25252Fosys-6%25253Frefer%25253DaG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%25253D%25253D%2526amp%253Bst.client_id%253D3496704">
+        <attvalues>
+          <attvalue for="0" value="0.999999647355" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="opera.com/tablet" label="opera.com/tablet">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=388511" label="newsweb.no/newsweb/search.do?messageId=388511">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="addons.opera.com/en" label="addons.opera.com/en">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="auto.mail.ru?from=odnoklassniki" label="auto.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="html5.oms.apps.opera.com/en_us" label="html5.oms.apps.opera.com/en_us">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="edge.media-server.com/m/p/9iry9wxw" label="edge.media-server.com/m/p/9iry9wxw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="opera.com" label="opera.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="support.google.com/chromebook/answer/3438631?hl=en&amp;source=genius-rts" label="support.google.com/chromebook/answer/3438631?hl=en&amp;source=genius-rts">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/operamediaworks" label="facebook.com/operamediaworks">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/grand-theft-auto-san-andreas/grand-theft-auto-san-andreas-obzavelis-cifrovoy-versiey" label="gmbox.ru/grand-theft-auto-san-andreas/grand-theft-auto-san-andreas-obzavelis-cifrovoy-versiey">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/news/feed" label="blogs.opera.com/news/feed">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="windowsphone.com/en-us/how-to/wp8/basics/feature-and-service-availability" label="windowsphone.com/en-us/how-to/wp8/basics/feature-and-service-availability">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="e.mail.ru/login" label="e.mail.ru/login">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org" label="play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/intl/en/chrome/browser/mobile" label="google.com/intl/en/chrome/browser/mobile">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/chrome/index.html?brand=CHNQ&amp;utm_campaign=en&amp;utm_medium=et&amp;utm_source=en-et-chromeblog" label="google.com/chrome/index.html?brand=CHNQ&amp;utm_campaign=en&amp;utm_medium=et&amp;utm_source=en-et-chromeblog">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="flirt.by" label="flirt.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="hi-tech.mail.ru?from=odnoklassniki" label="hi-tech.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="opera.com/ru/computer" label="opera.com/ru/computer">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="news.sportbox.ru" label="news.sportbox.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=KA5RQv9mBoY" label="youtube.com/watch?v=KA5RQv9mBoY">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="icloud.com" label="icloud.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/transparencyreport/safebrowsing/diagnostic" label="google.com/transparencyreport/safebrowsing/diagnostic">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="itunes.apple.com/ru/app/cosmopolitan-russia/id387618236" label="itunes.apple.com/ru/app/cosmopolitan-russia/id387618236">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="google.com/safebrowsing/report_error" label="google.com/safebrowsing/report_error">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/opera_ru/status/651054080765349888/photo/1" label="twitter.com/opera_ru/status/651054080765349888/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="operasoftware.com/operators" label="operasoftware.com/operators">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="opera.com/computer/beta" label="opera.com/computer/beta">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/user/SurfEasyVideos" label="youtube.com/user/SurfEasyVideos">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="plus.google.com/+Chrome" label="plus.google.com/+Chrome">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="dev.opera.com" label="dev.opera.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/AppStore" label="twitter.com/AppStore">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="opera.com/privacy" label="opera.com/privacy">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=0QRO3gKj3qw" label="youtube.com/watch?v=0QRO3gKj3qw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="cosmo.ru" label="cosmo.ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/googlechrome/status/633337528930693120" label="twitter.com/googlechrome/status/633337528930693120">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="youtube.com/watch?v=0wCC3aLXdOw" label="youtube.com/watch?v=0wCC3aLXdOw">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="microsoft.com/en-us/store/apps/messenger/9wzdncrf0083" label="microsoft.com/en-us/store/apps/messenger/9wzdncrf0083">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="google.com/transparencyreport/safebrowsing" label="google.com/transparencyreport/safebrowsing">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="mobileworldcongress.com" label="mobileworldcongress.com">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4tR6EJNzdj" label="instagram.com/p/4tR6EJNzdj">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="afisha.mail.ru?from=odnoklassniki" label="afisha.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="pcworld.com/article/2903728/googles-android-runtime-for-chrome-to-bring-native-android-apps-to-chromebooks.html" label="pcworld.com/article/2903728/googles-android-runtime-for-chrome-to-bring-native-android-apps-to-chromebooks.html">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="otvet.mail.ru?from=odnoklassniki" label="otvet.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="mozilla.org/ru/firefox/new" label="mozilla.org/ru/firefox/new">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/operabrowser" label="instagram.com/operabrowser">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="mozilla.org/en-US/firefox/ios" label="mozilla.org/en-US/firefox/ios">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Latin" />
+        </attvalues>
+      </node>
+      <node id="twitter.com/mikzaitsev/status/668755949675524096/photo/1" label="twitter.com/mikzaitsev/status/668755949675524096/photo/1">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="blogs.opera.com/russia/2015/09/rashireniya-klaviatury-v-opera-dlya-windows-phone" label="blogs.opera.com/russia/2015/09/rashireniya-klaviatury-v-opera-dlya-windows-phone">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/dom2.tnt" label="facebook.com/dom2.tnt">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="icq.com/windows/ru" label="icq.com/windows/ru">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="facebook.com/policies?ref=pf" label="facebook.com/policies?ref=pf">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="gmbox.ru/just-cause-3/just-cause-3-v-pryamom-efire" label="gmbox.ru/just-cause-3/just-cause-3-v-pryamom-efire">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="loveplaneta.by" label="loveplaneta.by">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="mail.ru?from=odnoklassniki" label="mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/cosmopolitan" label="m.vk.com/cosmopolitan">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="newsweb.no/newsweb/search.do?messageId=384391" label="newsweb.no/newsweb/search.do?messageId=384391">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Norwegian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4lV075tzZg" label="instagram.com/p/4lV075tzZg">
+        <attvalues>
+          <attvalue for="0" value="0.998016153086" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="opera.com/computer" label="opera.com/computer">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="English" />
+        </attvalues>
+      </node>
+      <node id="news.mail.ru?from=odnoklassniki" label="news.mail.ru?from=odnoklassniki">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="m.vk.com/wmjournal" label="m.vk.com/wmjournal">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="androidinsider.ru/soft/opera-browser-prostoy-i-udobnyiy.html?utm_medium=twitter&amp;utm_source=dlvr.it" label="androidinsider.ru/soft/opera-browser-prostoy-i-udobnyiy.html?utm_medium=twitter&amp;utm_source=dlvr.it">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+      <node id="instagram.com/p/4yPdEgNzR3" label="instagram.com/p/4yPdEgNzR3">
+        <attvalues>
+          <attvalue for="0" value="1.0" />
+          <attvalue for="1" value="Russian" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="chromium.org" target="googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html" weight="1" />
+      <edge id="1" source="chromium.org" target="chromium.org/developers/how-tos/chrome-frame-getting-started" weight="1" />
+      <edge id="2" source="chromium.org" target="developer.chrome.com/extensions" weight="1" />
+      <edge id="3" source="chromium.org" target="developers.google.com/site-policies" weight="1" />
+      <edge id="4" source="chromium.org" target="creativecommons.org/licenses/by/2.5" weight="1" />
+      <edge id="5" source="chromium.org" target="google.com/chrome/devices" weight="1" />
+      <edge id="6" source="operasoftware.com/press" target="linkedin.com/company/opera-software" weight="1" />
+      <edge id="7" source="operasoftware.com/press" target="html5.oms.apps.opera.com/en_us" weight="1" />
+      <edge id="8" source="operasoftware.com/press" target="blogs.opera.com/news/feed" weight="1" />
+      <edge id="9" source="operasoftware.com/press" target="opera.com/developer" weight="1" />
+      <edge id="10" source="operasoftware.com/press" target="operasoftware.com/company/jobs/list" weight="1" />
+      <edge id="11" source="operasoftware.com/press" target="blogs.opera.com/news" weight="2" />
+      <edge id="12" source="operasoftware.com/press" target="opera.com/computer/beta" weight="1" />
+      <edge id="13" source="operasoftware.com/press" target="opera.com/about" weight="1" />
+      <edge id="14" source="operasoftware.com/press" target="blogs.opera.com/mobile" weight="1" />
+      <edge id="15" source="operasoftware.com/press" target="dev.opera.com" weight="1" />
+      <edge id="16" source="operasoftware.com/press" target="opera.com/privacy" weight="1" />
+      <edge id="17" source="operasoftware.com/press" target="opera.com/mobile" weight="1" />
+      <edge id="18" source="operasoftware.com/press" target="opera.com/terms" weight="1" />
+      <edge id="19" source="operasoftware.com/press" target="opera.com/help" weight="1" />
+      <edge id="20" source="operasoftware.com/press" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="21" source="operasoftware.com/press" target="mobileworldcongress.com" weight="1" />
+      <edge id="22" source="operasoftware.com/press" target="twitter.com/opera" weight="2" />
+      <edge id="23" source="operasoftware.com/press" target="instagram.com/operabrowser" weight="1" />
+      <edge id="24" source="operasoftware.com/press" target="youtube.com/opera" weight="1" />
+      <edge id="25" source="operasoftware.com/press" target="operamediaworks.com" weight="1" />
+      <edge id="26" source="operasoftware.com/press" target="opera.com/tablet" weight="1" />
+      <edge id="27" source="operasoftware.com/press" target="addons.opera.com/en" weight="1" />
+      <edge id="28" source="operasoftware.com/press" target="blogs.opera.com" weight="1" />
+      <edge id="29" source="operasoftware.com/press" target="opera.com/computer" weight="1" />
+      <edge id="30" source="operasoftware.com/press" target="blogs.opera.com/desktop" weight="1" />
+      <edge id="31" source="chrome.blogspot.com" target="chromium.org" weight="1" />
+      <edge id="32" source="chrome.blogspot.com" target="youtube.com/watch?v=ymhEE6ZNlr0" weight="1" />
+      <edge id="33" source="chrome.blogspot.com" target="itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8" weight="1" />
+      <edge id="34" source="chrome.blogspot.com" target="en.wikipedia.org/wiki/Zoetrope" weight="1" />
+      <edge id="35" source="chrome.blogspot.com" target="youtube.com/watch?v=iR-mFcEhQXQ" weight="1" />
+      <edge id="36" source="chrome.blogspot.com" target="google.com/design/spec/material-design/introduction.html" weight="1" />
+      <edge id="37" source="chrome.blogspot.com" target="facebook.com/googlechrome" weight="1" />
+      <edge id="38" source="chrome.blogspot.com" target="support.google.com/chromebook/answer/3438631?hl=en&amp;source=genius-rts" weight="1" />
+      <edge id="39" source="chrome.blogspot.com" target="google.com/analytics" weight="1" />
+      <edge id="40" source="chrome.blogspot.com" target="youtube.com/watch?v=K4JhruinbWc" weight="1" />
+      <edge id="41" source="chrome.blogspot.com" target="youtube.com/watch?v=aky9FFj4ybE" weight="1" />
+      <edge id="42" source="chrome.blogspot.com" target="google.com/intl/en/chrome/browser/mobile" weight="1" />
+      <edge id="43" source="chrome.blogspot.com" target="pcworld.com/article/2904093/hands-on-the-149-hisense-chromebook-succeeds-at-being-incredibly-affordable.html" weight="1" />
+      <edge id="44" source="chrome.blogspot.com" target="support.google.com/chrome/a/answer/6220366?hl=en" weight="1" />
+      <edge id="45" source="chrome.blogspot.com" target="google.com/about/company/unwanted-software-policy.html" weight="1" />
+      <edge id="46" source="chrome.blogspot.com" target="amazon.com/Best-Sellers-Electronics-Laptop-Computers/zgbs/electronics/565108" weight="1" />
+      <edge id="47" source="chrome.blogspot.com" target="google.com/transparencyreport/safebrowsing/diagnostic" weight="1" />
+      <edge id="48" source="chrome.blogspot.com" target="blog.chromium.org" weight="1" />
+      <edge id="49" source="chrome.blogspot.com" target="youtube.com/watch?v=IdneKLhsWOQ" weight="1" />
+      <edge id="50" source="chrome.blogspot.com" target="youtube.com/watch?v=sLprVF6d7Ug" weight="1" />
+      <edge id="51" source="chrome.blogspot.com" target="google.com/webmasters/hacked" weight="1" />
+      <edge id="52" source="chrome.blogspot.com" target="support.google.com/websearch/answer/106318?hl=en&amp;rd=1" weight="1" />
+      <edge id="53" source="chrome.blogspot.com" target="pcworld.com/article/2903728/googles-android-runtime-for-chrome-to-bring-native-android-apps-to-chromebooks.html" weight="1" />
+      <edge id="54" source="chrome.blogspot.com" target="google.com/chrome/index.html?brand=CHNQ&amp;utm_campaign=en&amp;utm_medium=et&amp;utm_source=en-et-chromeblog" weight="1" />
+      <edge id="55" source="chrome.blogspot.com" target="google.com/work/chrome/devices/chromebit" weight="1" />
+      <edge id="56" source="chrome.blogspot.com" target="google.com/transparencyreport/safebrowsing" weight="1" />
+      <edge id="57" source="chrome.blogspot.com" target="google.com/policies/terms" weight="1" />
+      <edge id="58" source="chrome.blogspot.com" target="google.com" weight="1" />
+      <edge id="59" source="chrome.blogspot.com" target="support.google.com/chrome/answer/2392284?hl=en" weight="1" />
+      <edge id="60" source="chrome.blogspot.com" target="amazon.com/gp/product/B00DTOYJJ2/ref=pd_sim__3?ie=UTF8&amp;redirect=true" weight="1" />
+      <edge id="61" source="chrome.blogspot.com" target="google.com/safebrowsing/report_error" weight="1" />
+      <edge id="62" source="chrome.blogspot.com" target="youtube.com/watch?v=0wCC3aLXdOw" weight="1" />
+      <edge id="63" source="chrome.blogspot.com" target="twitter.com/googlechrome/status/633337528930693120" weight="1" />
+      <edge id="64" source="chrome.blogspot.com" target="google.com/safetycenter/everyone/cybercrime/identity-theft" weight="1" />
+      <edge id="65" source="itunes.apple.com/app/apple-store/id989804926?mt=8" target="icloud.com" weight="1" />
+      <edge id="66" source="itunes.apple.com/app/apple-store/id989804926?mt=8" target="support.mozilla.org/en-US/products/ios" weight="1" />
+      <edge id="67" source="itunes.apple.com/app/apple-store/id989804926?mt=8" target="twitter.com/iTunes" weight="1" />
+      <edge id="68" source="itunes.apple.com/app/apple-store/id989804926?mt=8" target="twitter.com/AppStore" weight="1" />
+      <edge id="69" source="itunes.apple.com/app/apple-store/id989804926?mt=8" target="mozilla.org/en-US/firefox/ios" weight="1" />
+      <edge id="70" source="surfeasy.com/en" target="youtube.com/user/SurfEasyVideos" weight="1" />
+      <edge id="71" source="surfeasy.com/en" target="play.google.com/store/apps/details?hl=en&amp;id=com.surfeasy" weight="1" />
+      <edge id="72" source="surfeasy.com/en" target="player.vimeo.com/video/88096808?autoplay=1" weight="1" />
+      <edge id="73" source="surfeasy.com/en" target="plus.google.com/+Surfeasy/posts" weight="1" />
+      <edge id="74" source="surfeasy.com/en" target="." weight="1" />
+      <edge id="75" source="surfeasy.com/en" target="itunes.apple.com/ca/app/surfeasy-vpn-for-iphone-ipad/id633495655?mt=8" weight="1" />
+      <edge id="76" source="surfeasy.com/en" target="twitter.com/SurfEasyInc" weight="1" />
+      <edge id="77" source="surfeasy.com/en" target="totaltheme.wpengine.com/base/services" weight="1" />
+      <edge id="78" source="surfeasy.com/en" target="facebook.com/surfeasyinc" weight="1" />
+      <edge id="79" source="wmj.ru" target="instagram.com/p/4oAetStzXa" weight="1" />
+      <edge id="80" source="wmj.ru" target="twitter.com/wmjournal" weight="1" />
+      <edge id="81" source="wmj.ru" target="instagram.com/p/4mkteDtzR-" weight="1" />
+      <edge id="82" source="wmj.ru" target="instagram.com/p/4yu01MNzS5" weight="1" />
+      <edge id="83" source="wmj.ru" target="instagram.com/p/4vq2ltNzXd" weight="1" />
+      <edge id="84" source="wmj.ru" target="instagram.com/p/4i-KqntzZu" weight="1" />
+      <edge id="85" source="wmj.ru" target="odnoklassniki.ru/womanjournal" weight="1" />
+      <edge id="86" source="wmj.ru" target="instagram.com/wmjru" weight="1" />
+      <edge id="87" source="wmj.ru" target="instagram.com/p/44QLU2tzdy" weight="1" />
+      <edge id="88" source="wmj.ru" target="instagram.com/p/403Y5ItzfZ" weight="1" />
+      <edge id="89" source="wmj.ru" target="facebook.com/wmj.ru" weight="1" />
+      <edge id="90" source="wmj.ru" target="instagram.com/p/43bwdetze3" weight="1" />
+      <edge id="91" source="wmj.ru" target="instagram.com/p/4yPdEgNzR3" weight="1" />
+      <edge id="92" source="wmj.ru" target="m.vk.com/wmjournal" weight="1" />
+      <edge id="93" source="wmj.ru" target="instagram.com/p/4lV075tzZg" weight="1" />
+      <edge id="94" source="wmj.ru" target="instagram.com/p/4tR6EJNzdj" weight="1" />
+      <edge id="95" source="wmj.ru" target="instagram.com/p/419icntzXa" weight="1" />
+      <edge id="96" source="operasoftware.com/company/investors" target="html5.oms.apps.opera.com/en_us" weight="1" />
+      <edge id="97" source="operasoftware.com/company/investors" target="edge.media-server.com/m/p/9iry9wxw" weight="1" />
+      <edge id="98" source="operasoftware.com/company/investors" target="opera.com/developer" weight="1" />
+      <edge id="99" source="operasoftware.com/company/investors" target="operasoftware.com/company/jobs/list" weight="1" />
+      <edge id="100" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=389010" weight="1" />
+      <edge id="101" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=383108" weight="1" />
+      <edge id="102" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=383390" weight="1" />
+      <edge id="103" source="operasoftware.com/company/investors" target="opera.com/computer/beta" weight="1" />
+      <edge id="104" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=383398" weight="1" />
+      <edge id="105" source="operasoftware.com/company/investors" target="blogs.opera.com/news" weight="1" />
+      <edge id="106" source="operasoftware.com/company/investors" target="opera.com/about" weight="1" />
+      <edge id="107" source="operasoftware.com/company/investors" target="dev.opera.com" weight="1" />
+      <edge id="108" source="operasoftware.com/company/investors" target="opera.com/privacy" weight="1" />
+      <edge id="109" source="operasoftware.com/company/investors" target="opera.com/mobile" weight="1" />
+      <edge id="110" source="operasoftware.com/company/investors" target="opera.com/help" weight="1" />
+      <edge id="111" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=388511" weight="1" />
+      <edge id="112" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=384206" weight="1" />
+      <edge id="113" source="operasoftware.com/company/investors" target="twitter.com/opera" weight="1" />
+      <edge id="114" source="operasoftware.com/company/investors" target="instagram.com/operabrowser" weight="1" />
+      <edge id="115" source="operasoftware.com/company/investors" target="youtube.com/opera" weight="1" />
+      <edge id="116" source="operasoftware.com/company/investors" target="operamediaworks.com" weight="1" />
+      <edge id="117" source="operasoftware.com/company/investors" target="opera.com/tablet" weight="1" />
+      <edge id="118" source="operasoftware.com/company/investors" target="addons.opera.com/en" weight="1" />
+      <edge id="119" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=387820" weight="1" />
+      <edge id="120" source="operasoftware.com/company/investors" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="121" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=384391" weight="1" />
+      <edge id="122" source="operasoftware.com/company/investors" target="opera.com/computer" weight="1" />
+      <edge id="123" source="operasoftware.com/company/investors" target="opera.com/terms" weight="1" />
+      <edge id="124" source="operasoftware.com/company/investors" target="newsweb.no/newsweb/search.do?messageId=390435" weight="1" />
+      <edge id="125" source="ok.ru/opera" target="cloud.mail.ru?utm_campaign=cloud+promo&amp;utm_medium=link&amp;utm_source=portal.navi" weight="1" />
+      <edge id="126" source="ok.ru/opera" target="horo.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="127" source="ok.ru/opera" target="auto.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="128" source="ok.ru/opera" target="realty.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="129" source="ok.ru/opera" target="s1.amigo.mail.ru?utm_campaign=browser&amp;utm_medium=nav&amp;utm_source=ok" weight="1" />
+      <edge id="130" source="ok.ru/opera" target="lady.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="131" source="ok.ru/opera" target="e.mail.ru/login" weight="1" />
+      <edge id="132" source="ok.ru/opera" target="target.my.com?utm_medium=navi&amp;utm_source=mailru" weight="1" />
+      <edge id="133" source="ok.ru/opera" target="torg.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="134" source="ok.ru/opera" target="hi-tech.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="135" source="ok.ru/opera" target="tv.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="136" source="ok.ru/opera" target="love.mail.ru/en?from=odnoklassniki" weight="1" />
+      <edge id="137" source="ok.ru/opera" target="go.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="138" source="ok.ru/opera" target="apiok.ru/wiki/display/TS/Home" weight="1" />
+      <edge id="139" source="ok.ru/opera" target="deti.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="140" source="ok.ru/opera" target="sport.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="141" source="ok.ru/opera" target="rabota.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="142" source="ok.ru/opera" target="calendar.mail.ru/login?page=%2F" weight="1" />
+      <edge id="143" source="ok.ru/opera" target="mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="144" source="ok.ru/opera" target="pogoda.mail.ru/prognoz/boston?from=odnoklassniki" weight="1" />
+      <edge id="145" source="ok.ru/opera" target="my.mail.ru/cgi-bin/login?page=https%3A%2F%2Fmy.mail.ru%2F%3Ffrom%3Dodnoklassniki" weight="1" />
+      <edge id="146" source="ok.ru/opera" target="afisha.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="147" source="ok.ru/opera" target="otvet.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="148" source="ok.ru/opera" target="sales.mail.ru/ru/russia/odnoklassniki/latest" weight="1" />
+      <edge id="149" source="ok.ru/opera" target="top.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="150" source="ok.ru/opera" target="biz.mail.ru?utm_campaign=portal-new&amp;utm_medium=link-new&amp;utm_source=main" weight="1" />
+      <edge id="151" source="ok.ru/opera" target="icq.com/windows/ru" weight="1" />
+      <edge id="152" source="ok.ru/opera" target="health.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="153" source="ok.ru/opera" target="money.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="154" source="ok.ru/opera" target="edu.mail.ru?utm_campaign=edu-portal&amp;utm_medium=link&amp;utm_source=main" weight="1" />
+      <edge id="155" source="ok.ru/opera" target="agent.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="156" source="ok.ru/opera" target="news.mail.ru?from=odnoklassniki" weight="1" />
+      <edge id="157" source="lp-partners.ru" target="dom2.ru" weight="1" />
+      <edge id="158" source="lp-partners.ru" target="news.sportbox.ru" weight="1" />
+      <edge id="159" source="lp-partners.ru" target="wmj.ru" weight="1" />
+      <edge id="160" source="lp-partners.ru" target="cosmo.ru" weight="1" />
+      <edge id="161" source="operamediaworks.com" target="youtube.com/user/4thScreenAdvertising" weight="1" />
+      <edge id="162" source="operamediaworks.com" target="facebook.com/operamediaworks" weight="1" />
+      <edge id="163" source="operamediaworks.com" target="vimeo.com/operamediaworks" weight="1" />
+      <edge id="164" source="operamediaworks.com" target="twitter.com/OMediaworks" weight="1" />
+      <edge id="165" source="google.com/chrome/browser/desktop/index.html" target="chromium.org" weight="1" />
+      <edge id="166" source="google.com/chrome/browser/desktop/index.html" target="chromium.org/chromium-os" weight="1" />
+      <edge id="167" source="google.com/chrome/browser/desktop/index.html" target="chrome.blogspot.com" weight="1" />
+      <edge id="168" source="google.com/chrome/browser/desktop/index.html" target="youtube.com/user/googlechrome?hl=en" weight="1" />
+      <edge id="169" source="google.com/chrome/browser/desktop/index.html" target="itunes.apple.com/us/app/chrome/id535886823" weight="1" />
+      <edge id="170" source="google.com/chrome/browser/desktop/index.html" target="chromeexperiments.com" weight="1" />
+      <edge id="171" source="windows.microsoft.com/ru-ru/internet-explorer/download-ie" target="login.live.com/login.srf?ct=1449094234&amp;id=38936&amp;lc=1033&amp;mkt=en-US&amp;rpsnv=12&amp;rver=6.5.6510.0&amp;uaid=063bb52e03b74f3eb053ca332be3371e&amp;wa=wsignin1.0&amp;wp=SAPI&amp;wreply=https%3A%2F%2Faccount.live.com%2Fsummarypage.aspx" weight="1" />
+      <edge id="172" source="windows.microsoft.com/ru-ru/internet-explorer/download-ie" target="login.live.com/logout.srf?id=285275&amp;lc=1033&amp;ru=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie&amp;rver=6.1.6206.0" weight="1" />
+      <edge id="173" source="windows.microsoft.com/ru-ru/internet-explorer/download-ie" target="login.live.com/login.srf?cbcxt=h_d10db682284e41afabd0100efcf3b93b_p_03be6e51a12b41ab82881f1acdba78e2&amp;id=285275&amp;lc=1033&amp;mkt=ru-RU&amp;rpsnv=12&amp;rver=6.1.6206.0&amp;wa=wsignin1.0&amp;wp=LBI_SSL&amp;wreply=https%3A%2F%2Fredir.windows.microsoft.com%2Fliveid%3Fru%3Dru-ru%252finternet-explorer%252fdownload-ie" weight="1" />
+      <edge id="174" source="windows.microsoft.com/ru-ru/internet-explorer/download-ie" target="windowsphone.com/en-us/how-to/wp8" weight="1" />
+      <edge id="175" source="operasoftware.com/content-partners" target="operasoftware.com/company/jobs/list" weight="1" />
+      <edge id="176" source="operasoftware.com/content-partners" target="youtube.com/opera" weight="1" />
+      <edge id="177" source="operasoftware.com/content-partners" target="opera.com/terms" weight="1" />
+      <edge id="178" source="operasoftware.com/content-partners" target="operamediaworks.com" weight="1" />
+      <edge id="179" source="operasoftware.com/content-partners" target="html5.oms.apps.opera.com/en_us" weight="1" />
+      <edge id="180" source="operasoftware.com/content-partners" target="dev.opera.com" weight="1" />
+      <edge id="181" source="operasoftware.com/content-partners" target="opera.com/tablet" weight="1" />
+      <edge id="182" source="operasoftware.com/content-partners" target="addons.opera.com/en" weight="1" />
+      <edge id="183" source="operasoftware.com/content-partners" target="opera.com/mobile" weight="1" />
+      <edge id="184" source="operasoftware.com/content-partners" target="blogs.opera.com" weight="1" />
+      <edge id="185" source="operasoftware.com/content-partners" target="twitter.com/opera" weight="1" />
+      <edge id="186" source="operasoftware.com/content-partners" target="opera.com/help" weight="1" />
+      <edge id="187" source="operasoftware.com/content-partners" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="188" source="operasoftware.com/content-partners" target="linkedin.com/company/opera-software" weight="1" />
+      <edge id="189" source="operasoftware.com/content-partners" target="opera.com/computer" weight="1" />
+      <edge id="190" source="operasoftware.com/content-partners" target="instagram.com/operabrowser" weight="1" />
+      <edge id="191" source="operasoftware.com/content-partners" target="opera.com/developer" weight="1" />
+      <edge id="192" source="operasoftware.com/content-partners" target="opera.com/computer/beta" weight="1" />
+      <edge id="193" source="operasoftware.com/content-partners" target="opera.com/privacy" weight="1" />
+      <edge id="194" source="operasoftware.com/content-partners" target="opera.com/about" weight="1" />
+      <edge id="195" source="youtube.com/user/googlechrome?hl=en" target="google.com/chrome" weight="1" />
+      <edge id="196" source="youtube.com/user/googlechrome?hl=en" target="plus.google.com/+Chrome" weight="1" />
+      <edge id="197" source="chromium.org/chromium-os" target="googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html" weight="1" />
+      <edge id="198" source="chromium.org/chromium-os" target="code.google.com/p/chromium/issues/list" weight="1" />
+      <edge id="199" source="chromium.org/chromium-os" target="chromium.org/developers/how-tos/chrome-frame-getting-started" weight="1" />
+      <edge id="200" source="chromium.org/chromium-os" target="groups.google.com/a/chromium.org/forum?_escaped_fragment_=forum%2Fchromium-os-discuss" weight="1" />
+      <edge id="201" source="chromium.org/chromium-os" target="youtube.com/watch?v=KA5RQv9mBoY" weight="1" />
+      <edge id="202" source="chromium.org/chromium-os" target="developer.chrome.com/extensions" weight="1" />
+      <edge id="203" source="chromium.org/chromium-os" target="youtube.com/watch?v=0QRO3gKj3qw" weight="1" />
+      <edge id="204" source="chromium.org/chromium-os" target="developers.google.com/site-policies" weight="1" />
+      <edge id="205" source="chromium.org/chromium-os" target="github.com/google/styleguide" weight="1" />
+      <edge id="206" source="chromium.org/chromium-os" target="creativecommons.org/licenses/by/2.5" weight="1" />
+      <edge id="207" source="chromium.org/chromium-os" target="youtube.com/watch?v=mTFfl7AjNfI" weight="1" />
+      <edge id="208" source="chromium.org/chromium-os" target="youtube.com/watch?v=A9WVmNfgjtQ" weight="1" />
+      <edge id="209" source="chromium.org/chromium-os" target="chromium.googlesource.com" weight="1" />
+      <edge id="210" source="operasoftware.com/opera-tv" target="operasoftware.com/company/jobs/list" weight="1" />
+      <edge id="211" source="operasoftware.com/opera-tv" target="youtube.com/opera" weight="1" />
+      <edge id="212" source="operasoftware.com/opera-tv" target="opera.com/terms" weight="1" />
+      <edge id="213" source="operasoftware.com/opera-tv" target="operamediaworks.com" weight="1" />
+      <edge id="214" source="operasoftware.com/opera-tv" target="html5.oms.apps.opera.com/en_us" weight="1" />
+      <edge id="215" source="operasoftware.com/opera-tv" target="dev.opera.com" weight="1" />
+      <edge id="216" source="operasoftware.com/opera-tv" target="opera.com/tablet" weight="1" />
+      <edge id="217" source="operasoftware.com/opera-tv" target="addons.opera.com/en" weight="1" />
+      <edge id="218" source="operasoftware.com/opera-tv" target="opera.com/mobile" weight="1" />
+      <edge id="219" source="operasoftware.com/opera-tv" target="blogs.opera.com" weight="1" />
+      <edge id="220" source="operasoftware.com/opera-tv" target="twitter.com/opera" weight="1" />
+      <edge id="221" source="operasoftware.com/opera-tv" target="opera.com/help" weight="1" />
+      <edge id="222" source="operasoftware.com/opera-tv" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="223" source="operasoftware.com/opera-tv" target="linkedin.com/company/opera-software" weight="1" />
+      <edge id="224" source="operasoftware.com/opera-tv" target="opera.com/computer" weight="1" />
+      <edge id="225" source="operasoftware.com/opera-tv" target="instagram.com/operabrowser" weight="1" />
+      <edge id="226" source="operasoftware.com/opera-tv" target="opera.com/developer" weight="1" />
+      <edge id="227" source="operasoftware.com/opera-tv" target="opera.com/computer/beta" weight="1" />
+      <edge id="228" source="operasoftware.com/opera-tv" target="opera.com/privacy" weight="1" />
+      <edge id="229" source="operasoftware.com/opera-tv" target="opera.com/about" weight="1" />
+      <edge id="230" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/10/novaya-%D0%BE-poyavilas-v-opera-dlya-kompyuterov" weight="1" />
+      <edge id="231" source="twitter.com/opera_ru" target="opera.com" weight="1" />
+      <edge id="232" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/11/vstrechayte-komandu-brauzera-opera-dlya-mac" weight="1" />
+      <edge id="233" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/10/opera-coast-sovershenniy-brauzer-dlya-ipad-na-ios9" weight="1" />
+      <edge id="234" source="twitter.com/opera_ru" target="4pda.ru/2015/11/26/259820" weight="1" />
+      <edge id="235" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/11/7-funkciy-opera-dlya-legkogo-upravleniya-vkladkami" weight="1" />
+      <edge id="236" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/10/ozhivite-startovuyu-stranicu-opera" weight="1" />
+      <edge id="237" source="twitter.com/opera_ru" target="twitter.com/ru_lh/status/668806371060641792/photo/1" weight="1" />
+      <edge id="238" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/11/szhimayte-video-i-smotrite-bolshe-kontenta" weight="1" />
+      <edge id="239" source="twitter.com/opera_ru" target="gleam.io/2C8Co/-opera-huawei-honor-7" weight="1" />
+      <edge id="240" source="twitter.com/opera_ru" target="youtube.com/watch?v=g5e2gQ7j7lU" weight="1" />
+      <edge id="241" source="twitter.com/opera_ru" target="softportal.com/software-12-opera.html" weight="1" />
+      <edge id="242" source="twitter.com/opera_ru" target="twitter.com/4pdaru/status/669788125053493248/photo/1" weight="1" />
+      <edge id="243" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/11/kak-rabotaet-tehnologiya-kompressii" weight="1" />
+      <edge id="244" source="twitter.com/opera_ru" target="blogs.opera.com/russia" weight="1" />
+      <edge id="245" source="twitter.com/opera_ru" target="lifehacker.ru/2015/11/23/opera-max" weight="1" />
+      <edge id="246" source="twitter.com/opera_ru" target="britishdesign.ru/masterclasses/m?id=472" weight="1" />
+      <edge id="247" source="twitter.com/opera_ru" target="twitter.com/mikzaitsev/status/668755949675524096/photo/1" weight="1" />
+      <edge id="248" source="twitter.com/opera_ru" target="blogs.opera.com/russia/2015/09/rashireniya-klaviatury-v-opera-dlya-windows-phone" weight="1" />
+      <edge id="249" source="twitter.com/opera_ru" target="twitter.com/opera_ru/status/649477702764920832/photo/1" weight="1" />
+      <edge id="250" source="twitter.com/opera_ru" target="play.google.com/store/apps/details?id=com.opera.max.global" weight="1" />
+      <edge id="251" source="twitter.com/opera_ru" target="twitter.com/opera_ru/status/651054080765349888/photo/1" weight="1" />
+      <edge id="252" source="twitter.com/opera_ru" target="androidinsider.ru/soft/opera-browser-prostoy-i-udobnyiy.html?utm_medium=twitter&amp;utm_source=dlvr.it" weight="1" />
+      <edge id="253" source="windowsphone.com/en-us/how-to/wp8" target="microsoft.com/en-us/WindowsForBusiness" weight="1" />
+      <edge id="254" source="windowsphone.com/en-us/how-to/wp8" target="windows.microsoft.com/en-us/windows-10/support-mobile?ocid=wpcom_nav" weight="1" />
+      <edge id="255" source="windowsphone.com/en-us/how-to/wp8" target="support.office.com/en-us/article/Facebook-Connect-is-no-longer-available-f31c8107-7b5a-4e3d-8a22-e506dacb6db6?ad=US&amp;rs=en-001&amp;ui=en-US" weight="1" />
+      <edge id="256" source="windowsphone.com/en-us/how-to/wp8" target="microsoft.com/en-us" weight="2" />
+      <edge id="257" source="windowsphone.com/en-us/how-to/wp8" target="twitter.com/windowsphone" weight="1" />
+      <edge id="258" source="windowsphone.com/en-us/how-to/wp8" target="microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx?clcid=0x409" weight="1" />
+      <edge id="259" source="windowsphone.com/en-us/how-to/wp8" target="windows.microsoft.com/en-us/windows-10/how-to-get-windows-10-mobile" weight="1" />
+      <edge id="260" source="windowsphone.com/en-us/how-to/wp8" target="windowsphone.com/en-us/how-to/wp8/basics/feature-and-service-availability" weight="1" />
+      <edge id="261" source="windowsphone.com/en-us/how-to/wp8" target="microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" weight="1" />
+      <edge id="262" source="windowsphone.com/en-us/how-to/wp8" target="microsoft.com/en-us/privacystatement/default.aspx" weight="1" />
+      <edge id="263" source="facebook.com/opera?_rdr=p" target="messenger.com" weight="1" />
+      <edge id="264" source="itunes.apple.com/us/app/chrome/id535886823" target="icloud.com" weight="1" />
+      <edge id="265" source="itunes.apple.com/us/app/chrome/id535886823" target="support.google.com/chrome/answer/2393487?hl=en&amp;p=ios_help&amp;rd=2" weight="1" />
+      <edge id="266" source="itunes.apple.com/us/app/chrome/id535886823" target="twitter.com/iTunes" weight="1" />
+      <edge id="267" source="itunes.apple.com/us/app/chrome/id535886823" target="twitter.com/AppStore" weight="1" />
+      <edge id="268" source="dom2.ru" target="facebook.com/dom2.tnt" weight="1" />
+      <edge id="269" source="dom2.ru" target="m.vk.com/dom2" weight="1" />
+      <edge id="270" source="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" target="icloud.com" weight="1" />
+      <edge id="271" source="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" target="support.mozilla.org/en-US/products/ios" weight="1" />
+      <edge id="272" source="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" target="twitter.com/iTunes" weight="1" />
+      <edge id="273" source="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" target="twitter.com/AppStore" weight="1" />
+      <edge id="274" source="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" target="mozilla.org/en-US/firefox/ios" weight="1" />
+      <edge id="275" source="play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org" target="developer.android.com/index.html" weight="1" />
+      <edge id="276" source="play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org" target="youtube.com?tab=81" weight="1" />
+      <edge id="277" source="flirt.by" target="balticdate.com/by" weight="1" />
+      <edge id="278" source="opera.com/ru/computer" target="oauth.vk.com/authorize?client_id=-1&amp;display=widget&amp;redirect_uri=http%3A%2F%2Fm.vk.com%2Fmain.php%3Fsubdir%3Dshare.php%26url%3Dhttp%253A%252F%252Fwww.opera.com%252Fru%252Fcomputer%252Fwindows" weight="1" />
+      <edge id="279" source="opera.com/ru/computer" target="m.vk.com/opera" weight="1" />
+      <edge id="280" source="opera.com/ru/computer" target="instagram.com/operabrowser" weight="1" />
+      <edge id="281" source="opera.com/ru/computer" target="operasoftware.com/content-partners" weight="1" />
+      <edge id="282" source="opera.com/ru/computer" target="twitter.com/opera_ru" weight="1" />
+      <edge id="283" source="opera.com/ru/computer" target="surfeasy.com/en" weight="1" />
+      <edge id="284" source="opera.com/ru/computer" target="operasoftware.com/press" weight="1" />
+      <edge id="285" source="opera.com/ru/computer" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="286" source="opera.com/ru/computer" target="operasoftware.com/opera-tv" weight="1" />
+      <edge id="287" source="opera.com/ru/computer" target="operasoftware.com/operators" weight="1" />
+      <edge id="288" source="opera.com/ru/computer" target="ok.ru/opera" weight="1" />
+      <edge id="289" source="opera.com/ru/computer" target="operasoftware.com/company/investors" weight="1" />
+      <edge id="290" source="opera.com/ru/computer" target="operamediaworks.com" weight="1" />
+      <edge id="291" source="news.sportbox.ru" target="samsung.com/ru/samsung-tv-apps" weight="1" />
+      <edge id="292" source="news.sportbox.ru" target="gmbox.ru/jade-empire/igru-bioware-besplatno-razdali-klientam-origin" weight="1" />
+      <edge id="293" source="news.sportbox.ru" target="gmbox.ru/street-fighter-5/u-street-fighter-5-budet-tretiy-etap-beta-testirovaniya" weight="1" />
+      <edge id="294" source="news.sportbox.ru" target="microsoft.com/en-us/store/apps/sportboxru/9wzdncrdf8k5" weight="1" />
+      <edge id="295" source="news.sportbox.ru" target="xbox.com/ru-RU/entertainment/xbox-one/live-apps/sportbox" weight="1" />
+      <edge id="296" source="news.sportbox.ru" target="gmbox.ru/chivalry-medieval-warfare/sostoyalsya-reliz-chivalry-medieval-warfare-na-sovremennyh-konsolyah" weight="1" />
+      <edge id="297" source="news.sportbox.ru" target="play.google.com/store/apps/details?feature=nav_result&amp;id=air.ru.sportbox.sportboxmobile" weight="1" />
+      <edge id="298" source="news.sportbox.ru" target="itunes.apple.com/ru/app/sportboks-sportbox.ru/id499018840" weight="1" />
+      <edge id="299" source="news.sportbox.ru" target="gmbox.ru/dirt-rally/poslednyaya-igra-serii-dirt-pereedet-na-sovremennye-konsoli" weight="1" />
+      <edge id="300" source="news.sportbox.ru" target="gmbox.ru" weight="1" />
+      <edge id="301" source="news.sportbox.ru" target="gmbox.ru/just-cause-3/just-cause-3-v-pryamom-efire" weight="1" />
+      <edge id="302" source="news.sportbox.ru" target="gmbox.ru/kings-quest/vtoraya-glava-kings-quest-vyydet-do-konca-goda" weight="1" />
+      <edge id="303" source="news.sportbox.ru" target="gmbox.ru/grand-theft-auto-san-andreas/grand-theft-auto-san-andreas-obzavelis-cifrovoy-versiey" weight="1" />
+      <edge id="304" source="news.sportbox.ru" target="ru.lgappstv.com/appspc/store/product/retrieveProductInfo.lge?appId=123792&amp;dummy=all" weight="1" />
+      <edge id="305" source="news.sportbox.ru" target="gmbox.ru/rocket-league/spisok-platform-dlya-rocket-league-rasshiryat-za-schet-xbox-one" weight="1" />
+      <edge id="306" source="news.sportbox.ru" target="gmbox.ru/shadow-complex/priklyuchencheskiy-ekshen-ot-epic-games-adaptiruyut-dlya-pc" weight="1" />
+      <edge id="307" source="news.sportbox.ru" target="gmbox.ru/platform/pc/geymeram-predlozhili-profinansirovat-retro-fayting" weight="1" />
+      <edge id="308" source="news.sportbox.ru" target="top100.rambler.ru/navi?page=1&amp;pageCount=30&amp;resourceId=1175640&amp;stat=0&amp;theme=604&amp;view=short" weight="1" />
+      <edge id="309" source="news.sportbox.ru" target="liveinternet.ru" weight="1" />
+      <edge id="310" source="operasoftware.com/operators" target="operasoftware.com/company/jobs/list" weight="1" />
+      <edge id="311" source="operasoftware.com/operators" target="youtube.com/opera" weight="1" />
+      <edge id="312" source="operasoftware.com/operators" target="opera.com/terms" weight="1" />
+      <edge id="313" source="operasoftware.com/operators" target="operamediaworks.com" weight="1" />
+      <edge id="314" source="operasoftware.com/operators" target="html5.oms.apps.opera.com/en_us" weight="1" />
+      <edge id="315" source="operasoftware.com/operators" target="dev.opera.com" weight="1" />
+      <edge id="316" source="operasoftware.com/operators" target="opera.com/tablet" weight="1" />
+      <edge id="317" source="operasoftware.com/operators" target="addons.opera.com/en" weight="1" />
+      <edge id="318" source="operasoftware.com/operators" target="opera.com/mobile" weight="1" />
+      <edge id="319" source="operasoftware.com/operators" target="blogs.opera.com" weight="1" />
+      <edge id="320" source="operasoftware.com/operators" target="twitter.com/opera" weight="1" />
+      <edge id="321" source="operasoftware.com/operators" target="opera.com/help" weight="1" />
+      <edge id="322" source="operasoftware.com/operators" target="facebook.com/opera?_rdr=p" weight="1" />
+      <edge id="323" source="operasoftware.com/operators" target="linkedin.com/company/opera-software" weight="1" />
+      <edge id="324" source="operasoftware.com/operators" target="opera.com/computer" weight="1" />
+      <edge id="325" source="operasoftware.com/operators" target="instagram.com/operabrowser" weight="1" />
+      <edge id="326" source="operasoftware.com/operators" target="opera.com/developer" weight="1" />
+      <edge id="327" source="operasoftware.com/operators" target="opera.com/computer/beta" weight="1" />
+      <edge id="328" source="operasoftware.com/operators" target="opera.com/privacy" weight="1" />
+      <edge id="329" source="operasoftware.com/operators" target="opera.com/about" weight="1" />
+      <edge id="330" source="cosmo.ru" target="shop.imedia.ru/cosmo-beauty" weight="1" />
+      <edge id="331" source="cosmo.ru" target="shop.imedia.ru/cosmopolitan" weight="1" />
+      <edge id="332" source="cosmo.ru" target="itunes.apple.com/ru/app/cosmopolitan-russia/id387618236" weight="1" />
+      <edge id="333" source="cosmo.ru" target="liveinternet.ru" weight="1" />
+      <edge id="334" source="cosmo.ru" target="shop.imedia.ru/cosmo-shopping" weight="1" />
+      <edge id="335" source="cosmo.ru" target="twitter.com/cosmopolitanrus" weight="1" />
+      <edge id="336" source="cosmo.ru" target="facebook.com/CosmopolitanRussia" weight="1" />
+      <edge id="337" source="cosmo.ru" target="m.vk.com/cosmopolitan" weight="1" />
+      <edge id="338" source="cosmo.ru" target="play.google.com/store/newsstand/details/Cosmopolitan_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F?id=CAow_6yeCQ" weight="1" />
+      <edge id="339" source="mozilla.org/ru/firefox/new" target="play.google.com/store/apps/details?id=org.mozilla.firefox&amp;referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org" weight="1" />
+      <edge id="340" source="mozilla.org/ru/firefox/new" target="itunes.apple.com/app/apple-store/id989804926?mt=8" weight="2" />
+      <edge id="341" source="mozilla.org/ru/firefox/new" target="itunes.apple.com/app/apple-store/id989804926?mt=8&amp;pt=373246" weight="1" />
+      <edge id="342" source="loveplaneta.by" target="connect.ok.ru/dk?st.cmd=OAuth2Login&amp;st.redirect=%252Fdk%253Fst.cmd%253DOAuth2Permissions%2526amp%253Bst.scope%253DVALUABLE%252BACCESS%2526amp%253Bst.response_type%253Dcode%2526amp%253Bst.show_permissions%253Doff%2526amp%253Bst.redirect_uri%253Dhttp%25253A%25252F%25252Floveplanet.ru%25252Fa-oauth%25252Fosys-6%25253Frefer%25253DaG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%25253D%25253D%2526amp%253Bst.client_id%253D3496704" weight="1" />
+      <edge id="343" source="loveplaneta.by" target="mozilla.org/ru/firefox/new" weight="1" />
+      <edge id="344" source="loveplaneta.by" target="opera.com/ru/computer" weight="1" />
+      <edge id="345" source="loveplaneta.by" target="windows.microsoft.com/ru-ru/internet-explorer/download-ie" weight="1" />
+      <edge id="346" source="loveplaneta.by" target="oauth.vk.com/authorize?client_id=4552413&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-3%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code&amp;scope=notify%2Cfriends%2Cwall%2Cemail" weight="1" />
+      <edge id="347" source="loveplaneta.by" target="connect.mail.ru/oauth/authorize?client_id=637589&amp;redirect_uri=http%3A%2F%2Floveplanet.ru%2Fa-oauth%2Fosys-5%2Frefer-aG9zdD1odHRwOi8vbG92ZXBsYW5ldGEuYnkvJnBhdGg9cG9sLTEvc3BvbC0yL2NvdW50cnktMjQ4Lw%3D%3D&amp;response_type=code" weight="1" />
+      <edge id="348" source="loveplaneta.by" target="lp-partners.ru" weight="1" />
+      <edge id="349" source="loveplaneta.by" target="google.com/chrome/browser/desktop/index.html" weight="1" />
+    </edges>
+  </graph>
+</gexf>
